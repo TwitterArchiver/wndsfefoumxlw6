@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2066526782606746086",
+    "created_at": "2026-06-15T14:22:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T15:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066526782606746086"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/momoGZ0412/sta…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/momoGZ0412/status/2066387076128608706",
+          "start": 15,
+          "url": "https://t.co/UtdNiG6mbK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066526782606746086",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066387076128608706",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "温暖的余额被抽走了能不生气吗 https://t.co/UtdNiG6mbK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 50366,
+        "height": 1168,
+        "media_key": "13_2066386969819860992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066386969819860992/img/Y9s_1DCrD7bY2yOS.jpg",
+        "public_metrics": {
+          "view_count": 277916
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066386969819860992/vid/avc1/320x568/jYft-goMAsO6r1xC.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066386969819860992/vid/avc1/480x854/bb3DuoEOsO9Srzsu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066386969819860992/vid/avc1/656x1168/REST6eMUPv_DCj5j.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066386969819860992/pl/qhkoXU16_nMZoLX1.m3u8?v=cfc"
+          }
+        ],
+        "width": 656
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2066526782606746086",
+        "created_at": "2026-06-15T14:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066526782606746086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/momoGZ0412/sta…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/momoGZ0412/status/2066387076128608706",
+              "start": 15,
+              "url": "https://t.co/UtdNiG6mbK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066526782606746086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066387076128608706",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "温暖的余额被抽走了能不生气吗 https://t.co/UtdNiG6mbK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066386969819860992"
+          ]
+        },
+        "author_id": "868887840230330368",
+        "conversation_id": "2066387076128608706",
+        "created_at": "2026-06-15T05:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T06:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066387076128608706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CaW2D7llUK",
+              "end": 124,
+              "expanded_url": "https://x.com/momoGZ0412/status/2066387076128608706/video/1",
+              "media_key": "13_2066386969819860992",
+              "start": 101,
+              "url": "https://t.co/CaW2D7llUK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066387076128608706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 126,
+          "impression_count": 458593,
+          "like_count": 448,
+          "quote_count": 5,
+          "reply_count": 154,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "一女子在商场要跳楼，家人在旁边拉扯劝阻，路人男好心把跳楼女脚下凳子抽走了。女孩就够不着栏杆了。然而这才是悲剧的开始，女孩全家都来找好心路人男的麻烦！现在的好人真的做不得，社会的冷漠就是这样的人造就的！ https://t.co/CaW2D7llUK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962欢迎互fo🐱电子烟代➕vx：c313s852j0976或私信（无上头）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛洛（烟代版）",
+        "pinned_tweet_id": "2065465722890014753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 62,
+          "like_count": 786,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 510
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      },
+      {
+        "created_at": "2017-05-28T17:52:59.000Z",
+        "description": "别人都假装正经，我只有假装不正经。",
+        "id": "868887840230330368",
+        "location": "Paris, France",
+        "name": "默默",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996847012906717184/fVYoKJaa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76005,
+          "following_count": 6313,
+          "like_count": 163447,
+          "listed_count": 207,
+          "media_count": 7562,
+          "tweet_count": 23534
+        },
+        "username": "momoGZ0412",
+        "verified": true
+      }
+    ]
+  }
+}

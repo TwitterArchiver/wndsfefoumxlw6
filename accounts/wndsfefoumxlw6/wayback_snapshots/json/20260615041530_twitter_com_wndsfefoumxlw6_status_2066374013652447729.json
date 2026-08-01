@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2066109479855530183",
+    "created_at": "2026-06-15T04:15:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T05:15:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066374013652447729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1811888010088316932",
+          "start": 0,
+          "username": "cuichenghao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066374013652447729",
+    "in_reply_to_user_id": "1811888010088316932",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066109479855530183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cuichenghao 谁家保安队长"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12000,
+        "height": 1792,
+        "media_key": "13_2066109394811834368",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066109394811834368/img/gdCEXIFuSXzfGizF.jpg",
+        "public_metrics": {
+          "view_count": 144678
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066109394811834368/vid/avc1/1080x1792/-uO2Ou4SF9a4igKG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066109394811834368/vid/avc1/720x1194/AvuXMMK3cx80fkki.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066109394811834368/pl/emM4So67Fu_eDVQf.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066109394811834368/vid/avc1/320x530/w7_OH753Zt1Mc5W8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066109394811834368/vid/avc1/480x796/nxo-SI7m_dtYMl-O.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2066109479855530183",
+        "created_at": "2026-06-15T04:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066374013652447729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1811888010088316932",
+              "start": 0,
+              "username": "cuichenghao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066374013652447729",
+        "in_reply_to_user_id": "1811888010088316932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066109479855530183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cuichenghao 谁家保安队长"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066109394811834368"
+          ]
+        },
+        "author_id": "1811888010088316932",
+        "conversation_id": "2066109479855530183",
+        "created_at": "2026-06-14T10:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066109479855530183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CqhicvId1d",
+              "end": 73,
+              "expanded_url": "https://x.com/cuichenghao/status/2066109479855530183/video/1",
+              "media_key": "13_2066109394811834368",
+              "start": 50,
+              "url": "https://t.co/CqhicvId1d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066109479855530183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 253725,
+          "like_count": 755,
+          "quote_count": 12,
+          "reply_count": 461,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "一内地退伍兵展示军事训练技艺，称若有战，招必回。网友建议有关部门，抓紧关注退伍老兵的精神问题。🤣🤣 https://t.co/CqhicvId1d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962欢迎互fo🐱电子烟代➕vx：c313s852j0976或私信（无上头）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛洛（烟代版）",
+        "pinned_tweet_id": "2065465722890014753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 58,
+          "like_count": 721,
+          "listed_count": 2,
+          "media_count": 111,
+          "tweet_count": 471
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T22:19:15.000Z",
+        "description": "心系平壤，从未离开。Heart in Pyongyang ,never left.",
+        "id": "1811888010088316932",
+        "location": "Kyoto",
+        "name": "作家崔成浩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926255631092092928/w0e8RIvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109942,
+          "following_count": 759,
+          "like_count": 8513,
+          "listed_count": 352,
+          "media_count": 4914,
+          "tweet_count": 5157
+        },
+        "username": "cuichenghao",
+        "verified": true
+      }
+    ]
+  }
+}

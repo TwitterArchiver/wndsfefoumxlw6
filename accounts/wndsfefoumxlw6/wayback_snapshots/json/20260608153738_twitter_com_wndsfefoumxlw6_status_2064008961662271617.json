@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064008947829477376"
+      ]
+    },
+    "author_id": "2059149411007991808",
+    "conversation_id": "2064008961662271617",
+    "created_at": "2026-06-08T15:37:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T16:37:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064008961662271617"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 21,
+          "tag": "电子烟"
+        },
+        {
+          "end": 28,
+          "start": 26,
+          "tag": "崧"
+        },
+        {
+          "end": 34,
+          "start": 29,
+          "tag": "悦刻5代"
+        },
+        {
+          "end": 40,
+          "start": 35,
+          "tag": "悦刻幻影"
+        },
+        {
+          "end": 47,
+          "start": 41,
+          "tag": "悦刻原装弹"
+        },
+        {
+          "end": 53,
+          "start": 48,
+          "tag": "悦刻原装"
+        },
+        {
+          "end": 57,
+          "start": 54,
+          "tag": "果味"
+        },
+        {
+          "end": 62,
+          "start": 58,
+          "tag": "水果味"
+        },
+        {
+          "end": 69,
+          "start": 63,
+          "tag": "水果味烟弹"
+        },
+        {
+          "end": 74,
+          "start": 70,
+          "tag": "电子烟"
+        },
+        {
+          "end": 82,
+          "start": 75,
+          "tag": "一次性电子烟"
+        },
+        {
+          "end": 86,
+          "start": 83,
+          "tag": "烟弹"
+        },
+        {
+          "end": 91,
+          "start": 87,
+          "tag": "鸭嘴兽"
+        },
+        {
+          "end": 96,
+          "start": 93,
+          "tag": "平替"
+        },
+        {
+          "end": 103,
+          "start": 97,
+          "tag": "悦刻通配弹"
+        },
+        {
+          "end": 111,
+          "start": 104,
+          "tag": "悦刻英文烟弹"
+        },
+        {
+          "end": 117,
+          "start": 112,
+          "tag": "RELX"
+        },
+        {
+          "end": 123,
+          "start": 118,
+          "tag": "zoar"
+        },
+        {
+          "end": 127,
+          "start": 124,
+          "tag": "高维"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zlCvHntj88",
+          "end": 151,
+          "expanded_url": "https://x.com/wndsfefoumxlw6/status/2064008961662271617/photo/1",
+          "media_key": "3_2064008947829477376",
+          "start": 128,
+          "url": "https://t.co/zlCvHntj88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064008961662271617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有没有宝宝找我买电子烟喵各种各样都有🐱\n\n#电子烟 #崧 #悦刻5代 #悦刻幻影 #悦刻原装弹 #悦刻原装 #果味 #水果味 #水果味烟弹 #电子烟 #一次性电子烟 #烟弹 #鸭嘴兽  #平替 #悦刻通配弹 #悦刻英文烟弹 #RELX #zoar #高维 https://t.co/zlCvHntj88"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2064008947829477376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTVM9SakAAxSAv.jpg",
+        "width": 757
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064008947829477376"
+          ]
+        },
+        "author_id": "2059149411007991808",
+        "conversation_id": "2064008961662271617",
+        "created_at": "2026-06-08T15:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064008961662271617"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "电子烟"
+            },
+            {
+              "end": 28,
+              "start": 26,
+              "tag": "崧"
+            },
+            {
+              "end": 34,
+              "start": 29,
+              "tag": "悦刻5代"
+            },
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "悦刻幻影"
+            },
+            {
+              "end": 47,
+              "start": 41,
+              "tag": "悦刻原装弹"
+            },
+            {
+              "end": 53,
+              "start": 48,
+              "tag": "悦刻原装"
+            },
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "果味"
+            },
+            {
+              "end": 62,
+              "start": 58,
+              "tag": "水果味"
+            },
+            {
+              "end": 69,
+              "start": 63,
+              "tag": "水果味烟弹"
+            },
+            {
+              "end": 74,
+              "start": 70,
+              "tag": "电子烟"
+            },
+            {
+              "end": 82,
+              "start": 75,
+              "tag": "一次性电子烟"
+            },
+            {
+              "end": 86,
+              "start": 83,
+              "tag": "烟弹"
+            },
+            {
+              "end": 91,
+              "start": 87,
+              "tag": "鸭嘴兽"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "平替"
+            },
+            {
+              "end": 103,
+              "start": 97,
+              "tag": "悦刻通配弹"
+            },
+            {
+              "end": 111,
+              "start": 104,
+              "tag": "悦刻英文烟弹"
+            },
+            {
+              "end": 117,
+              "start": 112,
+              "tag": "RELX"
+            },
+            {
+              "end": 123,
+              "start": 118,
+              "tag": "zoar"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "高维"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zlCvHntj88",
+              "end": 151,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2064008961662271617/photo/1",
+              "media_key": "3_2064008947829477376",
+              "start": 128,
+              "url": "https://t.co/zlCvHntj88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064008961662271617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有宝宝找我买电子烟喵各种各样都有🐱\n\n#电子烟 #崧 #悦刻5代 #悦刻幻影 #悦刻原装弹 #悦刻原装 #果味 #水果味 #水果味烟弹 #电子烟 #一次性电子烟 #烟弹 #鸭嘴兽  #平替 #悦刻通配弹 #悦刻英文烟弹 #RELX #zoar #高维 https://t.co/zlCvHntj88"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962欢迎互fo🐱电子烟代➕vx：c313s852j0976或私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛3.0（烟代版）",
+        "pinned_tweet_id": "2061009751287463964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 41,
+          "like_count": 287,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 196
+        },
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      }
+    ]
+  }
+}

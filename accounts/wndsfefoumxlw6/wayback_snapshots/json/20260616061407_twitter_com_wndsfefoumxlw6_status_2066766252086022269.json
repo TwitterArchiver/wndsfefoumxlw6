@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2066766252086022269",
+    "created_at": "2026-06-16T06:14:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T07:14:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066766252086022269"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/konwakubot/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/konwakubot/status/2066467376699515174",
+          "start": 4,
+          "url": "https://t.co/FFriX8yGKs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066766252086022269",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066467376699515174",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "特朗普 https://t.co/FFriX8yGKs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 694,
+        "media_key": "3_2066467372840677376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2RIIIacAAGx5N.jpg",
+        "width": 827
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2066766252086022269",
+        "created_at": "2026-06-16T06:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T07:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066766252086022269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/konwakubot/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/konwakubot/status/2066467376699515174",
+              "start": 4,
+              "url": "https://t.co/FFriX8yGKs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066766252086022269",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066467376699515174",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "特朗普 https://t.co/FFriX8yGKs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066467372840677376"
+          ]
+        },
+        "author_id": "3255424380",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2066467376699515174",
+        "created_at": "2026-06-15T10:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T11:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066467376699515174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wNjiSLCmX6",
+              "end": 58,
+              "expanded_url": "https://x.com/konwakubot/status/2066467376699515174/photo/1",
+              "media_key": "3_2066467372840677376",
+              "start": 35,
+              "url": "https://t.co/wNjiSLCmX6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066467376699515174",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1158,
+          "impression_count": 5720164,
+          "like_count": 10000,
+          "quote_count": 3481,
+          "reply_count": 3843,
+          "retweet_count": 599
+        },
+        "reply_settings": "everyone",
+        "text": "もし右脳派なら、クジラが見えます。もし左脳派なら、キリンが見えます。 https://t.co/wNjiSLCmX6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962欢迎互fo🐱电子烟代➕vx：c313s852j0976或私信（无上头）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛洛（烟代版）",
+        "pinned_tweet_id": "2065465722890014753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 63,
+          "like_count": 805,
+          "listed_count": 2,
+          "media_count": 117,
+          "tweet_count": 519
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      },
+      {
+        "created_at": "2015-06-25T09:41:44.000Z",
+        "description": "毎日一瞬困惑するような投稿をします。何が何だかわからない…。【もっと困惑するのはこっち👉＠iglavabwa1971 ＠WayneeRapLike】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 44,
+                "username": "iglavabwa1971"
+              },
+              {
+                "end": 73,
+                "start": 59,
+                "username": "WayneeRapLike"
+              }
+            ]
+          }
+        },
+        "id": "3255424380",
+        "location": "※困惑する画像・その他ご要望はDMまで（スパムで埋もれる事あ",
+        "name": "困惑bot",
+        "pinned_tweet_id": "1902315363154481422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741247483198701568/troUyggh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182021,
+          "following_count": 453,
+          "like_count": 71416,
+          "listed_count": 338,
+          "media_count": 38,
+          "tweet_count": 107
+        },
+        "username": "konwakubot",
+        "verified": true
+      }
+    ]
+  }
+}

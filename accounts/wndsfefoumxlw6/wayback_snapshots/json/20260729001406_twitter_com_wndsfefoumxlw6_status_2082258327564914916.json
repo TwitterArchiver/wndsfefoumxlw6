@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2082068941342707922",
+    "created_at": "2026-07-29T00:14:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T01:14:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082258327564914916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1952660732132425728",
+          "start": 0,
+          "username": "Dead8964line"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082258327564914916",
+    "in_reply_to_user_id": "1952660732132425728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082155483625083356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dead8964line 来呀来呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2082068941342707922",
+        "created_at": "2026-07-29T00:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T01:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082258327564914916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1952660732132425728",
+              "start": 0,
+              "username": "Dead8964line"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082258327564914916",
+        "in_reply_to_user_id": "1952660732132425728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082155483625083356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dead8964line 来呀来呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952660732132425728",
+        "conversation_id": "2082068941342707922",
+        "created_at": "2026-07-28T17:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T18:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082155483625083356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059149411007991808",
+              "start": 0,
+              "username": "wndsfefoumxlw6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082155483625083356",
+        "in_reply_to_user_id": "2059149411007991808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082068941342707922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wndsfefoumxlw6 申請🚶🚶..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/避难所：@yu_fatai 电子烟需要的私信我 vx：c313s852j0976（无上头，再问死全家）接刷粉\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "yu_fatai"
+              },
+              {
+                "end": 84,
+                "start": 68,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 112,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 89,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1132,
+          "following_count": 169,
+          "like_count": 4980,
+          "listed_count": 3,
+          "media_count": 334,
+          "tweet_count": 2341
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-05T09:19:39.000Z",
+        "description": "=死线｜LGBTQ+友好｜💛🤍💜🖤｜thay/them｜直fo就是喜欢你｜同类互fo｜没回关可能是msk吞消息了",
+        "id": "1952660732132425728",
+        "location": "ᴡᴇᴇᴘ ᴀɴᴅ ɢʀᴏᴀɴ ᴡɪᴛʜ ᴍᴇ",
+        "name": "Deadline",
+        "pinned_tweet_id": "2074555042619953622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057060785277542400/AxyLzl8w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 74,
+          "like_count": 953,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 459
+        },
+        "url": "",
+        "username": "Dead8964line",
+        "verified": false
+      }
+    ]
+  }
+}

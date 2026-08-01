@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070905893496266752"
+      ]
+    },
+    "author_id": "2059149411007991808",
+    "conversation_id": "2070906047880155365",
+    "created_at": "2026-06-27T16:24:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T17:24:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070906047880155365"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8ODpYT36lK",
+          "end": 43,
+          "expanded_url": "https://x.com/wndsfefoumxlw6/status/2070906047880155365/photo/1",
+          "media_key": "3_2070905893496266752",
+          "start": 20,
+          "url": "https://t.co/8ODpYT36lK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070906047880155365",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天通宵明天坐车喽，在车上美美睡一觉😼 https://t.co/8ODpYT36lK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070905893496266752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL1V8CEboAACSbf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070905893496266752"
+          ]
+        },
+        "author_id": "2059149411007991808",
+        "conversation_id": "2070906047880155365",
+        "created_at": "2026-06-27T16:24:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T17:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070906047880155365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8ODpYT36lK",
+              "end": 43,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2070906047880155365/photo/1",
+              "media_key": "3_2070905893496266752",
+              "start": 20,
+              "url": "https://t.co/8ODpYT36lK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070906047880155365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天通宵明天坐车喽，在车上美美睡一觉😼 https://t.co/8ODpYT36lK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/戒割 前世@RfbxaUauj41685 @rednightmare962 欢迎互fo🐱电子烟需要的私信我\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 91,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 68,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 130,
+          "like_count": 2094,
+          "listed_count": 3,
+          "media_count": 220,
+          "tweet_count": 1252
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      }
+    ]
+  }
+}

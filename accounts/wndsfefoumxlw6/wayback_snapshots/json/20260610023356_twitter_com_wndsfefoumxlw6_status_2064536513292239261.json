@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064536462167773184"
+      ]
+    },
+    "author_id": "2059149411007991808",
+    "conversation_id": "2064536513292239261",
+    "created_at": "2026-06-10T02:33:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T03:33:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064536513292239261"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wUfekxXsEI",
+          "end": 28,
+          "expanded_url": "https://x.com/wndsfefoumxlw6/status/2064536513292239261/photo/1",
+          "media_key": "3_2064536462167773184",
+          "start": 5,
+          "url": "https://t.co/wUfekxXsEI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064536513292239261",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老师：？ https://t.co/wUfekxXsEI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 425,
+        "media_key": "3_2064536462167773184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKa0-VVaEAA0kAQ.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064536462167773184"
+          ]
+        },
+        "author_id": "2059149411007991808",
+        "conversation_id": "2064536513292239261",
+        "created_at": "2026-06-10T02:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T03:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064536513292239261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wUfekxXsEI",
+              "end": 28,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2064536513292239261/photo/1",
+              "media_key": "3_2064536462167773184",
+              "start": 5,
+              "url": "https://t.co/wUfekxXsEI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064536513292239261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老师：？ https://t.co/wUfekxXsEI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962欢迎互fo🐱电子烟代➕vx：c313s852j0976或私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛3.0（烟代版）",
+        "pinned_tweet_id": "2061009751287463964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 43,
+          "like_count": 414,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 282
+        },
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      }
+    ]
+  }
+}

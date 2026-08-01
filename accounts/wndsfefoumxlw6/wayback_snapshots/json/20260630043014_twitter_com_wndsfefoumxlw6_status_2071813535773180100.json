@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2071538754658189593",
+    "created_at": "2026-06-30T04:30:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T05:30:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071813535773180100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2057425772198215680",
+          "start": 0,
+          "username": "boqiaoahm4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071813535773180100",
+    "in_reply_to_user_id": "2057425772198215680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071538754658189593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boqiaoahm4 p2是舌头吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2071538743300022272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-VgvTbYAABMcm.jpg",
+        "width": 828
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2071538743333584897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-VgvbbgAEn5_z.jpg",
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071538743325167616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-VgvZbEAA_bLo.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2071538743325126656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-VgvZacAAJcbe.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2071538754658189593",
+        "created_at": "2026-06-30T04:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T05:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071813535773180100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071813535773180100",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071538754658189593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 p2是舌头吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071538743300022272",
+            "3_2071538743333584897",
+            "3_2071538743325167616",
+            "3_2071538743325126656"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2071538754658189593",
+        "created_at": "2026-06-29T10:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T11:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071538754658189593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AEUvKN4ytN",
+              "end": 23,
+              "expanded_url": "https://x.com/boqiaoahm4/status/2071538754658189593/photo/1",
+              "media_key": "3_2071538743300022272",
+              "start": 0,
+              "url": "https://t.co/AEUvKN4ytN"
+            },
+            {
+              "display_url": "pic.x.com/AEUvKN4ytN",
+              "end": 23,
+              "expanded_url": "https://x.com/boqiaoahm4/status/2071538754658189593/photo/1",
+              "media_key": "3_2071538743333584897",
+              "start": 0,
+              "url": "https://t.co/AEUvKN4ytN"
+            },
+            {
+              "display_url": "pic.x.com/AEUvKN4ytN",
+              "end": 23,
+              "expanded_url": "https://x.com/boqiaoahm4/status/2071538754658189593/photo/1",
+              "media_key": "3_2071538743325167616",
+              "start": 0,
+              "url": "https://t.co/AEUvKN4ytN"
+            },
+            {
+              "display_url": "pic.x.com/AEUvKN4ytN",
+              "end": 23,
+              "expanded_url": "https://x.com/boqiaoahm4/status/2071538754658189593/photo/1",
+              "media_key": "3_2071538743325126656",
+              "start": 0,
+              "url": "https://t.co/AEUvKN4ytN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071538754658189593",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 240,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AEUvKN4ytN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/戒割 前世@RfbxaUauj41685 @rednightmare962 欢迎互fo🐱电子烟需要的私信我\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 91,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 68,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 140,
+          "like_count": 2404,
+          "listed_count": 3,
+          "media_count": 235,
+          "tweet_count": 1362
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 414,
+          "like_count": 2946,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1831
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      }
+    ]
+  }
+}

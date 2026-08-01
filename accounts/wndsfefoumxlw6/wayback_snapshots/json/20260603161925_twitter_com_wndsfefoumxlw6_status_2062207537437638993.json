@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2062207537437638993",
+    "created_at": "2026-06-03T16:19:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T17:19:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062207537437638993"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wndsfefoumxlw6…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/wndsfefoumxlw6/status/2062184677369323919",
+          "start": 21,
+          "url": "https://t.co/DhVAcf84qZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062207537437638993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062184677369323919",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看来大号得断推一段时间了，压根不给流量啊 https://t.co/DhVAcf84qZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2062207537437638993",
+        "created_at": "2026-06-03T16:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T17:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062207537437638993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wndsfefoumxlw6…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/wndsfefoumxlw6/status/2062184677369323919",
+              "start": 21,
+              "url": "https://t.co/DhVAcf84qZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062207537437638993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062184677369323919",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看来大号得断推一段时间了，压根不给流量啊 https://t.co/DhVAcf84qZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2062184677369323919",
+        "created_at": "2026-06-03T14:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T15:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062184677369323919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RfbxaUauj41685…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/RfbxaUauj41685/status/2062184315015033225",
+              "start": 18,
+              "url": "https://t.co/TxzZGm3IxB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062184677369323919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062184315015033225",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已解封\n所有人，去关注我大号！！！ https://t.co/TxzZGm3IxB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962欢迎互fo🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛3.0",
+        "pinned_tweet_id": "2061009751287463964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 38,
+          "like_count": 186,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 130
+        },
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      }
+    ]
+  }
+}

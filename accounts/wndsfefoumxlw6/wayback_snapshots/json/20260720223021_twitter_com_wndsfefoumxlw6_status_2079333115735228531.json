@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2079180175284298113",
+    "created_at": "2026-07-20T22:30:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T23:30:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079333115735228531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2051707585703952384",
+          "start": 0,
+          "username": "K1llTheSOul0827"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079333115735228531",
+    "in_reply_to_user_id": "2051707585703952384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079180175284298113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K1llTheSOul0827 好坏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079180166149046272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNq7WFtaAAA7_AA.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2079180175284298113",
+        "created_at": "2026-07-20T22:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T23:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079333115735228531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2051707585703952384",
+              "start": 0,
+              "username": "K1llTheSOul0827"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079333115735228531",
+        "in_reply_to_user_id": "2051707585703952384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079180175284298113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K1llTheSOul0827 好坏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079180166149046272"
+          ]
+        },
+        "author_id": "2051707585703952384",
+        "conversation_id": "2079180175284298113",
+        "created_at": "2026-07-20T12:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T13:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079180175284298113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WNQOZaCsxj",
+              "end": 32,
+              "expanded_url": "https://x.com/K1llTheSOul0827/status/2079180175284298113/photo/1",
+              "media_key": "3_2079180166149046272",
+              "start": 9,
+              "url": "https://t.co/WNQOZaCsxj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079180175284298113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 223,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "群众里面有坏人… https://t.co/WNQOZaCsxj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/ 前世@RfbxaUauj41685 @rednightmare962 避难所：@yu_fatai欢迎互fo🐱电子烟需要的私信我 vx：c313s852j0976（无上头）\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 45,
+                "start": 29,
+                "username": "rednightmare962"
+              },
+              {
+                "end": 59,
+                "start": 50,
+                "username": "yu_fatai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 124,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 101,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 159,
+          "like_count": 4100,
+          "listed_count": 3,
+          "media_count": 300,
+          "tweet_count": 1991
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-05T16:59:13.000Z",
+        "description": "09 \n158/42",
+        "id": "2051707585703952384",
+        "name": "LakeOftears",
+        "pinned_tweet_id": "2060368121006014805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051708701195767808/RiOlZD_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 917,
+          "following_count": 21,
+          "like_count": 378,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 215
+        },
+        "url": "",
+        "username": "K1llTheSOul0827",
+        "verified": false
+      }
+    ]
+  }
+}

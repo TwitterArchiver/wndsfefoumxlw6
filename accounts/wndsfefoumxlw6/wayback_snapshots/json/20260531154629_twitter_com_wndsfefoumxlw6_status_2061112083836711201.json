@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2061112083836711201",
+    "created_at": "2026-05-31T15:46:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T16:46:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061112083836711201"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ZwJYIJ3A069691…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/ZwJYIJ3A0696913/status/2060923570340127194",
+          "start": 18,
+          "url": "https://t.co/kFPgDAJ8sn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061112083836711201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060923570340127194",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你偷渡去美国说不定都比在中国打工好 https://t.co/kFPgDAJ8sn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2061112083836711201",
+        "created_at": "2026-05-31T15:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T16:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061112083836711201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ZwJYIJ3A069691…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/ZwJYIJ3A0696913/status/2060923570340127194",
+              "start": 18,
+              "url": "https://t.co/kFPgDAJ8sn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061112083836711201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060923570340127194",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你偷渡去美国说不定都比在中国打工好 https://t.co/kFPgDAJ8sn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028834540786167808",
+        "conversation_id": "2060923570340127194",
+        "created_at": "2026-05-31T03:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T04:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060923570340127194"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060923570340127194",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 131838,
+          "like_count": 287,
+          "quote_count": 15,
+          "reply_count": 844,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "え、、海外出稼ぎは中国がいいの？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛3.0",
+        "pinned_tweet_id": "2061087625868624215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 32,
+          "like_count": 73,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 49
+        },
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T14:07:16.000Z",
+        "description": "",
+        "id": "2028834540786167808",
+        "name": "みお",
+        "pinned_tweet_id": "2045411071486472512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034887414268010500/Sefwkzds_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 54,
+          "like_count": 972,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 208
+        },
+        "username": "ZwJYIJ3A0696913",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068339514142326784"
+      ]
+    },
+    "author_id": "2059149411007991808",
+    "conversation_id": "2068339834557702145",
+    "created_at": "2026-06-20T14:26:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T15:26:49.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068339794162414078",
+      "2068339834557702145"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 32,
+          "tag": "烟代"
+        },
+        {
+          "end": 39,
+          "start": 36,
+          "tag": "外烟"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eqXK02oAbq",
+          "end": 63,
+          "expanded_url": "https://x.com/wndsfefoumxlw6/status/2068339834557702145/photo/1",
+          "media_key": "3_2068339514142326784",
+          "start": 40,
+          "url": "https://t.co/eqXK02oAbq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068339834557702145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "返图来喽，因为是定金，下单59是尾款，你们可以完全信任这个洛洛\n#烟代 #外烟 https://t.co/eqXK02oAbq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1409,
+        "media_key": "3_2068339514142326784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQ31F9bgAAwX5n.jpg",
+        "width": 1230
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068339514142326784"
+          ]
+        },
+        "author_id": "2059149411007991808",
+        "conversation_id": "2068339794162414078",
+        "created_at": "2026-06-20T14:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:26:49.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068339794162414078",
+          "2068339834557702145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8XXCgEDTUB",
+              "end": 62,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2068339794162414078/photo/1",
+              "media_key": "3_2068339514142326784",
+              "start": 39,
+              "url": "https://t.co/8XXCgEDTUB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068339794162414078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "返图来喽，因为是定金，下单59是尾款，你们可以完全信任这个洛洛\n#烟代#外烟 https://t.co/8XXCgEDTUB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068339514142326784"
+          ]
+        },
+        "author_id": "2059149411007991808",
+        "conversation_id": "2068339834557702145",
+        "created_at": "2026-06-20T14:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:26:49.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068339794162414078",
+          "2068339834557702145"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "烟代"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "外烟"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eqXK02oAbq",
+              "end": 63,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2068339834557702145/photo/1",
+              "media_key": "3_2068339514142326784",
+              "start": 40,
+              "url": "https://t.co/eqXK02oAbq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068339834557702145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "返图来喽，因为是定金，下单59是尾款，你们可以完全信任这个洛洛\n#烟代 #外烟 https://t.co/eqXK02oAbq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962欢迎互fo🐱电子烟/外烟代➕vx：c313s852j0976或私信（无上头）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 75,
+          "like_count": 1123,
+          "listed_count": 2,
+          "media_count": 157,
+          "tweet_count": 745
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      }
+    ]
+  }
+}

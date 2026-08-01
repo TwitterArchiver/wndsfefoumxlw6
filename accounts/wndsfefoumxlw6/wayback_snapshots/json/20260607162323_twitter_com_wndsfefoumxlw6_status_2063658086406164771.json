@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063658066953076737",
+        "3_2063658066974027778"
+      ]
+    },
+    "author_id": "2059149411007991808",
+    "conversation_id": "2063658086406164771",
+    "created_at": "2026-06-07T16:23:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T17:23:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063658086406164771"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/soeDwrXPQP",
+          "end": 27,
+          "expanded_url": "https://x.com/wndsfefoumxlw6/status/2063658086406164771/photo/1",
+          "media_key": "3_2063658066953076737",
+          "start": 4,
+          "url": "https://t.co/soeDwrXPQP"
+        },
+        {
+          "display_url": "pic.x.com/soeDwrXPQP",
+          "end": 27,
+          "expanded_url": "https://x.com/wndsfefoumxlw6/status/2063658086406164771/photo/1",
+          "media_key": "3_2063658066974027778",
+          "start": 4,
+          "url": "https://t.co/soeDwrXPQP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063658086406164771",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唉…… https://t.co/soeDwrXPQP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2063658066953076737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOWFAKbgAEFlIX.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2800,
+        "media_key": "3_2063658066974027778",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOWFAPbMAIJI3B.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063658066953076737",
+            "3_2063658066974027778"
+          ]
+        },
+        "author_id": "2059149411007991808",
+        "conversation_id": "2063658086406164771",
+        "created_at": "2026-06-07T16:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063658086406164771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/soeDwrXPQP",
+              "end": 27,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2063658086406164771/photo/1",
+              "media_key": "3_2063658066953076737",
+              "start": 4,
+              "url": "https://t.co/soeDwrXPQP"
+            },
+            {
+              "display_url": "pic.x.com/soeDwrXPQP",
+              "end": 27,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2063658086406164771/photo/1",
+              "media_key": "3_2063658066974027778",
+              "start": 4,
+              "url": "https://t.co/soeDwrXPQP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063658086406164771",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉…… https://t.co/soeDwrXPQP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962欢迎互fo🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛3.0",
+        "pinned_tweet_id": "2061009751287463964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 38,
+          "like_count": 223,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 154
+        },
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      }
+    ]
+  }
+}

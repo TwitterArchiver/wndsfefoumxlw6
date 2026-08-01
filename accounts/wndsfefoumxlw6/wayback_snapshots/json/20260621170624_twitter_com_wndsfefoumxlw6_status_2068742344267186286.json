@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2068627262401065468",
+    "created_at": "2026-06-21T17:06:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T18:06:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068742344267186286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1842916455161249792",
+          "start": 0,
+          "username": "BetaVinyl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068742344267186286",
+    "in_reply_to_user_id": "1842916455161249792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068627262401065468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BetaVinyl 没有毛不是更好吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2068627262401065468",
+        "created_at": "2026-06-21T17:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T18:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068742344267186286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1842916455161249792",
+              "start": 0,
+              "username": "BetaVinyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068742344267186286",
+        "in_reply_to_user_id": "1842916455161249792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068627262401065468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BetaVinyl 没有毛不是更好吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842916455161249792",
+        "conversation_id": "2068627262401065468",
+        "created_at": "2026-06-21T09:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T10:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068627262401065468"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068627262401065468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 159002,
+          "like_count": 195,
+          "quote_count": 0,
+          "reply_count": 99,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求问各位 txl 刮了毛怎么去澡堂啊，刮了毛才想起来下周要和同学去澡堂😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19 前世@RfbxaUauj41685 @rednightmare962欢迎互fo🐱电子烟/外烟代➕vx：c313s852j0976或私信（无上头）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 41,
+                "start": 25,
+                "username": "rednightmare962"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068682569848336384/2iAb88Xx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 80,
+          "like_count": 1249,
+          "listed_count": 3,
+          "media_count": 170,
+          "tweet_count": 837
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-06T13:15:59.000Z",
+        "description": "@aqCuSO_4 @sCuSO_4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "aqCuSO_4"
+              },
+              {
+                "end": 18,
+                "start": 10,
+                "username": "sCuSO_4"
+              }
+            ]
+          }
+        },
+        "id": "1842916455161249792",
+        "location": "-18cm",
+        "name": "Vinyl Machine",
+        "pinned_tweet_id": "2023422902012719383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842918172166639616/7ubwyObp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 33,
+          "like_count": 929,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 367
+        },
+        "url": "",
+        "username": "BetaVinyl",
+        "verified": false
+      }
+    ]
+  }
+}

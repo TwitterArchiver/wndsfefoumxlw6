@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2064340461473747088",
+    "created_at": "2026-06-09T13:34:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T14:34:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064340461473747088"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SakurasakaRiko…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/SakurasakaRiko/status/2064259003384041665",
+          "start": 7,
+          "url": "https://t.co/cp4QoMEP2A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064340461473747088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064259003384041665",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还不如不要。 https://t.co/cp4QoMEP2A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2064258991677657088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKW4nbNaUAAi_xQ.jpg",
+        "width": 873
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2064340461473747088",
+        "created_at": "2026-06-09T13:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064340461473747088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SakurasakaRiko…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/SakurasakaRiko/status/2064259003384041665",
+              "start": 7,
+              "url": "https://t.co/cp4QoMEP2A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064340461473747088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064259003384041665",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还不如不要。 https://t.co/cp4QoMEP2A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064258991677657088"
+          ]
+        },
+        "author_id": "1735728536827334657",
+        "conversation_id": "2064259003384041665",
+        "created_at": "2026-06-09T08:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064259003384041665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mm9VbYM5mu",
+              "end": 41,
+              "expanded_url": "https://x.com/SakurasakaRiko/status/2064259003384041665/photo/1",
+              "media_key": "3_2064258991677657088",
+              "start": 18,
+              "url": "https://t.co/mm9VbYM5mu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064259003384041665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 237255,
+          "like_count": 645,
+          "quote_count": 7,
+          "reply_count": 117,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "好笑吗\n我只看到了个绝望的准大学生 https://t.co/mm9VbYM5mu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962欢迎互fo🐱电子烟代➕vx：c313s852j0976或私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛3.0（烟代版）",
+        "pinned_tweet_id": "2061009751287463964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 43,
+          "like_count": 384,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 266
+        },
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-15T18:28:33.000Z",
+        "description": "日本語🇯🇵/中文🇨🇳/EN🇺🇸🇬🇧 OK\n喜欢玩各种音游的普通玩家，数码设备爱好者\n maimai 樱桃堇晓橙白熊华超檄辉将持有，真神持有\n你可以称呼我为riko或者璃子\n全球各地旅游中，偶尔发发酒店评价\n⬛️🟨⬛️🟪⬛️🟨⬛️🟪⬛️🟨⬛️",
+        "id": "1735728536827334657",
+        "location": "Tokyo",
+        "name": "樱坂璃子Riko",
+        "pinned_tweet_id": "2045383031490560228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063885823553191936/2yMWRrzn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1219,
+          "following_count": 209,
+          "like_count": 4894,
+          "listed_count": 3,
+          "media_count": 192,
+          "tweet_count": 1603
+        },
+        "username": "SakurasakaRiko",
+        "verified": true
+      }
+    ]
+  }
+}

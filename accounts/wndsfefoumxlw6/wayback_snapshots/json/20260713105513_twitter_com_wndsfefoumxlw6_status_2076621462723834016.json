@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2076621462723834016",
+    "created_at": "2026-07-13T10:55:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T11:55:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076621462723834016"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/QiuFu161/statu…",
+          "end": 111,
+          "expanded_url": "https://twitter.com/QiuFu161/status/2076536943513575895",
+          "start": 88,
+          "url": "https://t.co/ytr2l9VQjU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076621462723834016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076536943513575895",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我懂你哥们，每次别人都对我吃的晚安不屑一顾，只有我知道他们太落后了，因为晚安永远不可能被禁，所有药死了晚安都不可能死，我感觉自己就像个孤独的勇士。加油哥们，时间会证明我是对的 https://t.co/ytr2l9VQjU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2076621462723834016",
+        "created_at": "2026-07-13T10:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T11:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076621462723834016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/QiuFu161/statu…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/QiuFu161/status/2076536943513575895",
+              "start": 88,
+              "url": "https://t.co/ytr2l9VQjU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076621462723834016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076536943513575895",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我懂你哥们，每次别人都对我吃的晚安不屑一顾，只有我知道他们太落后了，因为晚安永远不可能被禁，所有药死了晚安都不可能死，我感觉自己就像个孤独的勇士。加油哥们，时间会证明我是对的 https://t.co/ytr2l9VQjU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044236966254821377",
+        "conversation_id": "2076536943513575895",
+        "created_at": "2026-07-13T05:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T06:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076536943513575895"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076536943513575895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1279,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别人：od各种精品神药,策划药,度品\n我：苯海拉明,茶苯海明,苯海索,喹硫平,晚安,美金刚\n就很.....\n你懂吧\n\n（笑）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/ 前世@RfbxaUauj41685 @rednightmare962 避难所：@yu_fatai欢迎互fo🐱电子烟需要的私信我 vx：c313s852j0976（无上头）\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 45,
+                "start": 29,
+                "username": "rednightmare962"
+              },
+              {
+                "end": 59,
+                "start": 50,
+                "username": "yu_fatai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 124,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 101,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 155,
+          "like_count": 3499,
+          "listed_count": 3,
+          "media_count": 278,
+          "tweet_count": 1810
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T02:11:16.000Z",
+        "description": "两次自杀失败被抢救的废物//原账号@chuyinweilai114@06auser@06auser1\n//单推全球最伟大加速倒车帝庆丰包子铺总书记习近平宝宝(⁠｡⁠･⁠ω⁠･⁠｡⁠)⁠ﾉ⁠♡//最大剂量32400mgpr+100t安乃近片",
+        "id": "2044236966254821377",
+        "name": "yice",
+        "pinned_tweet_id": "2076555415127835052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075301904578650112/x1XfixFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 111,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 83
+        },
+        "url": "",
+        "username": "QiuFu161",
+        "verified": false
+      }
+    ]
+  }
+}

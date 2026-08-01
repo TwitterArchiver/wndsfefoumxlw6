@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2066030028413157576",
+    "created_at": "2026-06-14T05:28:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T06:28:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066030028413157576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1183084939979448320",
+          "start": 3,
+          "username": "Matxistometro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066030028413157576",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2855
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065762258806812756",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Matxistometro: Si levantar faldas y tocar el culo\n\"es cosa de niños\"\n\nNormalicemos que reventar testículos prepúberes de una patada, \n\"…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2066030028413157576",
+        "created_at": "2026-06-14T05:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T06:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066030028413157576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1183084939979448320",
+              "start": 3,
+              "username": "Matxistometro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066030028413157576",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2855
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065762258806812756",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Matxistometro: Si levantar faldas y tocar el culo\n\"es cosa de niños\"\n\nNormalicemos que reventar testículos prepúberes de una patada, \n\"…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1183084939979448320",
+        "conversation_id": "2065762258806812756",
+        "created_at": "2026-06-13T11:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065762258806812756"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065762258806812756",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 260,
+          "impression_count": 240513,
+          "like_count": 26491,
+          "quote_count": 42,
+          "reply_count": 58,
+          "retweet_count": 2855
+        },
+        "reply_settings": "everyone",
+        "text": "Si levantar faldas y tocar el culo\n\"es cosa de niños\"\n\nNormalicemos que reventar testículos prepúberes de una patada, \n\"sea cosa de niñas\""
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962欢迎互fo🐱电子烟代➕vx：c313s852j0976或私信（无上头）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛洛3.0（烟代版）",
+        "pinned_tweet_id": "2065465722890014753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 53,
+          "like_count": 614,
+          "listed_count": 2,
+          "media_count": 103,
+          "tweet_count": 400
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      },
+      {
+        "created_at": "2019-10-12T18:20:20.000Z",
+        "description": "FEMINISMO sin siglas.\nIRONÍA ON.\n\nMachirulos y neurojustitos, no esperéis respeto aquí.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/metroyjaque",
+                "end": 23,
+                "expanded_url": "http://t.me/metroyjaque",
+                "start": 0,
+                "url": "https://t.co/HKag1So7cs"
+              }
+            ]
+          }
+        },
+        "id": "1183084939979448320",
+        "location": "España",
+        "name": "Matxistómetro",
+        "pinned_tweet_id": "2044695445218177104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1512130630980706311/yuC2kZcL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8907,
+          "following_count": 7492,
+          "like_count": 60831,
+          "listed_count": 11,
+          "media_count": 3644,
+          "tweet_count": 24068
+        },
+        "url": "https://t.co/HKag1So7cs",
+        "username": "Matxistometro",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069316734432256000"
+      ]
+    },
+    "author_id": "2059149411007991808",
+    "conversation_id": "2069316840485167562",
+    "created_at": "2026-06-23T07:09:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T08:09:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069316840485167562"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 9,
+          "start": 5,
+          "tag": "电子烟"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wt5yeTEyBH",
+          "end": 33,
+          "expanded_url": "https://x.com/wndsfefoumxlw6/status/2069316840485167562/photo/1",
+          "media_key": "3_2069316734432256000",
+          "start": 10,
+          "url": "https://t.co/wt5yeTEyBH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069316840485167562",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今日返图\n#电子烟 https://t.co/wt5yeTEyBH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2094,
+        "media_key": "3_2069316734432256000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLewmzObIAAOxTP.jpg",
+        "width": 1251
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069316734432256000"
+          ]
+        },
+        "author_id": "2059149411007991808",
+        "conversation_id": "2069316840485167562",
+        "created_at": "2026-06-23T07:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T08:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069316840485167562"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 5,
+              "tag": "电子烟"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wt5yeTEyBH",
+              "end": 33,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2069316840485167562/photo/1",
+              "media_key": "3_2069316734432256000",
+              "start": 10,
+              "url": "https://t.co/wt5yeTEyBH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069316840485167562",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日返图\n#电子烟 https://t.co/wt5yeTEyBH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/戒割 前世@RfbxaUauj41685 @rednightmare962 欢迎互fo🐱电子烟/外烟🚬代需要的私信我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 88,
+          "like_count": 1356,
+          "listed_count": 3,
+          "media_count": 180,
+          "tweet_count": 907
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      }
+    ]
+  }
+}

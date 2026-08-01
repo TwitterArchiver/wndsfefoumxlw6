@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2079435393724997939",
+    "created_at": "2026-07-21T05:16:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T06:16:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079435393724997939"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xxxixixmwt/sta…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/xxxixixmwt/status/2079251705510727966",
+          "start": 16,
+          "url": "https://t.co/SEBgE2FPxV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079435393724997939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079251705510727966",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "100t吧\n100t\n10\n1 https://t.co/SEBgE2FPxV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2079251694030888961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNr8Zj1XIAEKDZU.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2079435393724997939",
+        "created_at": "2026-07-21T05:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T06:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079435393724997939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xxxixixmwt/sta…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/xxxixixmwt/status/2079251705510727966",
+              "start": 16,
+              "url": "https://t.co/SEBgE2FPxV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079435393724997939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079251705510727966",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "100t吧\n100t\n10\n1 https://t.co/SEBgE2FPxV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079251694030888961"
+          ]
+        },
+        "author_id": "1772860258710622208",
+        "conversation_id": "2079251705510727966",
+        "created_at": "2026-07-20T17:06:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T18:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079251705510727966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PT9OB1M1F6",
+              "end": 32,
+              "expanded_url": "https://x.com/xxxixixmwt/status/2079251705510727966/photo/1",
+              "media_key": "3_2079251694030888961",
+              "start": 9,
+              "url": "https://t.co/PT9OB1M1F6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079251705510727966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "直接当饭吃就好啦 https://t.co/PT9OB1M1F6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/ 前世@RfbxaUauj41685 @rednightmare962 避难所：@yu_fatai欢迎互fo🐱电子烟需要的私信我 vx：c313s852j0976（无上头）\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 45,
+                "start": 29,
+                "username": "rednightmare962"
+              },
+              {
+                "end": 59,
+                "start": 50,
+                "username": "yu_fatai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 124,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 101,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 160,
+          "like_count": 4156,
+          "listed_count": 3,
+          "media_count": 305,
+          "tweet_count": 2019
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T05:36:52.000Z",
+        "description": "叫我笑笑｜无限期休学躺平欢迎互fo来玩｜od割手双相情感障碍｜沢田纲吉嬷嬷 沢田纲吉唯一心肝只在乎他︱奇杰全肯定︱第二人格@xxbxixi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 61,
+                "username": "xxbxixi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xmimi42164",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xmimi42164",
+                "start": 0,
+                "url": "https://t.co/AZm1US1gi5"
+              }
+            ]
+          }
+        },
+        "id": "1772860258710622208",
+        "name": "网警",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031747411186728961/1nfqo_AV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 143,
+          "like_count": 3136,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1356
+        },
+        "url": "https://t.co/AZm1US1gi5",
+        "username": "xxxixixmwt",
+        "verified": false
+      }
+    ]
+  }
+}

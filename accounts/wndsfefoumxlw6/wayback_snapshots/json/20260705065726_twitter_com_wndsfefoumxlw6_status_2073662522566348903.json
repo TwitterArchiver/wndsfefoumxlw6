@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2073662522566348903",
+    "created_at": "2026-07-05T06:57:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T07:57:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073662522566348903"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Paramjitt/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/Paramjitt/status/2073339457873568048",
+          "start": 12,
+          "url": "https://t.co/iE9DQtMedj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073662522566348903",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073339457873568048",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "射不出来是不是成吴京了 https://t.co/iE9DQtMedj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2073662522566348903",
+        "created_at": "2026-07-05T06:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T07:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073662522566348903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Paramjitt/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Paramjitt/status/2073339457873568048",
+              "start": 12,
+              "url": "https://t.co/iE9DQtMedj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073662522566348903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073339457873568048",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "射不出来是不是成吴京了 https://t.co/iE9DQtMedj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "162974851",
+        "conversation_id": "2073339457873568048",
+        "created_at": "2026-07-04T09:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T10:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073339457873568048"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073339457873568048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 29616,
+          "like_count": 430,
+          "quote_count": 4,
+          "reply_count": 72,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "倒一发测试你是哪国人！！\n日本人射出来的精液是樱花粉\n美国人射出来的精液是铜锈绿\n印度人射出来的精液是咖喱黄\n英国人射出来的精液是雾霾蓝\n中国人射出来的精液是中国红"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/戒割 前世@RfbxaUauj41685 @rednightmare962 我喜欢你呀😙欢迎互fo🐱电子烟需要的私信我 vx：c313s852j0976（无上头）\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 119,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 96,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 147,
+          "like_count": 2975,
+          "listed_count": 3,
+          "media_count": 253,
+          "tweet_count": 1589
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      },
+      {
+        "created_at": "2010-07-05T06:05:17.000Z",
+        "description": "互关寻回\n🚪52\nhttps://t.co/TYxFLX9MRG\n大号@Shivam3228\n牛马💊 @AminoXx_killer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 66,
+                "start": 51,
+                "username": "AminoXx_killer"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 32,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 9,
+                "url": "https://t.co/TYxFLX9MRG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/l2gjMdmFaC"
+              }
+            ]
+          }
+        },
+        "id": "162974851",
+        "location": "你身后",
+        "name": "霖（赞绝病娇中2，16.0寻回爱妻）",
+        "pinned_tweet_id": "2068570468312039765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071548184963506176/HGB67smS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 323,
+          "like_count": 828,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 524
+        },
+        "url": "https://t.co/l2gjMdmFaC",
+        "username": "Paramjitt",
+        "verified": false
+      }
+    ]
+  }
+}

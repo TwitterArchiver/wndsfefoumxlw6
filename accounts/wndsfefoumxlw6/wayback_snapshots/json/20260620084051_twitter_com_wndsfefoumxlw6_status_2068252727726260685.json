@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2068252727726260685",
+    "created_at": "2026-06-20T08:40:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T09:40:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068252727726260685"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ccaki__lonely/…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/ccaki__lonely/status/2067923608320778505",
+          "start": 10,
+          "url": "https://t.co/nz8yoTgo0t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068252727726260685",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067923608320778505",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "牛逼，铁饭碗预定了 https://t.co/nz8yoTgo0t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067923241168158720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLK9O0SaQAAU6if.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2068252727726260685",
+        "created_at": "2026-06-20T08:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T09:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068252727726260685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ccaki__lonely/…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/ccaki__lonely/status/2067923608320778505",
+              "start": 10,
+              "url": "https://t.co/nz8yoTgo0t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068252727726260685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067923608320778505",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "牛逼，铁饭碗预定了 https://t.co/nz8yoTgo0t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067923241168158720"
+          ]
+        },
+        "author_id": "2066343787933368321",
+        "conversation_id": "2067923608320778505",
+        "created_at": "2026-06-19T10:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067923608320778505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kH1tFFcMcD",
+              "end": 55,
+              "expanded_url": "https://x.com/ccaki__lonely/status/2067923608320778505/photo/1",
+              "media_key": "3_2067923241168158720",
+              "start": 32,
+              "url": "https://t.co/kH1tFFcMcD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067923608320778505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2540,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这么多客户 这么多快递单子 已经开始期待客户们o大后的反馈了🥰 https://t.co/kH1tFFcMcD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962欢迎互fo🐱电子烟代➕vx：c313s852j0976或私信（无上头）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛洛（烟代版）",
+        "pinned_tweet_id": "2065465722890014753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 73,
+          "like_count": 1076,
+          "listed_count": 2,
+          "media_count": 150,
+          "tweet_count": 710
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-15T02:18:52.000Z",
+        "description": "🇭🇰HK | 前世@ccaki_lonely | LGBT gay饰演者 边缘超8cult片导演 | 爱癌晚期 | 港版右美唯一药商 | 二型bpd患者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "ccaki_lonely"
+              }
+            ]
+          }
+        },
+        "id": "2066343787933368321",
+        "name": "橙子是唯一的彌賽亞",
+        "pinned_tweet_id": "2066346699707277622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066345056387354624/Tu20i7fr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 41,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "ccaki__lonely",
+        "verified": false
+      }
+    ]
+  }
+}

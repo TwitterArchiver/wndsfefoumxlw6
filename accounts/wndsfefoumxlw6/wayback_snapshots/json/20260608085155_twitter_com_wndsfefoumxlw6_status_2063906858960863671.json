@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2063906858960863671",
+    "created_at": "2026-06-08T08:51:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T09:51:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063906858960863671"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YongQuan/statu…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/YongQuan/status/2063646309966610729",
+          "start": 18,
+          "url": "https://t.co/HCaRvPw10e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063906858960863671",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063646309966610729",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这条件不高了吧，很多女生都能达到啊 https://t.co/HCaRvPw10e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1114,
+        "media_key": "3_2063646303008301056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOLYQDboAA3kJE.jpg",
+        "width": 1131
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2063906858960863671",
+        "created_at": "2026-06-08T08:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T09:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063906858960863671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YongQuan/statu…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/YongQuan/status/2063646309966610729",
+              "start": 18,
+              "url": "https://t.co/HCaRvPw10e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063906858960863671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063646309966610729",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这条件不高了吧，很多女生都能达到啊 https://t.co/HCaRvPw10e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063646303008301056"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2063646309966610729",
+        "created_at": "2026-06-07T15:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063646309966610729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o0H3IJFgvS",
+              "end": 60,
+              "expanded_url": "https://x.com/YongQuan/status/2063646309966610729/photo/1",
+              "media_key": "3_2063646303008301056",
+              "start": 37,
+              "url": "https://t.co/o0H3IJFgvS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063646309966610729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 158040,
+          "like_count": 511,
+          "quote_count": 6,
+          "reply_count": 172,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "大家觉得 他是在做梦吗？\n女生能有这个条件，我觉得她自己都能赚千万。。。 https://t.co/o0H3IJFgvS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962欢迎互fo🐱电子烟代➕vx：c313s852j0976或私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛3.0（烟代版）",
+        "pinned_tweet_id": "2061009751287463964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 40,
+          "like_count": 257,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 182
+        },
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\n教练｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容｜竞技体育\n#小铨的月季花 #铨在天津卫 #LPL",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 72,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 86,
+                "start": 80,
+                "tag": "铨在天津卫"
+              },
+              {
+                "end": 91,
+                "start": 87,
+                "tag": "LPL"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10564,
+          "following_count": 4517,
+          "like_count": 49121,
+          "listed_count": 31,
+          "media_count": 4103,
+          "tweet_count": 13838
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

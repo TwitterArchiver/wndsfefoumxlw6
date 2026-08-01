@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2072661235263586477",
+    "created_at": "2026-07-03T09:56:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T10:56:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072982771145052172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1980612830824132609",
+          "start": 0,
+          "username": "seeFvn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072982771145052172",
+    "in_reply_to_user_id": "1980612830824132609",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072661235263586477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seeFvn 自己笑了没"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072661209997037568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOSY5ma0AAmq30.jpg",
+        "width": 1555
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072661209997099008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOSY5mbwAAneYe.jpg",
+        "width": 1557
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072661210018050048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOSY5rbcAADAVq.jpg",
+        "width": 1615
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2072661235263586477",
+        "created_at": "2026-07-03T09:56:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T10:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072982771145052172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1980612830824132609",
+              "start": 0,
+              "username": "seeFvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072982771145052172",
+        "in_reply_to_user_id": "1980612830824132609",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072661235263586477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeFvn 自己笑了没"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072661209997037568",
+            "3_2072661209997099008",
+            "3_2072661210018050048"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2072661235263586477",
+        "created_at": "2026-07-02T12:38:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072661235263586477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nLDNgvdQr8",
+              "end": 35,
+              "expanded_url": "https://x.com/seeFvn/status/2072661235263586477/photo/1",
+              "media_key": "3_2072661209997037568",
+              "start": 12,
+              "url": "https://t.co/nLDNgvdQr8"
+            },
+            {
+              "display_url": "pic.x.com/nLDNgvdQr8",
+              "end": 35,
+              "expanded_url": "https://x.com/seeFvn/status/2072661235263586477/photo/1",
+              "media_key": "3_2072661209997099008",
+              "start": 12,
+              "url": "https://t.co/nLDNgvdQr8"
+            },
+            {
+              "display_url": "pic.x.com/nLDNgvdQr8",
+              "end": 35,
+              "expanded_url": "https://x.com/seeFvn/status/2072661235263586477/photo/1",
+              "media_key": "3_2072661210018050048",
+              "start": 12,
+              "url": "https://t.co/nLDNgvdQr8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072661235263586477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2937,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "拒绝药物滥用 合理用药 https://t.co/nLDNgvdQr8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/戒割 前世@RfbxaUauj41685 @rednightmare962 我喜欢你呀😙欢迎互fo🐱电子烟需要的私信我 vx：c313s852j0976（无上头）\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 119,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 96,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 146,
+          "like_count": 2878,
+          "listed_count": 3,
+          "media_count": 250,
+          "tweet_count": 1548
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK/US /尊守 X 及国家行为规范\nEN 学习中/國語 OK/不見證/药理 OK/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2067910349643210868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 729,
+          "like_count": 5865,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1812
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      }
+    ]
+  }
+}

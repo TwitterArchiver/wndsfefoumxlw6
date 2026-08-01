@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069076477891706880"
+      ]
+    },
+    "author_id": "2059149411007991808",
+    "conversation_id": "2069076572796252507",
+    "created_at": "2026-06-22T15:14:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T16:14:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069076572796252507"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZkiMk6MmW3",
+          "end": 41,
+          "expanded_url": "https://x.com/wndsfefoumxlw6/status/2069076572796252507/photo/1",
+          "media_key": "3_2069076477891706880",
+          "start": 18,
+          "url": "https://t.co/ZkiMk6MmW3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069076572796252507",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个数字为什么点不掉，我强迫症犯了 https://t.co/ZkiMk6MmW3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 151,
+        "media_key": "3_2069076477891706880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbWGB3aAAAZNQ4.png",
+        "width": 205
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069076477891706880"
+          ]
+        },
+        "author_id": "2059149411007991808",
+        "conversation_id": "2069076572796252507",
+        "created_at": "2026-06-22T15:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069076572796252507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZkiMk6MmW3",
+              "end": 41,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2069076572796252507/photo/1",
+              "media_key": "3_2069076477891706880",
+              "start": 18,
+              "url": "https://t.co/ZkiMk6MmW3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069076572796252507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个数字为什么点不掉，我强迫症犯了 https://t.co/ZkiMk6MmW3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/戒割 前世@RfbxaUauj41685 @rednightmare962 欢迎互fo🐱电子烟/外烟代➕vx：c313s852j0976或私信（无上头）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 89,
+          "like_count": 1345,
+          "listed_count": 3,
+          "media_count": 178,
+          "tweet_count": 902
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061595191191257089"
+      ]
+    },
+    "author_id": "2059149411007991808",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2061595245595541646",
+    "created_at": "2026-06-01T23:46:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T00:46:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061595245595541646"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ncsvW6neJZ",
+          "end": 30,
+          "expanded_url": "https://x.com/wndsfefoumxlw6/status/2061595245595541646/photo/1",
+          "media_key": "3_2061595191191257089",
+          "start": 7,
+          "url": "https://t.co/ncsvW6neJZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061595245595541646",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "改白眼狼好点 https://t.co/ncsvW6neJZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1267,
+        "media_key": "3_2061595191191257089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJxB51GbwAEfIsr.jpg",
+        "width": 1258
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061595191191257089"
+          ]
+        },
+        "author_id": "2059149411007991808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061595245595541646",
+        "created_at": "2026-06-01T23:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T00:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061595245595541646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ncsvW6neJZ",
+              "end": 30,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2061595245595541646/photo/1",
+              "media_key": "3_2061595191191257089",
+              "start": 7,
+              "url": "https://t.co/ncsvW6neJZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061595245595541646",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "改白眼狼好点 https://t.co/ncsvW6neJZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛3.0",
+        "pinned_tweet_id": "2061009751287463964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 34,
+          "like_count": 132,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 85
+        },
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      }
+    ]
+  }
+}

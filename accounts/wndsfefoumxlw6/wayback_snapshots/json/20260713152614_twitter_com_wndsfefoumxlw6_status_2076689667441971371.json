@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2076689667441971371",
+    "created_at": "2026-07-13T15:26:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T16:26:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076689667441971371"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/666666666ZT/st…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/666666666ZT/status/2076612959242158463",
+          "start": 12,
+          "url": "https://t.co/AlDerG21Pm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076689667441971371",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076612959242158463",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "牛逼，真有MTF警哥啊 https://t.co/AlDerG21Pm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076612955266031616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNGcev6bIAAtPlA.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2076689667441971371",
+        "created_at": "2026-07-13T15:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T16:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076689667441971371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/666666666ZT/st…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/666666666ZT/status/2076612959242158463",
+              "start": 12,
+              "url": "https://t.co/AlDerG21Pm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076689667441971371",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076612959242158463",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "牛逼，真有MTF警哥啊 https://t.co/AlDerG21Pm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076612955266031616"
+          ]
+        },
+        "author_id": "2054099511279296512",
+        "conversation_id": "2076612959242158463",
+        "created_at": "2026-07-13T10:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T11:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076612959242158463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sNNsEL7b90",
+              "end": 48,
+              "expanded_url": "https://x.com/666666666ZT/status/2076612959242158463/photo/1",
+              "media_key": "3_2076612955266031616",
+              "start": 25,
+              "url": "https://t.co/sNNsEL7b90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076612959242158463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3422,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "单位终于批准我使用警务通了，可惜就是叫我不要乱用 https://t.co/sNNsEL7b90"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/ 前世@RfbxaUauj41685 @rednightmare962 避难所：@yu_fatai欢迎互fo🐱电子烟需要的私信我 vx：c313s852j0976（无上头）\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 45,
+                "start": 29,
+                "username": "rednightmare962"
+              },
+              {
+                "end": 59,
+                "start": 50,
+                "username": "yu_fatai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 124,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 101,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 155,
+          "like_count": 3523,
+          "listed_count": 3,
+          "media_count": 279,
+          "tweet_count": 1817
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T07:21:08.000Z",
+        "description": "我是清正，一名普通的MTF，生产日期2010年7月1日，生日是农历五月二十，身高1米8，体重61公斤，没有飞机账号，请注意！只和同类互关，闲鱼名称：许安清姐姐",
+        "id": "2054099511279296512",
+        "location": "湖北省",
+        "name": "电子爱好者清正🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076557615912636478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071809309730557952/Z9aQ2M1k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 283,
+          "like_count": 30,
+          "listed_count": 4,
+          "media_count": 235,
+          "tweet_count": 478
+        },
+        "url": "",
+        "username": "666666666ZT",
+        "verified": true
+      }
+    ]
+  }
+}

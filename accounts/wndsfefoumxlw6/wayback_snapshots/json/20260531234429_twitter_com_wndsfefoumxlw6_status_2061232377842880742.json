@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061232288562892800",
+        "3_2061232288554516480"
+      ]
+    },
+    "author_id": "2059149411007991808",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2061232377842880742",
+    "created_at": "2026-05-31T23:44:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T00:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061232377842880742"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UzjrQr6Zbt",
+          "end": 37,
+          "expanded_url": "https://x.com/wndsfefoumxlw6/status/2061232377842880742/photo/1",
+          "media_key": "3_2061232288562892800",
+          "start": 14,
+          "url": "https://t.co/UzjrQr6Zbt"
+        },
+        {
+          "display_url": "pic.x.com/UzjrQr6Zbt",
+          "end": 37,
+          "expanded_url": "https://x.com/wndsfefoumxlw6/status/2061232377842880742/photo/1",
+          "media_key": "3_2061232288554516480",
+          "start": 14,
+          "url": "https://t.co/UzjrQr6Zbt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061232377842880742",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中介干完可以买下一座城市了 https://t.co/UzjrQr6Zbt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1665,
+        "media_key": "3_2061232288562892800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJr32HdbUAATv2_.jpg",
+        "width": 1259
+      },
+      {
+        "height": 975,
+        "media_key": "3_2061232288554516480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJr32HbbgAAbzsJ.jpg",
+        "width": 1258
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061232288562892800",
+            "3_2061232288554516480"
+          ]
+        },
+        "author_id": "2059149411007991808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061232377842880742",
+        "created_at": "2026-05-31T23:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T00:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061232377842880742"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UzjrQr6Zbt",
+              "end": 37,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2061232377842880742/photo/1",
+              "media_key": "3_2061232288562892800",
+              "start": 14,
+              "url": "https://t.co/UzjrQr6Zbt"
+            },
+            {
+              "display_url": "pic.x.com/UzjrQr6Zbt",
+              "end": 37,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2061232377842880742/photo/1",
+              "media_key": "3_2061232288554516480",
+              "start": 14,
+              "url": "https://t.co/UzjrQr6Zbt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061232377842880742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中介干完可以买下一座城市了 https://t.co/UzjrQr6Zbt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛3.0",
+        "pinned_tweet_id": "2061087625868624215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 32,
+          "like_count": 84,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 59
+        },
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      }
+    ]
+  }
+}

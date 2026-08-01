@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2061082852507435374",
+    "created_at": "2026-05-31T13:50:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T14:50:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061082852507435374"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 139,
+          "start": 136,
+          "tag": "抽奖"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1557839863151337473",
+          "start": 3,
+          "username": "scutigera_kuma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061082852507435374",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060690272414228773",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @scutigera_kuma: hi各位好，我是kuma。\n玩推好几年了一直都是这个号，最近也达成了5k粉，非常开心，我想抽2个互关，2个粉丝各10t菲尼布特胶囊……\n只要转发关注评论就行，我还想交更多的朋友认识更多的人！\n6.4开奖，随便放个之前和对象的照片。\n#抽奖…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1917,
+        "media_key": "3_2060690264898117632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkK4L9boAAWgG_.jpg",
+        "width": 1278
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2061082852507435374",
+        "created_at": "2026-05-31T13:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061082852507435374"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "抽奖"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1557839863151337473",
+              "start": 3,
+              "username": "scutigera_kuma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061082852507435374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060690272414228773",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @scutigera_kuma: hi各位好，我是kuma。\n玩推好几年了一直都是这个号，最近也达成了5k粉，非常开心，我想抽2个互关，2个粉丝各10t菲尼布特胶囊……\n只要转发关注评论就行，我还想交更多的朋友认识更多的人！\n6.4开奖，随便放个之前和对象的照片。\n#抽奖…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060690264898117632"
+          ]
+        },
+        "author_id": "1557839863151337473",
+        "conversation_id": "2060690272414228773",
+        "created_at": "2026-05-30T11:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060690272414228773"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "抽奖"
+            },
+            {
+              "end": 124,
+              "start": 120,
+              "tag": "互fo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WuN5DVJk7l",
+              "end": 148,
+              "expanded_url": "https://x.com/scutigera_kuma/status/2060690272414228773/photo/1",
+              "media_key": "3_2060690264898117632",
+              "start": 125,
+              "url": "https://t.co/WuN5DVJk7l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060690272414228773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4005,
+          "like_count": 120,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "hi各位好，我是kuma。\n玩推好几年了一直都是这个号，最近也达成了5k粉，非常开心，我想抽2个互关，2个粉丝各10t菲尼布特胶囊……\n只要转发关注评论就行，我还想交更多的朋友认识更多的人！\n6.4开奖，随便放个之前和对象的照片。\n#抽奖 #互fo https://t.co/WuN5DVJk7l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 27,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 28
+        },
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "九真_クマ",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5048,
+          "following_count": 3318,
+          "like_count": 34518,
+          "listed_count": 5,
+          "media_count": 477,
+          "tweet_count": 9183
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      }
+    ]
+  }
+}

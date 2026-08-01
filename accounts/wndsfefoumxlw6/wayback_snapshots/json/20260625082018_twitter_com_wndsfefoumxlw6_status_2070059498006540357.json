@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2070004318489678265",
+    "created_at": "2026-06-25T08:20:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T09:20:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070059498006540357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1161907687749296128",
+          "start": 0,
+          "username": "XRMKunome"
+        },
+        {
+          "end": 24,
+          "id": "1720852749330591744",
+          "start": 11,
+          "username": "Xuannnnn_oxo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070059498006540357",
+    "in_reply_to_user_id": "1161907687749296128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070005912493048011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XRMKunome @Xuannnnn_oxo 我快被笑死了我靠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2070004318489678265",
+        "created_at": "2026-06-25T08:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T09:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070059498006540357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1161907687749296128",
+              "start": 0,
+              "username": "XRMKunome"
+            },
+            {
+              "end": 24,
+              "id": "1720852749330591744",
+              "start": 11,
+              "username": "Xuannnnn_oxo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070059498006540357",
+        "in_reply_to_user_id": "1161907687749296128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070005912493048011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XRMKunome @Xuannnnn_oxo 我快被笑死了我靠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1161907687749296128",
+        "conversation_id": "2070004318489678265",
+        "created_at": "2026-06-25T04:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T05:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070005912493048011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1720852749330591744",
+              "start": 0,
+              "username": "Xuannnnn_oxo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070005912493048011",
+        "in_reply_to_user_id": "1720852749330591744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070004318489678265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xuannnnn_oxo 没电不能拍照但能出示二维码...？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/戒割 前世@RfbxaUauj41685 @rednightmare962 欢迎互fo🐱电子烟/外烟🚬代需要的私信我 V➕c313s852j0976",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 112,
+          "like_count": 1693,
+          "listed_count": 3,
+          "media_count": 204,
+          "tweet_count": 1073
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-15T07:49:14.000Z",
+        "description": "",
+        "id": "1161907687749296128",
+        "name": "XRMK",
+        "pinned_tweet_id": "2069342375055401157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069609553184821249/Bm-51kWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 8,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 247
+        },
+        "url": "",
+        "username": "XRMKunome",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T17:17:41.000Z",
+        "description": "精神病随便发发性取向为女不扩列不聊骚别骚扰我 不谈不约不收门槛专心经营唐氏生活",
+        "id": "1720852749330591744",
+        "name": "瑄瑄",
+        "pinned_tweet_id": "2067461776116179213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858663287992242176/wAA5qpC1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 22,
+          "like_count": 954,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1487
+        },
+        "url": "",
+        "username": "Xuannnnn_oxo",
+        "verified": false
+      }
+    ]
+  }
+}

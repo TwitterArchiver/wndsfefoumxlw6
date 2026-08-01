@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2068625214804562080",
+    "created_at": "2026-06-22T07:50:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T08:50:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068964949184135507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1313647919908745220",
+          "start": 0,
+          "username": "7i__g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068964949184135507",
+    "in_reply_to_user_id": "1313647919908745220",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068625214804562080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7i__g 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1369,
+        "media_key": "3_2068625208349499392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLU7qr0XIAAESzw.jpg",
+        "width": 1027
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2068625214804562080",
+        "created_at": "2026-06-22T07:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T08:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068964949184135507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1313647919908745220",
+              "start": 0,
+              "username": "7i__g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068964949184135507",
+        "in_reply_to_user_id": "1313647919908745220",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068625214804562080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7i__g 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068625208349499392"
+          ]
+        },
+        "author_id": "1313647919908745220",
+        "conversation_id": "2068625214804562080",
+        "created_at": "2026-06-21T09:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T10:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068625214804562080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wj0AYDYXR4",
+              "end": 23,
+              "expanded_url": "https://x.com/7i__g/status/2068625214804562080/photo/1",
+              "media_key": "3_2068625208349499392",
+              "start": 0,
+              "url": "https://t.co/Wj0AYDYXR4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068625214804562080",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 207,
+          "impression_count": 91420,
+          "like_count": 5763,
+          "quote_count": 40,
+          "reply_count": 31,
+          "retweet_count": 537
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Wj0AYDYXR4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/戒割 前世@RfbxaUauj41685 @rednightmare962 欢迎互fo🐱电子烟/外烟代➕vx：c313s852j0976或私信（无上头）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068682569848336384/2iAb88Xx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 86,
+          "like_count": 1295,
+          "listed_count": 3,
+          "media_count": 174,
+          "tweet_count": 868
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-07T01:11:08.000Z",
+        "description": "˚ʚ ❀ ♡ ❀ .",
+        "id": "1313647919908745220",
+        "name": "ًً",
+        "pinned_tweet_id": "2058592279900586263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997969157204127744/A_-9ztr2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27544,
+          "following_count": 118,
+          "like_count": 359945,
+          "listed_count": 42,
+          "media_count": 1070,
+          "tweet_count": 4665
+        },
+        "url": "",
+        "username": "7i__g",
+        "verified": false
+      }
+    ]
+  }
+}

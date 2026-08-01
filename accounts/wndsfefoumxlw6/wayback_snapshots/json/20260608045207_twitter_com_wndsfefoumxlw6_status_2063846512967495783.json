@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063846232905404416",
+        "3_2063846232838250496"
+      ]
+    },
+    "author_id": "2059149411007991808",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2063846512967495783",
+    "created_at": "2026-06-08T04:52:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T05:52:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063846512967495783"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 3,
+          "start": 0,
+          "tag": "烟弹"
+        },
+        {
+          "end": 9,
+          "start": 4,
+          "tag": "relx"
+        },
+        {
+          "end": 17,
+          "start": 10,
+          "tag": "一次性电子烟"
+        },
+        {
+          "end": 22,
+          "start": 18,
+          "tag": "电子烟"
+        },
+        {
+          "end": 27,
+          "start": 23,
+          "tag": "雾化弹"
+        },
+        {
+          "end": 32,
+          "start": 28,
+          "tag": "雾化杆"
+        },
+        {
+          "end": 37,
+          "start": 33,
+          "tag": "雾化弹"
+        },
+        {
+          "end": 44,
+          "start": 38,
+          "tag": "水果味烟弹"
+        },
+        {
+          "end": 51,
+          "start": 46,
+          "tag": "悦刻4代"
+        },
+        {
+          "end": 58,
+          "start": 52,
+          "tag": "悦刻原装弹"
+        },
+        {
+          "end": 64,
+          "start": 59,
+          "tag": "原装烟弹"
+        },
+        {
+          "end": 70,
+          "start": 65,
+          "tag": "雾化烟弹"
+        },
+        {
+          "end": 77,
+          "start": 71,
+          "tag": "悦刻通配弹"
+        },
+        {
+          "end": 85,
+          "start": 78,
+          "tag": "悦刻英文烟弹"
+        },
+        {
+          "end": 89,
+          "start": 86,
+          "tag": "积木"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VvWyVmDTqK",
+          "end": 140,
+          "expanded_url": "https://x.com/wndsfefoumxlw6/status/2063846512967495783/photo/1",
+          "media_key": "3_2063846232905404416",
+          "start": 117,
+          "url": "https://t.co/VvWyVmDTqK"
+        },
+        {
+          "display_url": "pic.x.com/VvWyVmDTqK",
+          "end": 140,
+          "expanded_url": "https://x.com/wndsfefoumxlw6/status/2063846512967495783/photo/1",
+          "media_key": "3_2063846232838250496",
+          "start": 117,
+          "url": "https://t.co/VvWyVmDTqK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063846512967495783",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#烟弹 #relx #一次性电子烟 #电子烟 #雾化弹 #雾化杆 #雾化弹 #水果味烟弹  #悦刻4代 #悦刻原装弹 #原装烟弹 #雾化烟弹 #悦刻通配弹 #悦刻英文烟弹 #积木 \n\n兼职一下，需要电子烟的可以加我主页微信或私信哦🐱 https://t.co/VvWyVmDTqK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2063846232905404416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRBNs9a0AAMpKC.jpg",
+        "width": 658
+      },
+      {
+        "height": 1234,
+        "media_key": "3_2063846232838250496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRBNstaIAAn9I0.jpg",
+        "width": 1171
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063846232905404416",
+            "3_2063846232838250496"
+          ]
+        },
+        "author_id": "2059149411007991808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063846512967495783",
+        "created_at": "2026-06-08T04:52:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T05:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063846512967495783"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "烟弹"
+            },
+            {
+              "end": 9,
+              "start": 4,
+              "tag": "relx"
+            },
+            {
+              "end": 17,
+              "start": 10,
+              "tag": "一次性电子烟"
+            },
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "电子烟"
+            },
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "雾化弹"
+            },
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "雾化杆"
+            },
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "雾化弹"
+            },
+            {
+              "end": 44,
+              "start": 38,
+              "tag": "水果味烟弹"
+            },
+            {
+              "end": 51,
+              "start": 46,
+              "tag": "悦刻4代"
+            },
+            {
+              "end": 58,
+              "start": 52,
+              "tag": "悦刻原装弹"
+            },
+            {
+              "end": 64,
+              "start": 59,
+              "tag": "原装烟弹"
+            },
+            {
+              "end": 70,
+              "start": 65,
+              "tag": "雾化烟弹"
+            },
+            {
+              "end": 77,
+              "start": 71,
+              "tag": "悦刻通配弹"
+            },
+            {
+              "end": 85,
+              "start": 78,
+              "tag": "悦刻英文烟弹"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "积木"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VvWyVmDTqK",
+              "end": 140,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2063846512967495783/photo/1",
+              "media_key": "3_2063846232905404416",
+              "start": 117,
+              "url": "https://t.co/VvWyVmDTqK"
+            },
+            {
+              "display_url": "pic.x.com/VvWyVmDTqK",
+              "end": 140,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2063846512967495783/photo/1",
+              "media_key": "3_2063846232838250496",
+              "start": 117,
+              "url": "https://t.co/VvWyVmDTqK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063846512967495783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#烟弹 #relx #一次性电子烟 #电子烟 #雾化弹 #雾化杆 #雾化弹 #水果味烟弹  #悦刻4代 #悦刻原装弹 #原装烟弹 #雾化烟弹 #悦刻通配弹 #悦刻英文烟弹 #积木 \n\n兼职一下，需要电子烟的可以加我主页微信或私信哦🐱 https://t.co/VvWyVmDTqK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962欢迎互fo🐱电子烟代➕vx：c313s852j0976",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛3.0（烟代版）",
+        "pinned_tweet_id": "2061009751287463964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 39,
+          "like_count": 237,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 165
+        },
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      }
+    ]
+  }
+}

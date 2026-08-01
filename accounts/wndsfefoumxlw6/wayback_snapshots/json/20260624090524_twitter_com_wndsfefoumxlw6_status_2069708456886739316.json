@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2069593529324904708",
+    "created_at": "2026-06-24T09:05:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T10:05:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069708456886739316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974218651474829312",
+          "start": 0,
+          "username": "Elther2778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069708456886739316",
+    "in_reply_to_user_id": "1974218651474829312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069593529324904708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Elther2778 恭喜你又多了一个fo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069593519115706368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLisVyhXoAAnZQL.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2069593529324904708",
+        "created_at": "2026-06-24T09:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T10:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069708456886739316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974218651474829312",
+              "start": 0,
+              "username": "Elther2778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069708456886739316",
+        "in_reply_to_user_id": "1974218651474829312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069593529324904708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Elther2778 恭喜你又多了一个fo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069593519115706368"
+          ]
+        },
+        "author_id": "1974218651474829312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069593529324904708",
+        "created_at": "2026-06-24T01:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T02:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069593529324904708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NpDcvyYcQE",
+              "end": 42,
+              "expanded_url": "https://x.com/Elther2778/status/2069593529324904708/photo/1",
+              "media_key": "3_2069593519115706368",
+              "start": 19,
+              "url": "https://t.co/NpDcvyYcQE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069593529324904708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 762,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然但是，庆祝514fo（bushi https://t.co/NpDcvyYcQE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/戒割 前世@RfbxaUauj41685 @rednightmare962 欢迎互fo🐱电子烟/外烟🚬代需要的私信我 V➕c313s852j0976",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 100,
+          "like_count": 1470,
+          "listed_count": 3,
+          "media_count": 192,
+          "tweet_count": 974
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-03T21:03:07.000Z",
+        "description": "英国留学生/打工version\n同好私我互fo互推喵，正在攒钱买电脑喵\nqq号 2516985208 记得填一下X号，要审一下历史post，没发过图的抱歉没法过\n🚪100，过门发课表\n最爱的宝宝@TrikoLari78l",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 97,
+                "username": "TrikoLari78l"
+              }
+            ]
+          }
+        },
+        "id": "1974218651474829312",
+        "location": "London, England",
+        "name": "Elther🇬🇧",
+        "pinned_tweet_id": "2067795894582296633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067886465896640512/Wpylqk-x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 637,
+          "like_count": 397,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 1448
+        },
+        "url": "",
+        "username": "Elther2778",
+        "verified": false
+      }
+    ]
+  }
+}

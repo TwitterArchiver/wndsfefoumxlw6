@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2061422558348783718",
+    "created_at": "2026-06-01T12:20:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T13:20:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061422558348783718"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/1willhateu4eve…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/1willhateu4ever/status/2061365563071619369",
+          "start": 13,
+          "url": "https://t.co/ARK0Min8e3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061422558348783718",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061365563071619369",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "666明明可以直接抢钱的 https://t.co/ARK0Min8e3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 819,
+        "media_key": "3_2061365553818902528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJtxDLOaIAAUb6G.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2061422558348783718",
+        "created_at": "2026-06-01T12:20:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T13:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061422558348783718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1willhateu4eve…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/1willhateu4ever/status/2061365563071619369",
+              "start": 13,
+              "url": "https://t.co/ARK0Min8e3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061422558348783718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061365563071619369",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "666明明可以直接抢钱的 https://t.co/ARK0Min8e3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061365553818902528"
+          ]
+        },
+        "author_id": "1990083055231631361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061365563071619369",
+        "created_at": "2026-06-01T08:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T09:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061365563071619369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RVkICWmtjf",
+              "end": 41,
+              "expanded_url": "https://x.com/1willhateu4ever/status/2061365563071619369/photo/1",
+              "media_key": "3_2061365553818902528",
+              "start": 18,
+              "url": "https://t.co/RVkICWmtjf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061365563071619369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 792,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不过换了个平台就买到了 刚刚发货了 https://t.co/RVkICWmtjf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛3.0",
+        "pinned_tweet_id": "2061009751287463964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 32,
+          "like_count": 103,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 66
+        },
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T15:45:32.000Z",
+        "description": "在你的個人資料上加入自我介紹",
+        "id": "1990083055231631361",
+        "location": "多米力高威威维利星",
+        "name": "^ ^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059004134586748928/iVOHh1md_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 32,
+          "like_count": 5586,
+          "listed_count": 0,
+          "media_count": 366,
+          "tweet_count": 3458
+        },
+        "username": "1willhateu4ever",
+        "verified": false
+      }
+    ]
+  }
+}

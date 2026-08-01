@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2076219540078563577",
+    "created_at": "2026-07-12T08:18:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T09:18:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076219540078563577"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Alvvaysioffy1/…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/Alvvaysioffy1/status/2076160067829964865",
+          "start": 15,
+          "url": "https://t.co/kReNuz7kzK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076219540078563577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076160067829964865",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吸打火机气甚至还不如喝酒…… https://t.co/kReNuz7kzK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076160062457106432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNAAk6ub0AASDKI.jpg",
+        "width": 943
+      },
+      {
+        "height": 368,
+        "media_key": "3_2076160062457004033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNAAk6uaQAE0PHe.jpg",
+        "width": 514
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2076219540078563577",
+        "created_at": "2026-07-12T08:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T09:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076219540078563577"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Alvvaysioffy1/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Alvvaysioffy1/status/2076160067829964865",
+              "start": 15,
+              "url": "https://t.co/kReNuz7kzK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076219540078563577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076160067829964865",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吸打火机气甚至还不如喝酒…… https://t.co/kReNuz7kzK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076160062457106432",
+            "3_2076160062457004033"
+          ]
+        },
+        "author_id": "2016028559228469252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076160067829964865",
+        "created_at": "2026-07-12T04:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T05:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076160067829964865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3ew2I1aaiq",
+              "end": 48,
+              "expanded_url": "https://x.com/Alvvaysioffy1/status/2076160067829964865/photo/1",
+              "media_key": "3_2076160062457106432",
+              "start": 25,
+              "url": "https://t.co/3ew2I1aaiq"
+            },
+            {
+              "display_url": "pic.x.com/3ew2I1aaiq",
+              "end": 48,
+              "expanded_url": "https://x.com/Alvvaysioffy1/status/2076160067829964865/photo/1",
+              "media_key": "3_2076160062457004033",
+              "start": 25,
+              "url": "https://t.co/3ew2I1aaiq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076160067829964865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5628,
+          "like_count": 30,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "除尘罐这种东西也能玩的吗😱有无人有使用感受呀，， https://t.co/3ew2I1aaiq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/ 前世@RfbxaUauj41685 @rednightmare962 避难所：@yu_fatai欢迎互fo🐱电子烟需要的私信我 vx：c313s852j0976（无上头）\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 45,
+                "start": 29,
+                "username": "rednightmare962"
+              },
+              {
+                "end": 59,
+                "start": 50,
+                "username": "yu_fatai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 124,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 101,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 156,
+          "like_count": 3435,
+          "listed_count": 3,
+          "media_count": 278,
+          "tweet_count": 1789
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T06:03:52.000Z",
+        "description": "在世界尽头呼唤爱的野兽",
+        "id": "2016028559228469252",
+        "name": "彩華",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058087989570678785/k1dk8u7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 234,
+          "like_count": 1506,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 932
+        },
+        "url": "",
+        "username": "Alvvaysioffy1",
+        "verified": false
+      }
+    ]
+  }
+}

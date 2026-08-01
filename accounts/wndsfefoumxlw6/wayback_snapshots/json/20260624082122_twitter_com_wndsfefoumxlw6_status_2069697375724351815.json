@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2069697375724351815",
+    "created_at": "2026-06-24T08:21:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T09:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069697375724351815"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Stolly21_TG/st…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/Stolly21_TG/status/2069440135582884104",
+          "start": 10,
+          "url": "https://t.co/tMpSjRRRLv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069697375724351815",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069440135582884104",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怀念之前八块的右美 https://t.co/tMpSjRRRLv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2213,
+        "media_key": "3_2069440132013559809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgg1fCbEAEb_fl.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2069697375724351815",
+        "created_at": "2026-06-24T08:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T09:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069697375724351815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Stolly21_TG/st…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/Stolly21_TG/status/2069440135582884104",
+              "start": 10,
+              "url": "https://t.co/tMpSjRRRLv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069697375724351815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069440135582884104",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怀念之前八块的右美 https://t.co/tMpSjRRRLv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069440132013559809"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "conversation_id": "2069440135582884104",
+        "created_at": "2026-06-23T15:19:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T16:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069440135582884104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fg5Pzs1dPJ",
+              "end": 98,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2069440135582884104/photo/1",
+              "media_key": "3_2069440132013559809",
+              "start": 75,
+              "url": "https://t.co/fg5Pzs1dPJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069440135582884104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1634,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发现我一直在玩加巴喷丁类 还没怎么搞过dxm 在3年前买过右美但是当时不会玩儿 给浪费掉了。 愈美有愈创甘油醚不屑嗑。dxm什么感觉 我打算买盐野义 https://t.co/fg5Pzs1dPJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/戒割 前世@RfbxaUauj41685 @rednightmare962 欢迎互fo🐱电子烟/外烟🚬代需要的私信我 V➕c313s852j0976",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 99,
+          "like_count": 1460,
+          "listed_count": 3,
+          "media_count": 191,
+          "tweet_count": 967
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 然后我求回fo啊^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 89,
+          "like_count": 583,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 348
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

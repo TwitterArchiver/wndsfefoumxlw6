@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2064683529028657619",
+    "created_at": "2026-06-10T12:18:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T13:18:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064683529028657619"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/__summer__sea_…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/__summer__sea__/status/2063845585845989427",
+          "start": 5,
+          "url": "https://t.co/tb1808FH5E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064683529028657619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063845585845989427",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "原来是你 https://t.co/tb1808FH5E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2063845573888004097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRAnV7bUAEfdO7.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2064683529028657619",
+        "created_at": "2026-06-10T12:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064683529028657619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/__summer__sea_…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/__summer__sea__/status/2063845585845989427",
+              "start": 5,
+              "url": "https://t.co/tb1808FH5E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064683529028657619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063845585845989427",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原来是你 https://t.co/tb1808FH5E"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063845573888004097"
+          ]
+        },
+        "author_id": "1889861257",
+        "conversation_id": "2063845585845989427",
+        "created_at": "2026-06-08T04:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T05:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063845585845989427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2bCsnZ4MhE",
+              "end": 105,
+              "expanded_url": "https://x.com/__summer__sea__/status/2063845585845989427/photo/1",
+              "media_key": "3_2063845573888004097",
+              "start": 82,
+              "url": "https://t.co/2bCsnZ4MhE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063845585845989427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5996,
+          "like_count": 92,
+          "quote_count": 2,
+          "reply_count": 44,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "转发此贴可以获得我55g普瑞的抽奖机会，我会随机抽取4名转发者每人获得13.75g的普瑞(大约14次od)，邮费药瓶自付，截止到1000名粉丝，封顶转发开始抽奖。 https://t.co/2bCsnZ4MhE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962欢迎互fo🐱电子烟代➕vx：c313s852j0976或私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛3.0（烟代版）",
+        "pinned_tweet_id": "2064409228295688224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 44,
+          "like_count": 424,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 291
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      },
+      {
+        "created_at": "2013-09-21T11:07:58.000Z",
+        "description": "神户盐｜16岁｜护理专业｜渴望有人能拯救我｜情感淡漠｜家长不管党｜Q:3755457720｜对象:@sklmm_｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 49,
+                "username": "sklmm_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/brentcruz106",
+                "end": 23,
+                "expanded_url": "https://t.me/brentcruz106",
+                "start": 0,
+                "url": "https://t.co/1e7qTaQHLq"
+              }
+            ]
+          }
+        },
+        "id": "1889861257",
+        "name": "盐🍥",
+        "pinned_tweet_id": "2063845585845989427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061179467889074177/WoZoQ9BB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 939,
+          "like_count": 8879,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 2795
+        },
+        "url": "https://t.co/1e7qTaQHLq",
+        "username": "__summer__sea__",
+        "verified": false
+      }
+    ]
+  }
+}

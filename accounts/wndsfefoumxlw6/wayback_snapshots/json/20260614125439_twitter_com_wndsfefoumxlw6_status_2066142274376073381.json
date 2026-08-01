@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2066142274376073381",
+    "created_at": "2026-06-14T12:54:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T13:54:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066142274376073381"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Xiao_357/statu…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/Xiao_357/status/2066062093745315893",
+          "start": 11,
+          "url": "https://t.co/Ax6MUhRJT6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066142274376073381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066062093745315893",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老中就是喜欢筛选奴隶 https://t.co/Ax6MUhRJT6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2066142274376073381",
+        "created_at": "2026-06-14T12:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066142274376073381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Xiao_357/statu…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Xiao_357/status/2066062093745315893",
+              "start": 11,
+              "url": "https://t.co/Ax6MUhRJT6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066142274376073381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066062093745315893",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老中就是喜欢筛选奴隶 https://t.co/Ax6MUhRJT6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1549875407922401281",
+        "conversation_id": "2066062093745315893",
+        "created_at": "2026-06-14T07:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066062093745315893"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066062093745315893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4456,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "就是有歧视，男的留了长发，找工作别人觉得你当力工都不配，直接划掉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962欢迎互fo🐱电子烟代➕vx：c313s852j0976或私信（无上头）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛洛3.0（烟代版）",
+        "pinned_tweet_id": "2065465722890014753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 55,
+          "like_count": 650,
+          "listed_count": 2,
+          "media_count": 106,
+          "tweet_count": 425
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-20T21:56:11.000Z",
+        "description": "ISFP｜   ｜🪴🌸 | CN",
+        "id": "1549875407922401281",
+        "location": "Ningbo",
+        "name": "鳉",
+        "pinned_tweet_id": "2062324005160235398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057047696037355520/babpVf0s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1328,
+          "following_count": 461,
+          "like_count": 21130,
+          "listed_count": 8,
+          "media_count": 409,
+          "tweet_count": 3059
+        },
+        "username": "Xiao_357",
+        "verified": false
+      }
+    ]
+  }
+}

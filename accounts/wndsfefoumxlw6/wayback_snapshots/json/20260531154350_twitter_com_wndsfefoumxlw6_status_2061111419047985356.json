@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2061111419047985356",
+    "created_at": "2026-05-31T15:43:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T16:43:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061111419047985356"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/432Ifantrygrou…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/432Ifantrygroup/status/2060965768045736351",
+          "start": 13,
+          "url": "https://t.co/3tqCYXe2Be"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061111419047985356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060965768045736351",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就是福建的，妈祖同意了 https://t.co/3tqCYXe2Be"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060965758746927104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJoFcChaoAAACFx.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2061111419047985356",
+        "created_at": "2026-05-31T15:43:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T16:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061111419047985356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/432Ifantrygrou…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/432Ifantrygroup/status/2060965768045736351",
+              "start": 13,
+              "url": "https://t.co/3tqCYXe2Be"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061111419047985356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060965768045736351",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就是福建的，妈祖同意了 https://t.co/3tqCYXe2Be"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060965758746927104"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2060965768045736351",
+        "created_at": "2026-05-31T06:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T07:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060965768045736351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XiNaHnr2pc",
+              "end": 152,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2060965768045736351/photo/1",
+              "media_key": "3_2060965758746927104",
+              "start": 129,
+              "url": "https://t.co/XiNaHnr2pc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060965768045736351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4638,
+          "like_count": 141,
+          "quote_count": 5,
+          "reply_count": 24,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我支持对妈祖大画特画大嬤特嬤，破除封建迷信思想从你我做起。\n还妈祖，妈祖有那么神，那哪来的那么多福建ip诈骗犯（我没有地域黑的意思，只是福建因为地理位置比较特殊，诈骗活动比较猖獗）？那都在妈祖像下面打电话，谁敢搞电诈？\n神化什么妈祖才是最搞笑的，快收收味吧 https://t.co/XiNaHnr2pc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛3.0",
+        "pinned_tweet_id": "2061087625868624215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 32,
+          "like_count": 72,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 48
+        },
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2061094435115700245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1517,
+          "following_count": 3993,
+          "like_count": 40980,
+          "listed_count": 4,
+          "media_count": 452,
+          "tweet_count": 11395
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

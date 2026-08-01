@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2065498006812762165",
+    "created_at": "2026-06-12T18:14:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T19:14:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065498006812762165"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rednightmare96…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/rednightmare962/status/1805196764942577860",
+          "start": 50,
+          "url": "https://t.co/LDgLrA92zq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065498006812762165",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805196764942577860",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我感觉现在跟以前简直就是两个人，我两年前也是这么觉得的，解离真的改变了我吗？还是我自己改变了自己呢 https://t.co/LDgLrA92zq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2065498006812762165",
+        "created_at": "2026-06-12T18:14:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T19:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065498006812762165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rednightmare96…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/rednightmare962/status/1805196764942577860",
+              "start": 50,
+              "url": "https://t.co/LDgLrA92zq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065498006812762165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805196764942577860",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我感觉现在跟以前简直就是两个人，我两年前也是这么觉得的，解离真的改变了我吗？还是我自己改变了自己呢 https://t.co/LDgLrA92zq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601470531349274625",
+        "conversation_id": "1805196764942577860",
+        "created_at": "2024-06-24T11:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-24T12:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805196764942577860"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1805196764942577860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "解离了一天，干了什么都不知道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962欢迎互fo🐱电子烟代➕vx：c313s852j0976或私信（无上头）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛洛3.0（烟代版）",
+        "pinned_tweet_id": "2065465722890014753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 49,
+          "like_count": 544,
+          "listed_count": 2,
+          "media_count": 95,
+          "tweet_count": 358
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-10T06:55:11.000Z",
+        "description": "mtx",
+        "id": "1601470531349274625",
+        "name": "云",
+        "pinned_tweet_id": "2025445357220757573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857101239806300161/qPP42yj0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 322,
+          "like_count": 7339,
+          "listed_count": 3,
+          "media_count": 127,
+          "tweet_count": 3877
+        },
+        "username": "rednightmare962",
+        "verified": false
+      }
+    ]
+  }
+}

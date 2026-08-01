@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2077417840194494746",
+    "created_at": "2026-07-15T15:39:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T16:39:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077417840194494746"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sgzhuejdn/stat…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/sgzhuejdn/status/2077249045656137803",
+          "start": 17,
+          "url": "https://t.co/eWYfppSOSP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077417840194494746",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077249045656137803",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是金句啊！所有人向他学习！！！ https://t.co/eWYfppSOSP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2077417840194494746",
+        "created_at": "2026-07-15T15:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077417840194494746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sgzhuejdn/stat…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/sgzhuejdn/status/2077249045656137803",
+              "start": 17,
+              "url": "https://t.co/eWYfppSOSP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077417840194494746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077249045656137803",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是金句啊！所有人向他学习！！！ https://t.co/eWYfppSOSP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046154788518182912",
+        "conversation_id": "2077171910379749634",
+        "created_at": "2026-07-15T04:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T05:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077249045656137803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059149411007991808",
+              "start": 0,
+              "username": "wndsfefoumxlw6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077249045656137803",
+        "in_reply_to_user_id": "2059149411007991808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077171910379749634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wndsfefoumxlw6 如果你觉得不难受才是废了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/ 前世@RfbxaUauj41685 @rednightmare962 避难所：@yu_fatai欢迎互fo🐱电子烟需要的私信我 vx：c313s852j0976（无上头）\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 45,
+                "start": 29,
+                "username": "rednightmare962"
+              },
+              {
+                "end": 59,
+                "start": 50,
+                "username": "yu_fatai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 124,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 101,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 156,
+          "like_count": 3700,
+          "listed_count": 3,
+          "media_count": 282,
+          "tweet_count": 1868
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-20T09:11:41.000Z",
+        "description": "喜欢魂游，galgame，音乐🎶，动漫，目前在玩Elden Ring: Nightreign，Monster Hunter: World最喜欢四季夏目，母语中文，no problem with daily English communication，にほんご を がんばって べんきょう しています",
+        "id": "2046154788518182912",
+        "name": "江无尘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068731842581385216/noAqEqge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 41,
+          "like_count": 228,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 602
+        },
+        "url": "",
+        "username": "sgzhuejdn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2068856666985296050",
+    "created_at": "2026-06-22T07:31:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T08:31:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068960022110101506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1882270303319117824",
+          "start": 0,
+          "username": "hyun1115421"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068960022110101506",
+    "in_reply_to_user_id": "1882270303319117824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068856666985296050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hyun1115421 刮一下毛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2068856654234599424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLYOKm7bQAAuQt7.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2068856654238736384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLYOKm8aYAAuMH7.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2068856654230376448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLYOKm6a0AAl9YV.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2068856666985296050",
+        "created_at": "2026-06-22T07:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T08:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068960022110101506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1882270303319117824",
+              "start": 0,
+              "username": "hyun1115421"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068960022110101506",
+        "in_reply_to_user_id": "1882270303319117824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068856666985296050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyun1115421 刮一下毛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068856654234599424",
+            "3_2068856654238736384",
+            "3_2068856654230376448"
+          ]
+        },
+        "author_id": "1882270303319117824",
+        "conversation_id": "2068856666985296050",
+        "created_at": "2026-06-22T00:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T01:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068856666985296050"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 14,
+              "tag": "femboy"
+            },
+            {
+              "end": 29,
+              "start": 22,
+              "tag": "Femboy"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "男娘"
+            },
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "伪娘"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "异环"
+            },
+            {
+              "end": 46,
+              "start": 42,
+              "tag": "男の娘"
+            },
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "異環"
+            },
+            {
+              "end": 57,
+              "start": 51,
+              "tag": "イーファン"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xc6Kt80gNM",
+              "end": 81,
+              "expanded_url": "https://x.com/hyun1115421/status/2068856666985296050/photo/1",
+              "media_key": "3_2068856654234599424",
+              "start": 58,
+              "url": "https://t.co/Xc6Kt80gNM"
+            },
+            {
+              "display_url": "pic.x.com/Xc6Kt80gNM",
+              "end": 81,
+              "expanded_url": "https://x.com/hyun1115421/status/2068856666985296050/photo/1",
+              "media_key": "3_2068856654238736384",
+              "start": 58,
+              "url": "https://t.co/Xc6Kt80gNM"
+            },
+            {
+              "display_url": "pic.x.com/Xc6Kt80gNM",
+              "end": 81,
+              "expanded_url": "https://x.com/hyun1115421/status/2068856666985296050/photo/1",
+              "media_key": "3_2068856654230376448",
+              "start": 58,
+              "url": "https://t.co/Xc6Kt80gNM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068856666985296050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 413,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "海特洛最大黑幕私底下居然是\n#femboy #Femboy #男娘 #伪娘 #异环 #男の娘 #異環 #イーファン https://t.co/Xc6Kt80gNM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/戒割 前世@RfbxaUauj41685 @rednightmare962 欢迎互fo🐱电子烟/外烟代➕vx：c313s852j0976或私信（无上头）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068682569848336384/2iAb88Xx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 86,
+          "like_count": 1289,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 862
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-23T03:33:24.000Z",
+        "description": "🚪58",
+        "id": "1882270303319117824",
+        "name": "祁夏🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068844005971148800/sdWYG2Ki_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 95,
+          "like_count": 1066,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "hyun1115421",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2072362435026227484",
+    "created_at": "2026-07-02T04:34:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T05:34:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072539316417626281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1717624548512714752",
+          "start": 0,
+          "username": "Patrycja030701"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072539316417626281",
+    "in_reply_to_user_id": "1717624548512714752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072533962438939037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Patrycja030701 我们一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2072362435026227484",
+        "created_at": "2026-07-02T04:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T05:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072539316417626281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1717624548512714752",
+              "start": 0,
+              "username": "Patrycja030701"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072539316417626281",
+        "in_reply_to_user_id": "1717624548512714752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072533962438939037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Patrycja030701 我们一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717624548512714752",
+        "conversation_id": "2072362435026227484",
+        "created_at": "2026-07-02T04:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T05:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072533962438939037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059149411007991808",
+              "start": 0,
+              "username": "wndsfefoumxlw6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072533962438939037",
+        "in_reply_to_user_id": "2059149411007991808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072362435026227484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wndsfefoumxlw6 我06（抹眼泪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/戒割 前世@RfbxaUauj41685 @rednightmare962 我喜欢你呀😙欢迎互fo🐱电子烟需要的私信我（无上头）\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 102,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 79,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 144,
+          "like_count": 2699,
+          "listed_count": 3,
+          "media_count": 247,
+          "tweet_count": 1495
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-26T19:29:47.000Z",
+        "description": "原账号@AmorDesperatus｜持证MTF｜hrt开始于2025/12/5｜生产日期2006/9｜177cm/69kg｜现居地:China｜tg:https://t.co/sHOCxeU2Fg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 3,
+                "username": "AmorDesperatus"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/NewLightAsia",
+                "end": 99,
+                "expanded_url": "http://t.me/NewLightAsia",
+                "start": 76,
+                "url": "https://t.co/sHOCxeU2Fg"
+              }
+            ]
+          }
+        },
+        "id": "1717624548512714752",
+        "location": "抬头看人生，如此似钟摆",
+        "name": "EA-StarLight·二號機🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072538359562653696/2LGL-FW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 74,
+          "like_count": 341,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 125
+        },
+        "url": "",
+        "username": "Patrycja030701",
+        "verified": false
+      }
+    ]
+  }
+}

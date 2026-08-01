@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2061425480436506709",
+    "created_at": "2026-06-01T12:31:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T13:31:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061425480436506709"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Manuel_cla/sta…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/Manuel_cla/status/2060854523715891477",
+          "start": 36,
+          "url": "https://t.co/FAG1sv2E6L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061425480436506709",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060854523715891477",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你赢了，我输的很彻底，如果你发这些就是为了打击我的话那你成功了，我恨你 https://t.co/FAG1sv2E6L"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2061425480436506709",
+        "created_at": "2026-06-01T12:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T13:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061425480436506709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Manuel_cla/sta…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/Manuel_cla/status/2060854523715891477",
+              "start": 36,
+              "url": "https://t.co/FAG1sv2E6L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061425480436506709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060854523715891477",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你赢了，我输的很彻底，如果你发这些就是为了打击我的话那你成功了，我恨你 https://t.co/FAG1sv2E6L"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "403037258",
+        "conversation_id": "2060854523715891477",
+        "created_at": "2026-05-30T22:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T23:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060854523715891477"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060854523715891477",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 437,
+          "impression_count": 712686,
+          "like_count": 12786,
+          "quote_count": 178,
+          "reply_count": 627,
+          "retweet_count": 1718
+        },
+        "reply_settings": "everyone",
+        "text": "He probado el desempleo, he probado el trabajo de 8 a 4 y los turnos de noche, y mi recomendación es no nacer."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛3.0",
+        "pinned_tweet_id": "2061009751287463964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 32,
+          "like_count": 106,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 68
+        },
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-01T22:52:57.000Z",
+        "description": "Tuba. Comparsista. Maitre, Sumiller y formador en hostelería . De Cádiz",
+        "id": "403037258",
+        "name": "Manuel Cla",
+        "pinned_tweet_id": "1362870997746122756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011078553958338560/oxl5Uaka_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1266,
+          "following_count": 1904,
+          "like_count": 16646,
+          "listed_count": 8,
+          "media_count": 2204,
+          "tweet_count": 31415
+        },
+        "username": "Manuel_cla",
+        "verified": false
+      }
+    ]
+  }
+}

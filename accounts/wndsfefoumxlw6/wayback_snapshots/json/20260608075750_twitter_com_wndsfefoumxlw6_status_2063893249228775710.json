@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2063893249228775710",
+    "created_at": "2026-06-08T07:57:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T08:57:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063893249228775710"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/satireorcry1/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/satireorcry1/status/2063542428406022217",
+          "start": 7,
+          "url": "https://t.co/T5O5Yjgtpe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063893249228775710",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063542428406022217",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "极品隐藏卡啊 https://t.co/T5O5Yjgtpe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1281,
+        "media_key": "3_2063541605068324864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMsKB1WQAAfFY2.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2063893249228775710",
+        "created_at": "2026-06-08T07:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T08:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063893249228775710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/satireorcry1/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/satireorcry1/status/2063542428406022217",
+              "start": 7,
+              "url": "https://t.co/T5O5Yjgtpe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063893249228775710",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063542428406022217",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "极品隐藏卡啊 https://t.co/T5O5Yjgtpe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063541605068324864"
+          ]
+        },
+        "author_id": "1993455710274043905",
+        "conversation_id": "2063542428406022217",
+        "created_at": "2026-06-07T08:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063542428406022217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0uzIkbswQb",
+              "end": 86,
+              "expanded_url": "https://x.com/satireorcry1/status/2063542428406022217/photo/1",
+              "media_key": "3_2063541605068324864",
+              "start": 63,
+              "url": "https://t.co/0uzIkbswQb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063542428406022217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 148243,
+          "like_count": 788,
+          "quote_count": 2,
+          "reply_count": 36,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "网友说他是8964的受害者之一，因为银行卡尾号过于敏感，每次他连问父母要钱都不敢直说“妈给我尾号8964的那张卡打点钱”😭🤣 https://t.co/0uzIkbswQb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962欢迎互fo🐱电子烟代➕vx：c313s852j0976或私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛3.0（烟代版）",
+        "pinned_tweet_id": "2061009751287463964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 40,
+          "like_count": 247,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 174
+        },
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T23:04:21.000Z",
+        "description": "专注梗图制作20年。 Professional meme maker for 20 years.\n\n欢迎商业洽谈，请用邮箱联系：furinana.x.com@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/furinanaX",
+                "end": 23,
+                "expanded_url": "https://t.me/furinanaX",
+                "start": 0,
+                "url": "https://t.co/EYxWvog37z"
+              }
+            ]
+          }
+        },
+        "id": "1993455710274043905",
+        "location": "12 Millbank, London, SW1P 4QE",
+        "name": "芙宁娜娜💙Furinana (王者归来版）",
+        "pinned_tweet_id": "2038163914714660961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005923449881972736/kaKnegOz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35858,
+          "following_count": 1669,
+          "like_count": 21049,
+          "listed_count": 90,
+          "media_count": 4944,
+          "tweet_count": 6747
+        },
+        "url": "https://t.co/EYxWvog37z",
+        "username": "satireorcry1",
+        "verified": true
+      }
+    ]
+  }
+}

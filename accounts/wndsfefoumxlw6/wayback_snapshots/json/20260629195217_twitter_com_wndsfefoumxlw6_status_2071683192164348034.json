@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2071602967070044498",
+    "created_at": "2026-06-29T19:52:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T20:52:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071683192164348034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999068389864865794",
+          "start": 0,
+          "username": "0voki33Me2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071683192164348034",
+    "in_reply_to_user_id": "1999068389864865794",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071602967070044498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0voki33Me2 没事将就着抽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2071602954608754688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL_P6VEawAAcK7N.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2071602967070044498",
+        "created_at": "2026-06-29T19:52:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T20:52:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071683192164348034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999068389864865794",
+              "start": 0,
+              "username": "0voki33Me2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071683192164348034",
+        "in_reply_to_user_id": "1999068389864865794",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071602967070044498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0voki33Me2 没事将就着抽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071602954608754688"
+          ]
+        },
+        "author_id": "1999068389864865794",
+        "conversation_id": "2071602967070044498",
+        "created_at": "2026-06-29T14:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T15:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071602967070044498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DRRSIr4pyN",
+              "end": 44,
+              "expanded_url": "https://x.com/0voki33Me2/status/2071602967070044498/photo/1",
+              "media_key": "3_2071602954608754688",
+              "start": 21,
+              "url": "https://t.co/DRRSIr4pyN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071602967070044498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前段时间回南天我整包烟全受潮了，我气死了 https://t.co/DRRSIr4pyN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/戒割 前世@RfbxaUauj41685 @rednightmare962 欢迎互fo🐱电子烟需要的私信我\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 91,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 68,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 140,
+          "like_count": 2382,
+          "listed_count": 3,
+          "media_count": 235,
+          "tweet_count": 1358
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-11T10:47:14.000Z",
+        "description": "本体@0voki33Me",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "0voki33Me"
+              }
+            ]
+          }
+        },
+        "id": "1999068389864865794",
+        "location": "我",
+        "name": "J11NG",
+        "pinned_tweet_id": "1999387919614873632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999341990119636996/dagPjNfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 160,
+          "like_count": 293,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 382
+        },
+        "url": "",
+        "username": "0voki33Me2",
+        "verified": false
+      }
+    ]
+  }
+}

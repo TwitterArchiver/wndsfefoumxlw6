@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2061964396029776321",
+    "created_at": "2026-06-03T00:13:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T01:13:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061964396029776321"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Shivam3228/sta…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/Shivam3228/status/2061749762593010121",
+          "start": 8,
+          "url": "https://t.co/ABilhgOwBc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061964396029776321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061749762593010121",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看来不得不抽了 https://t.co/ABilhgOwBc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2061964396029776321",
+        "created_at": "2026-06-03T00:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T01:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061964396029776321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Shivam3228/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Shivam3228/status/2061749762593010121",
+              "start": 8,
+              "url": "https://t.co/ABilhgOwBc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061964396029776321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061749762593010121",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看来不得不抽了 https://t.co/ABilhgOwBc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2061749762593010121",
+        "created_at": "2026-06-02T10:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T11:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061749762593010121"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061749762593010121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1371,
+          "like_count": 25,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一根烟会减少六分钟的生命"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962欢迎互fo🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛3.0",
+        "pinned_tweet_id": "2061009751287463964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 37,
+          "like_count": 156,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 106
+        },
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "在线时间15:00～5:00\n大号@Yijin_0v0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Yijin_0v0"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2061781359342047285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 351,
+          "like_count": 928,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 529
+        },
+        "username": "Shivam3228",
+        "verified": false
+      }
+    ]
+  }
+}

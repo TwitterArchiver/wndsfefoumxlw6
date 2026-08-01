@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2080918435450761284",
+    "created_at": "2026-07-25T07:29:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T08:29:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080918435450761284"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pai6676/status…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/pai6676/status/2080890868215468090",
+          "start": 12,
+          "url": "https://t.co/UxelQz0dF8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080918435450761284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080890868215468090",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "芥末加点尿，谁试谁知道 https://t.co/UxelQz0dF8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2080918435450761284",
+        "created_at": "2026-07-25T07:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T08:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080918435450761284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pai6676/status…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/pai6676/status/2080890868215468090",
+              "start": 12,
+              "url": "https://t.co/UxelQz0dF8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080918435450761284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080890868215468090",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "芥末加点尿，谁试谁知道 https://t.co/UxelQz0dF8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062164542541479936",
+        "conversation_id": "2080889894583599206",
+        "created_at": "2026-07-25T05:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080890868215468090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059149411007991808",
+              "start": 0,
+              "username": "wndsfefoumxlw6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080890868215468090",
+        "in_reply_to_user_id": "2059149411007991808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080889894583599206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wndsfefoumxlw6 抽獸藥的傻逼 裝老鼠藥給他😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/ 前世@RfbxaUauj41685 @rednightmare962 避难所：@yu_fatai欢迎互fo🐱电子烟需要的私信我 vx：c313s852j0976（无上头）接刷粉\n自用梯子https://t.co/89bWifkSsU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 45,
+                "start": 29,
+                "username": "rednightmare962"
+              },
+              {
+                "end": 59,
+                "start": 50,
+                "username": "yu_fatai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 127,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 104,
+                "url": "https://t.co/89bWifkSsU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1092,
+          "following_count": 159,
+          "like_count": 4560,
+          "listed_count": 3,
+          "media_count": 316,
+          "tweet_count": 2166
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-03T13:30:04.000Z",
+        "description": "=PAI https://t.co/Nke8gtyGiO 問答：https://t.co/L3jQ4ftthl\n手殘bass手｜11號手術刀重度依賴｜座右铭｜我想要让所有oder获得爱！！（歡迎互fo）\n順直男 #非友跨 #尊重但請繞道｜患有边缘性人格 ｜BPD",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "非友跨"
+              },
+              {
+                "end": 118,
+                "start": 111,
+                "tag": "尊重但請繞道"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/king_pppai",
+                "end": 28,
+                "expanded_url": "https://t.me/king_pppai",
+                "start": 5,
+                "url": "https://t.co/Nke8gtyGiO"
+              },
+              {
+                "display_url": "ngl.link/pai30558",
+                "end": 55,
+                "expanded_url": "https://ngl.link/pai30558",
+                "start": 32,
+                "url": "https://t.co/L3jQ4ftthl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/king_pppai",
+                "end": 23,
+                "expanded_url": "https://t.me/king_pppai",
+                "start": 0,
+                "url": "https://t.co/Nke8gtyGiO"
+              }
+            ]
+          }
+        },
+        "id": "2062164542541479936",
+        "location": "地獄",
+        "name": "愈美戰士",
+        "pinned_tweet_id": "2080179422724813039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062180259752017920/-RDuVZe4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 138,
+          "like_count": 338,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 613
+        },
+        "url": "https://t.co/Nke8gtyGiO",
+        "username": "pai6676",
+        "verified": false
+      }
+    ]
+  }
+}

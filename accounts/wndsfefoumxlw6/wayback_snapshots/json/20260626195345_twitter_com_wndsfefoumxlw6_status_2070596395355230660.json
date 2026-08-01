@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2070596395355230660",
+    "created_at": "2026-06-26T19:53:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T20:53:35.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070596354016260342",
+      "2070596395355230660"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/7xEcuUp3Sf6188…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/7xEcuUp3Sf61887/status/2070551742031499509",
+          "start": 13,
+          "url": "https://t.co/2WyYrzwl2p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070596395355230660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070551742031499509",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这让我联想到了某个丧尸药 https://t.co/2WyYrzwl2p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2080,
+        "media_key": "3_2070551738827038720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwT1hHaYAAZcnH.jpg",
+        "width": 1560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2070596354016260342",
+        "created_at": "2026-06-26T19:53:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T20:53:35.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070596354016260342",
+          "2070596395355230660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/7xEcuUp3Sf6188…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/7xEcuUp3Sf61887/status/2070551742031499509",
+              "start": 13,
+              "url": "https://t.co/2WyYrzwl2p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070596354016260342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070551742031499509",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这让我联想到了某个丧失药 https://t.co/2WyYrzwl2p"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2070596395355230660",
+        "created_at": "2026-06-26T19:53:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T20:53:35.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070596354016260342",
+          "2070596395355230660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/7xEcuUp3Sf6188…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/7xEcuUp3Sf61887/status/2070551742031499509",
+              "start": 13,
+              "url": "https://t.co/2WyYrzwl2p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070596395355230660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070551742031499509",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这让我联想到了某个丧尸药 https://t.co/2WyYrzwl2p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070551738827038720"
+          ]
+        },
+        "author_id": "2039986041218592768",
+        "conversation_id": "2070551742031499509",
+        "created_at": "2026-06-26T16:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T17:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070551742031499509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EIf6xuwdXZ",
+              "end": 64,
+              "expanded_url": "https://x.com/7xEcuUp3Sf61887/status/2070551742031499509/photo/1",
+              "media_key": "3_2070551738827038720",
+              "start": 41,
+              "url": "https://t.co/EIf6xuwdXZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070551742031499509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然發現用傷害自己的方式來緩解壓力還不錯 果然還是別傷害別人了傷害自己比較好？！ https://t.co/EIf6xuwdXZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/戒割 前世@RfbxaUauj41685 @rednightmare962 欢迎互fo🐱电子烟/外烟🚬代需要的私信我 V➕c313s852j0976\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 112,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 89,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 125,
+          "like_count": 1929,
+          "listed_count": 3,
+          "media_count": 214,
+          "tweet_count": 1177
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-03T08:39:21.000Z",
+        "description": "廢話很多。可以叫我hibiki｜江浙滬正體字消腫逼一枚｜DM○｜另一個我@heikininaru_hbk（中文/日本語/English）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "heikininaru_hbk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuriafries",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuriafries",
+                "start": 0,
+                "url": "https://t.co/5WmYE4Ga5J"
+              }
+            ]
+          }
+        },
+        "id": "2039986041218592768",
+        "location": "一個人 一條街 一場雨 心碎一整夜",
+        "name": "響き渡る🥃",
+        "pinned_tweet_id": "2065354331919106099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039992924474392576/YSYh1AIJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 97,
+          "like_count": 5185,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1210
+        },
+        "url": "https://t.co/5WmYE4Ga5J",
+        "username": "7xEcuUp3Sf61887",
+        "verified": false
+      }
+    ]
+  }
+}

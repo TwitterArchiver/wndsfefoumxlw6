@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2067835202068730322",
+    "created_at": "2026-06-19T11:25:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T12:25:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067931791781171316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1798564576029810688",
+          "start": 0,
+          "username": "lirong11451419"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067931791781171316",
+    "in_reply_to_user_id": "1798564576029810688",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067835202068730322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lirong11451419 🐱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2067835202068730322",
+        "created_at": "2026-06-19T11:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067931791781171316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1798564576029810688",
+              "start": 0,
+              "username": "lirong11451419"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067931791781171316",
+        "in_reply_to_user_id": "1798564576029810688",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067835202068730322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lirong11451419 🐱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798564576029810688",
+        "conversation_id": "2067835202068730322",
+        "created_at": "2026-06-19T05:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T06:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067835202068730322"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067835202068730322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 667,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我从没想过当女生，我的理想状态是被摘了蛋蛋有着漂亮的头发穿着可爱小裙子有着大奈奈与光滑皮肤（外观完全女性化）但其实性格习惯完全像男生，文静乖巧中又有点坏坏的男孩子(｡･ω･｡)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962欢迎互fo🐱电子烟代➕vx：c313s852j0976或私信（无上头）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛洛（烟代版）",
+        "pinned_tweet_id": "2065465722890014753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 67,
+          "like_count": 983,
+          "listed_count": 2,
+          "media_count": 139,
+          "tweet_count": 650
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-06T03:56:43.000Z",
+        "description": "🍥E2 HRT Date:2025.4.6 | he/his| gay 0 with estradiol| 含糖友跨顺男0 | 永远长不大用🍥来疗愈自己 | 性格软软 爱吃糖的小孩૮₍◜ෆ◝.₎ა，\n蓄发，护肤，学化妆进行时\n衡阳某大砖核科学在读",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/erererrtrt",
+                "end": 23,
+                "expanded_url": "https://t.me/erererrtrt",
+                "start": 0,
+                "url": "https://t.co/IprWNDkIXc"
+              }
+            ]
+          }
+        },
+        "id": "1798564576029810688",
+        "location": "湖南",
+        "name": "哒哒喵🍥",
+        "pinned_tweet_id": "1965991505367281767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039497198761893888/xL8rvNjI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1996,
+          "following_count": 1537,
+          "like_count": 3319,
+          "listed_count": 5,
+          "media_count": 191,
+          "tweet_count": 1627
+        },
+        "url": "https://t.co/IprWNDkIXc",
+        "username": "lirong11451419",
+        "verified": false
+      }
+    ]
+  }
+}

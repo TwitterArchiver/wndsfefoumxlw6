@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2064013678131949629",
+    "created_at": "2026-06-08T15:56:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T16:56:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064013678131949629"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MentorWong/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/MentorWong/status/2063870717763142084",
+          "start": 9,
+          "url": "https://t.co/3h3e46NGrU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064013678131949629",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063870717763142084",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "依旧装外国人起号 https://t.co/3h3e46NGrU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2064013678131949629",
+        "created_at": "2026-06-08T15:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064013678131949629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MentorWong/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/MentorWong/status/2063870717763142084",
+              "start": 9,
+              "url": "https://t.co/3h3e46NGrU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064013678131949629",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063870717763142084",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "依旧装外国人起号 https://t.co/3h3e46NGrU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744267618947899393",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192269799428096",
+              "name": "China politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192841529200640",
+              "name": "China political issues"
+            }
+          }
+        ],
+        "conversation_id": "2063870717763142084",
+        "created_at": "2026-06-08T06:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T07:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063870717763142084"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063870717763142084",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {},
+          "text": "Kumusta sa lahat, ako ay isang Pilipino mula sa Pilipinas. May isang bagay na hindi ko masyadong naiintindihan: bakit itinuturing ng China na bahagi nito ang Taiwan? ? Kapag naglalakbay ako sa Taiwan, hindi ko kailangan ng visa sa loob ng 14 na araw, ngunit kung gusto kong maglakbay sa China, kailangan ko ng visa. Kung ito ay iisang bansa, bakit magkaiba ang mga patakaran? Sobrang nalilito.\n\n大家好，我是來自菲律賓的菲律賓人。我有一個事情不是很理解，為什麼中國認為台灣是它的一部分？ ？我去台灣旅行的時候14天內不需要簽證，但我想去中國旅行的話需要辦簽證。如果是同一個國家，為什麼政策是不同的呢？很迷惑。\n\nHi everyone, I am a Filipino from the Philippines. There is one thing I don't quite understand: why does China consider Taiwan to be part of it? ? When I travel to Taiwan, I don’t need a visa within 14 days, but if I want to travel to China, I need a visa. If it's the same country, why are the policies different? Very confused."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 200750,
+          "like_count": 486,
+          "quote_count": 16,
+          "reply_count": 1081,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "Kumusta sa lahat, ako ay isang Pilipino mula sa Pilipinas. May isang bagay na hindi ko masyadong naiintindihan: bakit itinuturing ng China na bahagi nito ang Taiwan? ? Kapag naglalakbay ako sa Taiwan, hindi ko kailangan ng visa sa loob ng 14 na araw, ngunit kung gusto kong"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962欢迎互fo🐱电子烟代➕vx：c313s852j0976或私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛3.0（烟代版）",
+        "pinned_tweet_id": "2061009751287463964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 41,
+          "like_count": 289,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 198
+        },
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T07:59:47.000Z",
+        "description": "Reddit : u/MentorWong Thread: @mentorwong\nSubscribe me for $1 only! \nI post funny stuffs and mock the people who deserve it.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "mentorwong"
+              }
+            ]
+          }
+        },
+        "id": "1744267618947899393",
+        "location": "Seoul, South Korea ",
+        "name": "SifuWong",
+        "pinned_tweet_id": "2063870717763142084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851498412581273602/LMOuJG7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9896,
+          "following_count": 10066,
+          "like_count": 17207,
+          "listed_count": 16,
+          "media_count": 322,
+          "tweet_count": 51831
+        },
+        "username": "MentorWong",
+        "verified": true
+      }
+    ]
+  }
+}

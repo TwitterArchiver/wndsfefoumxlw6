@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2071642150459343229",
+    "created_at": "2026-06-30T10:44:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T11:44:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071907829984960918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2066323895972777984",
+          "start": 0,
+          "username": "whyaiu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071907829984960918",
+    "in_reply_to_user_id": "2066323895972777984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071642150459343229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyaiu_ 不会吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2071642150459343229",
+        "created_at": "2026-06-30T10:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T11:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071907829984960918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2066323895972777984",
+              "start": 0,
+              "username": "whyaiu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071907829984960918",
+        "in_reply_to_user_id": "2066323895972777984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071642150459343229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyaiu_ 不会吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066323895972777984",
+        "conversation_id": "2071642150459343229",
+        "created_at": "2026-06-29T17:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T18:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071642150459343229"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071642150459343229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3024,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好讨厌加拿大 一想到要在这里呆一辈子我就想去死 我好讨厌加拿大 我宁愿回国真的 但是别人总是给我灌输我没拿到身份又回国我这辈子就完了的感觉 可是拿到身份又怎么样 我拿到身份都差不多三十了吧 我不想在我讨厌的地方呆一辈子 我不想啊 想想就绝望 想生活在日本 每次一来日本这种想法就会加深一遍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/戒割 前世@RfbxaUauj41685 @rednightmare962 欢迎互fo🐱电子烟需要的私信我\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 91,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 68,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 141,
+          "like_count": 2458,
+          "listed_count": 3,
+          "media_count": 242,
+          "tweet_count": 1384
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-15T00:57:15.000Z",
+        "description": "=威士忌3.0\n♀/高校生/海外/OD/自傷/病み垢\n無言fo致歉\n前世寻回互fo",
+        "id": "2066323895972777984",
+        "location": "浅尝辄止 是命运轻轻放过我",
+        "name": "病名は愛だった",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066324785001381888/dV5cly_f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 65,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 90
+        },
+        "url": "",
+        "username": "whyaiu_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2065742282188578947",
+    "created_at": "2026-06-13T10:25:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T11:25:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065742282188578947"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Eyaaaad/status…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/Eyaaaad/status/2065510358903615970",
+          "start": 26,
+          "url": "https://t.co/QaFKZIASiz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065742282188578947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065510358903615970",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么总是有人相信这些狗屁宗教，到底是真蠢还是假蠢 https://t.co/QaFKZIASiz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 38963,
+        "height": 1280,
+        "media_key": "13_2065508226817220608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065508226817220608/img/CTfHCS15IsmBXkfn.jpg",
+        "public_metrics": {
+          "view_count": 9049604
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065508226817220608/vid/avc1/320x568/7vuWZuBpS5aSkatZ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065508226817220608/vid/avc1/480x852/0CimX8_yFja61r09.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065508226817220608/vid/avc1/720x1280/vzAUhqvjAFopQ6Ti.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065508226817220608/pl/oRZ8oVUp3ie1gsjk.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2065742282188578947",
+        "created_at": "2026-06-13T10:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065742282188578947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Eyaaaad/status…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/Eyaaaad/status/2065510358903615970",
+              "start": 26,
+              "url": "https://t.co/QaFKZIASiz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065742282188578947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065510358903615970",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么总是有人相信这些狗屁宗教，到底是真蠢还是假蠢 https://t.co/QaFKZIASiz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065508226817220608"
+          ]
+        },
+        "author_id": "252992709",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1134409430462750720",
+              "name": "Eyaad AlHamoud (إيـاد الحمود)"
+            }
+          }
+        ],
+        "conversation_id": "2065510358903615970",
+        "created_at": "2026-06-12T19:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T20:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065510358903615970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MKEeRNrivK",
+              "end": 302,
+              "expanded_url": "https://x.com/Eyaaaad/status/2065510358903615970/video/1",
+              "media_key": "13_2065508226817220608",
+              "start": 279,
+              "url": "https://t.co/MKEeRNrivK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065510358903615970",
+        "lang": "ar",
+        "note_tweet": {
+          "entities": {},
+          "text": "هندي يُدعى \"دولت جیری جی مهاراج\" قرر ترك الدراسة الجامعية والتحول إلى التديّن ونذر نفسه لأمر واحد فقط وهو الوقوف إلى الأبد.\n\nالسبب؟\nهذه العملية الدينية ستوصله في النهاية لرؤية الإله الهندوسي (ماهاديف) حسب اعتقاده.\n\nبعض التقارير تقول بأنه منذ 12 عام وهو على هذا الوضع، لم يجلس أو ينم على الأرض بل ينام واقفًا مستخدمًا دعامة.\n\nفي المقطع أحد المتطوعين يقوم بتنظيف ساقيه بوضع مراهم موضعية ومطهرات للمساعدة في تخفيف التورم والعناية بالحالة الصحية الناتجة عن سنوات الوقوف الطويلة.\n\nيُذكر أن الهندي \"دولت جیری جی مهاراج\" لم يرى الإله المذكور حتى اليوم."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11729,
+          "impression_count": 18710897,
+          "like_count": 22701,
+          "quote_count": 1231,
+          "reply_count": 5700,
+          "retweet_count": 1957
+        },
+        "reply_settings": "everyone",
+        "text": "هندي يُدعى \"دولت جیری جی مهاراج\" قرر ترك الدراسة الجامعية والتحول إلى التديّن ونذر نفسه لأمر واحد فقط وهو الوقوف إلى الأبد.\n\nالسبب؟\nهذه العملية الدينية ستوصله في النهاية لرؤية الإله الهندوسي (ماهاديف) حسب اعتقاده.\n\nبعض التقارير تقول بأنه منذ 12 عام وهو على هذا الوضع، لم يجلس أو https://t.co/MKEeRNrivK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962欢迎互fo🐱电子烟代➕vx：c313s852j0976或私信（无上头）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛洛3.0（烟代版）",
+        "pinned_tweet_id": "2065465722890014753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 50,
+          "like_count": 560,
+          "listed_count": 2,
+          "media_count": 96,
+          "tweet_count": 365
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      },
+      {
+        "created_at": "2011-02-16T10:14:02.000Z",
+        "description": "أنشر غرائب الأخبار والمقاطع والدراسات العالمية التي قد لاينشرها الإعلام .. للتواصل: واتساب https://t.co/Y1A2URL2ua ads.eyaaaad@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Wa.me/966564550608",
+                "end": 114,
+                "expanded_url": "http://Wa.me/966564550608",
+                "start": 91,
+                "url": "https://t.co/Y1A2URL2ua"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "snapchat.com/add/eyad.alham…",
+                "end": 23,
+                "expanded_url": "https://www.snapchat.com/add/eyad.alhamoud",
+                "start": 0,
+                "url": "https://t.co/VXrOwKBcdO"
+              }
+            ]
+          }
+        },
+        "id": "252992709",
+        "location": "رخصة فال 1100050534",
+        "name": "إياد الحمود",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1617557465997918210/wRkbwWP0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4478379,
+          "following_count": 821,
+          "like_count": 16053,
+          "listed_count": 4636,
+          "media_count": 19693,
+          "tweet_count": 72661
+        },
+        "url": "https://t.co/VXrOwKBcdO",
+        "username": "Eyaaaad",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "AE"
+          ]
+        }
+      }
+    ]
+  }
+}

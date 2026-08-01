@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2070789555557728623",
+    "created_at": "2026-06-27T12:00:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T13:00:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070839754925674879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2068581450207956993",
+          "start": 0,
+          "username": "Yzpwuw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070839754925674879",
+    "in_reply_to_user_id": "2068581450207956993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070790291188302042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yzpwuw 完美的操作"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2070789555557728623",
+        "created_at": "2026-06-27T12:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070839754925674879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2068581450207956993",
+              "start": 0,
+              "username": "Yzpwuw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070839754925674879",
+        "in_reply_to_user_id": "2068581450207956993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070790291188302042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yzpwuw 完美的操作"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068581450207956993",
+        "conversation_id": "2070789555557728623",
+        "created_at": "2026-06-27T08:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070790291188302042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059149411007991808",
+              "start": 0,
+              "username": "wndsfefoumxlw6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070790291188302042",
+        "in_reply_to_user_id": "2059149411007991808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070789555557728623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wndsfefoumxlw6 好躺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/戒割 前世@RfbxaUauj41685 @rednightmare962 欢迎互fo🐱电子烟需要的私信我\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 91,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 68,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 128,
+          "like_count": 2012,
+          "listed_count": 3,
+          "media_count": 215,
+          "tweet_count": 1217
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-21T06:29:17.000Z",
+        "description": "是个容易无聊的人，所以可以找我闲聊，我喜欢术力口还有地狱笑话",
+        "id": "2068581450207956993",
+        "name": "退屈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068582360065679360/JzZiUN_4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 92,
+          "like_count": 797,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "Yzpwuw",
+        "verified": false
+      }
+    ]
+  }
+}

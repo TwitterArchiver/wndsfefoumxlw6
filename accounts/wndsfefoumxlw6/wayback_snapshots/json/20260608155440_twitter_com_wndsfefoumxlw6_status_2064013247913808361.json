@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2064013247913808361",
+    "created_at": "2026-06-08T15:54:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T16:54:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064013247913808361"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/20satsumaimo/s…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/20satsumaimo/status/2063963703549317548",
+          "start": 34,
+          "url": "https://t.co/R390PoLmGt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064013247913808361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063963703549317548",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我之前自杀失败后普瑞戒断太难受跟医生说了医生同意我在重症监护室抽烟 https://t.co/R390PoLmGt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063963544572563456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSr6I-akAAYD44.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2064013247913808361",
+        "created_at": "2026-06-08T15:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064013247913808361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/20satsumaimo/s…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/20satsumaimo/status/2063963703549317548",
+              "start": 34,
+              "url": "https://t.co/R390PoLmGt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064013247913808361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063963703549317548",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我之前自杀失败后普瑞戒断太难受跟医生说了医生同意我在重症监护室抽烟 https://t.co/R390PoLmGt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063963544572563456"
+          ]
+        },
+        "author_id": "2029291241704439808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063963703549317548",
+        "created_at": "2026-06-08T12:37:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063963703549317548"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "mtf"
+            },
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "跨性别"
+            },
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "xyn"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "药娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/38OS4738An",
+              "end": 65,
+              "expanded_url": "https://x.com/20satsumaimo/status/2063963703549317548/photo/1",
+              "media_key": "3_2063963544572563456",
+              "start": 42,
+              "url": "https://t.co/38OS4738An"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063963703549317548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 770,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可能是全网第一个被特许在公安局大厅抽烟的药娘 #mtf #跨性别 #xyn #药娘 https://t.co/38OS4738An"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962欢迎互fo🐱电子烟代➕vx：c313s852j0976或私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛3.0（烟代版）",
+        "pinned_tweet_id": "2061009751287463964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 41,
+          "like_count": 288,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 197
+        },
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-04T20:25:12.000Z",
+        "description": "mtf/有证含糖/02年/基本待人友善/OD/不割手/疑似严重躁狂（叫我红薯就好啦～",
+        "id": "2029291241704439808",
+        "name": "是红薯呀～🍥",
+        "pinned_tweet_id": "2038964958881575022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046964782033752064/ozF77ljw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 1,
+          "like_count": 108,
+          "listed_count": 6,
+          "media_count": 85,
+          "tweet_count": 137
+        },
+        "username": "20satsumaimo",
+        "verified": true
+      }
+    ]
+  }
+}

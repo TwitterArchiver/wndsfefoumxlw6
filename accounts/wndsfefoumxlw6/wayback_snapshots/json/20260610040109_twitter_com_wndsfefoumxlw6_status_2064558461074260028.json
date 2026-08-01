@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2064558461074260028",
+    "created_at": "2026-06-10T04:01:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T05:01:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064558461074260028"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ChinaEastern_C…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/ChinaEastern_CN/status/2064452688667185292",
+          "start": 9,
+          "url": "https://t.co/aoiV8SgtOv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064558461074260028",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064452688667185292",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "欢迎您偷渡来中国 https://t.co/aoiV8SgtOv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2064558461074260028",
+        "created_at": "2026-06-10T04:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064558461074260028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ChinaEastern_C…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/ChinaEastern_CN/status/2064452688667185292",
+              "start": 9,
+              "url": "https://t.co/aoiV8SgtOv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064558461074260028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064452688667185292",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "欢迎您偷渡来中国 https://t.co/aoiV8SgtOv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000513365500948480",
+        "conversation_id": "2064452688667185292",
+        "created_at": "2026-06-09T21:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T22:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064452688667185292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bolckashley/st…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/bolckashley/status/2063813033206665655",
+              "start": 58,
+              "url": "https://t.co/X3vwg9eGXj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064452688667185292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 26951,
+          "like_count": 154,
+          "quote_count": 8,
+          "reply_count": 65,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063813033206665655",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我这一生最大的不幸，就是没能出生在中国，也没能拥有中国国籍。\n如果可以选择，我真的希望自己出生在中国，而不是日本。 https://t.co/X3vwg9eGXj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962欢迎互fo🐱电子烟代➕vx：c313s852j0976或私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛3.0（烟代版）",
+        "pinned_tweet_id": "2064409228295688224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 43,
+          "like_count": 416,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 284
+        },
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-15T10:29:00.000Z",
+        "description": "メーカー間接部門\n入国回数\n🇰🇷5🇨🇳30↑🇹🇼🇭🇰2🇻🇳2🇲🇾🇹🇭2🇵🇭3🇦🇪6🇯🇴2🇪🇬🇦🇹🇱🇻🇫🇮🇬🇧🇫🇷🇮🇹🇦🇱🇹🇷4🇩🇪🇺🇸2",
+        "id": "2000513365500948480",
+        "location": "中国新疆维吾尔自治区和田地区和田市阿可塔什村",
+        "name": "ちるちる",
+        "pinned_tweet_id": "2061748068736004328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048733599143518208/sU2svk1V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 144,
+          "like_count": 3185,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 2329
+        },
+        "username": "ChinaEastern_CN",
+        "verified": false
+      }
+    ]
+  }
+}

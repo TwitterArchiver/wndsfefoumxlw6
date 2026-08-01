@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061049807293341696"
+      ]
+    },
+    "author_id": "2059149411007991808",
+    "conversation_id": "2061049829586063704",
+    "created_at": "2026-05-31T11:39:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T12:39:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061049829586063704"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/faaMPH5rgm",
+          "end": 39,
+          "expanded_url": "https://x.com/wndsfefoumxlw6/status/2061049829586063704/photo/1",
+          "media_key": "3_2061049807293341696",
+          "start": 16,
+          "url": "https://t.co/faaMPH5rgm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061049829586063704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "鸡哥别举报我了好不好我是你粉丝 https://t.co/faaMPH5rgm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1368,
+        "media_key": "3_2061049807293341696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJpR4TwbYAAfRuO.jpg",
+        "width": 1230
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061049807293341696"
+          ]
+        },
+        "author_id": "2059149411007991808",
+        "conversation_id": "2061049829586063704",
+        "created_at": "2026-05-31T11:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T12:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061049829586063704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/faaMPH5rgm",
+              "end": 39,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2061049829586063704/photo/1",
+              "media_key": "3_2061049807293341696",
+              "start": 16,
+              "url": "https://t.co/faaMPH5rgm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061049829586063704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鸡哥别举报我了好不好我是你粉丝 https://t.co/faaMPH5rgm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "3.洛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 19,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 13
+        },
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      }
+    ]
+  }
+}

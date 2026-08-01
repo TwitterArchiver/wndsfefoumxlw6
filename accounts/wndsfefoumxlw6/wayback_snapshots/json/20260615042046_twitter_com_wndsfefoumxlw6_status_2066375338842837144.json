@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2066126706784813131",
+    "created_at": "2026-06-15T04:20:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T05:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066375338842837144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1502618778563141636",
+          "start": 0,
+          "username": "gongeryuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066375338842837144",
+    "in_reply_to_user_id": "1502618778563141636",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066126706784813131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gongeryuan 前提是有钱出去玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2066126706784813131",
+        "created_at": "2026-06-15T04:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066375338842837144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1502618778563141636",
+              "start": 0,
+              "username": "gongeryuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066375338842837144",
+        "in_reply_to_user_id": "1502618778563141636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066126706784813131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gongeryuan 前提是有钱出去玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1502618778563141636",
+        "conversation_id": "2066126706784813131",
+        "created_at": "2026-06-14T11:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T12:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066126706784813131"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066126706784813131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4060,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人试过放下手机是不是状态会变好 我真觉得我被手机毁了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962欢迎互fo🐱电子烟代➕vx：c313s852j0976或私信（无上头）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛洛（烟代版）",
+        "pinned_tweet_id": "2065465722890014753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 58,
+          "like_count": 725,
+          "listed_count": 2,
+          "media_count": 111,
+          "tweet_count": 473
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-12T12:13:38.000Z",
+        "description": "所有人 感受攻儿能量｜你的宝我的杯 我想咋飞就咋飞 这是攻儿概念｜对不起 小孩子不懂乱发的 别生气了｜骂我先骂@HYboqian｜没有🚪不聊骚拜托拜托了。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "HYboqian"
+              }
+            ]
+          }
+        },
+        "id": "1502618778563141636",
+        "name": "五毒攻儿",
+        "pinned_tweet_id": "2050083895547498973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066152902067093504/OhETpxkF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 56,
+          "like_count": 5446,
+          "listed_count": 2,
+          "media_count": 132,
+          "tweet_count": 1419
+        },
+        "username": "gongeryuan",
+        "verified": false
+      }
+    ]
+  }
+}

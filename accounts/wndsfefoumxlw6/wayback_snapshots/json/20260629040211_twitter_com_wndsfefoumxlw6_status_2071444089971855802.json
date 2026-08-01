@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2071311628164100426",
+    "created_at": "2026-06-29T04:02:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T05:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071444089971855802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1614176856638640128",
+          "start": 0,
+          "username": "cellkeroppiben"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071444089971855802",
+    "in_reply_to_user_id": "1614176856638640128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071311628164100426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cellkeroppiben 我来陪你玩💀💀💀☠️☠️☠️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2071311628164100426",
+        "created_at": "2026-06-29T04:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T05:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071444089971855802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1614176856638640128",
+              "start": 0,
+              "username": "cellkeroppiben"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071444089971855802",
+        "in_reply_to_user_id": "1614176856638640128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071311628164100426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cellkeroppiben 我来陪你玩💀💀💀☠️☠️☠️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1614176856638640128",
+        "conversation_id": "2071311628164100426",
+        "created_at": "2026-06-28T19:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T20:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071311628164100426"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071311628164100426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 326,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有木有人可以和我玩呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/戒割 前世@RfbxaUauj41685 @rednightmare962 欢迎互fo🐱电子烟需要的私信我 vx：c313s852j0976\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 108,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 85,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 136,
+          "like_count": 2264,
+          "listed_count": 3,
+          "media_count": 230,
+          "tweet_count": 1320
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-14T08:25:36.000Z",
+        "description": "@MichaelJackson",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "MichaelJackson"
+              }
+            ]
+          }
+        },
+        "id": "1614176856638640128",
+        "name": "般若心经开朗的一面",
+        "pinned_tweet_id": "1695360089706963449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1694959006975197184/Q0REqvGB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 154,
+          "like_count": 329,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 214
+        },
+        "url": "",
+        "username": "cellkeroppiben",
+        "verified": false
+      }
+    ]
+  }
+}

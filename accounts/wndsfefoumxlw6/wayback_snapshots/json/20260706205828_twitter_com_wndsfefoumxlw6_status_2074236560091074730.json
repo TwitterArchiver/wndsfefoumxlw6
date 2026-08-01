@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2074236560091074730",
+    "created_at": "2026-07-06T20:58:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T21:58:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074236560091074730"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cxoo91666/stat…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/cxoo91666/status/2073729666138144792",
+          "start": 15,
+          "url": "https://t.co/hXBzSNw5ae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074236560091074730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073729666138144792",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "让我看看有谁会这么简单就被骗 https://t.co/hXBzSNw5ae"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073729659385339904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdeI1va4AAawGH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2074236560091074730",
+        "created_at": "2026-07-06T20:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T21:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074236560091074730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cxoo91666/stat…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/cxoo91666/status/2073729666138144792",
+              "start": 15,
+              "url": "https://t.co/hXBzSNw5ae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074236560091074730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073729666138144792",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "让我看看有谁会这么简单就被骗 https://t.co/hXBzSNw5ae"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073729659385339904"
+          ]
+        },
+        "author_id": "1993278019411365888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2073729666138144792",
+        "created_at": "2026-07-05T11:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073729666138144792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w2EFFOUaPJ",
+              "end": 62,
+              "expanded_url": "https://x.com/cxoo91666/status/2073729666138144792/photo/1",
+              "media_key": "3_2073729659385339904",
+              "start": 39,
+              "url": "https://t.co/w2EFFOUaPJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073729666138144792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4216,
+          "like_count": 42,
+          "quote_count": 3,
+          "reply_count": 47,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "纯右美 港美 香港代购 保真 所含右美沙芬是愈美片的两倍 也就是30mg毎颗 https://t.co/w2EFFOUaPJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/戒割 前世@RfbxaUauj41685 @rednightmare962 我喜欢你呀😙欢迎互fo🐱电子烟需要的私信我 vx：c313s852j0976（无上头）\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 119,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 96,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 150,
+          "like_count": 3112,
+          "listed_count": 3,
+          "media_count": 259,
+          "tweet_count": 1649
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-25T11:18:21.000Z",
+        "description": "",
+        "id": "1993278019411365888",
+        "name": "CXOO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053825345808392192/jKfDEWDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 31,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "cxoo91666",
+        "verified": false
+      }
+    ]
+  }
+}

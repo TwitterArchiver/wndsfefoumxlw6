@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2082264985171063012",
+    "created_at": "2026-07-29T00:40:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T01:40:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082264985171063012"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/themaniachan/s…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/themaniachan/status/2081697304214725116",
+          "start": 43,
+          "url": "https://t.co/I2HM4hiZ22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082264985171063012",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081697304214725116",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那群抖人所谓的小众就是欧欧布洛芬，该说不说o布洛芬确实很小众，毕竟我在外网都没看到过 https://t.co/I2HM4hiZ22"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2082264985171063012",
+        "created_at": "2026-07-29T00:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T01:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082264985171063012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/themaniachan/s…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/themaniachan/status/2081697304214725116",
+              "start": 43,
+              "url": "https://t.co/I2HM4hiZ22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082264985171063012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081697304214725116",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那群抖人所谓的小众就是欧欧布洛芬，该说不说o布洛芬确实很小众，毕竟我在外网都没看到过 https://t.co/I2HM4hiZ22"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2081697304214725116",
+        "created_at": "2026-07-27T11:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081697304214725116"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081697304214725116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 9933,
+          "like_count": 387,
+          "quote_count": 3,
+          "reply_count": 22,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "博主的双标是这样的：\n外网🩸🔪💊：呀啊老大要注意消毒准备下机药对自己好点捏\n内网🩸🔪💊：是不是以为自己可消肿了接全家四万哈\n换句话说，能翻出墙去的基本上都有点智商，即便是不健全的做事也都有分寸，ym和pr就是被墙内那帮小众逼搞没的，每天都接墙内发od内容的全家爆炸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/避难所：@yu_fatai 电子烟需要的私信我 vx：c313s852j0976（无上头，再问死全家）接刷粉\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "yu_fatai"
+              },
+              {
+                "end": 84,
+                "start": 68,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 112,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 89,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1132,
+          "following_count": 173,
+          "like_count": 5029,
+          "listed_count": 3,
+          "media_count": 334,
+          "tweet_count": 2361
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 261,
+          "like_count": 1546,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 1273
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      }
+    ]
+  }
+}

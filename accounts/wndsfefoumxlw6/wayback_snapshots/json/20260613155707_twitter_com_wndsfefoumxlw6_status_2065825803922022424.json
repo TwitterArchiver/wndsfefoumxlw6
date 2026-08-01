@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2065825803922022424",
+    "created_at": "2026-06-13T15:57:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T16:57:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065825803922022424"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/GodBottleXD/st…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/GodBottleXD/status/2065449720160686555",
+          "start": 9,
+          "url": "https://t.co/8xXs4rmNo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065825803922022424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065449720160686555",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "打开威力堪比核弹 https://t.co/8xXs4rmNo1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1544,
+        "media_key": "3_2065449701168828416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnzj1ua0AAISgF.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2065825803922022424",
+        "created_at": "2026-06-13T15:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T16:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065825803922022424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GodBottleXD/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/GodBottleXD/status/2065449720160686555",
+              "start": 9,
+              "url": "https://t.co/8xXs4rmNo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065825803922022424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065449720160686555",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "打开威力堪比核弹 https://t.co/8xXs4rmNo1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065449701168828416"
+          ]
+        },
+        "author_id": "1664970844026867713",
+        "conversation_id": "2065449720160686555",
+        "created_at": "2026-06-12T15:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065449720160686555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ze3IcyzdKR",
+              "end": 23,
+              "expanded_url": "https://x.com/GodBottleXD/status/2065449720160686555/photo/1",
+              "media_key": "3_2065449701168828416",
+              "start": 0,
+              "url": "https://t.co/ze3IcyzdKR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065449720160686555",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 143,
+          "impression_count": 913924,
+          "like_count": 3383,
+          "quote_count": 12,
+          "reply_count": 331,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ze3IcyzdKR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962欢迎互fo🐱电子烟代➕vx：c313s852j0976或私信（无上头）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛洛3.0（烟代版）",
+        "pinned_tweet_id": "2065465722890014753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 52,
+          "like_count": 579,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 380
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-03T12:23:12.000Z",
+        "description": "让银河燃烧吧",
+        "id": "1664970844026867713",
+        "name": "GodBottleXD",
+        "pinned_tweet_id": "1950160542544646570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664972571111202817/5c2-gyNy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6161,
+          "following_count": 495,
+          "like_count": 2001,
+          "listed_count": 10,
+          "media_count": 1827,
+          "tweet_count": 4166
+        },
+        "username": "GodBottleXD",
+        "verified": false
+      }
+    ]
+  }
+}

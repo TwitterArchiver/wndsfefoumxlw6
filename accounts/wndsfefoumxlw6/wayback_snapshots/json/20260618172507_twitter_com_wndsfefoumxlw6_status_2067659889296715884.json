@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067659827954978817"
+      ]
+    },
+    "author_id": "2059149411007991808",
+    "conversation_id": "2067659889296715884",
+    "created_at": "2026-06-18T17:25:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T18:25:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067659889296715884"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/B9T4Wy33bl",
+          "end": 43,
+          "expanded_url": "https://x.com/wndsfefoumxlw6/status/2067659889296715884/photo/1",
+          "media_key": "3_2067659827954978817",
+          "start": 20,
+          "url": "https://t.co/B9T4Wy33bl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067659889296715884",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "正品鸭嘴兽，如假包赔\n\n#烟代#电子烟 https://t.co/B9T4Wy33bl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2067659827954978817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLHNqJmaEAE5wvh.jpg",
+        "width": 554
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067659827954978817"
+          ]
+        },
+        "author_id": "2059149411007991808",
+        "conversation_id": "2067659889296715884",
+        "created_at": "2026-06-18T17:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T18:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067659889296715884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B9T4Wy33bl",
+              "end": 43,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2067659889296715884/photo/1",
+              "media_key": "3_2067659827954978817",
+              "start": 20,
+              "url": "https://t.co/B9T4Wy33bl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067659889296715884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正品鸭嘴兽，如假包赔\n\n#烟代#电子烟 https://t.co/B9T4Wy33bl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962欢迎互fo🐱电子烟代➕vx：c313s852j0976或私信（无上头）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛洛（烟代版）",
+        "pinned_tweet_id": "2065465722890014753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 66,
+          "like_count": 947,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 617
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      }
+    ]
+  }
+}

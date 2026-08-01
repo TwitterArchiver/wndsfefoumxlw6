@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2069016596438470811",
+    "created_at": "2026-06-23T11:22:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T12:22:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069380565384700401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1546431985086009344",
+          "start": 0,
+          "username": "NL8526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069380565384700401",
+    "in_reply_to_user_id": "1546431985086009344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069016596438470811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NL8526 魔了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 160,
+        "media_key": "3_2069016594119020544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLafoVbaUAAhxg_.jpg",
+        "width": 164
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2069016596438470811",
+        "created_at": "2026-06-23T11:22:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T12:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069380565384700401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1546431985086009344",
+              "start": 0,
+              "username": "NL8526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069380565384700401",
+        "in_reply_to_user_id": "1546431985086009344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069016596438470811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NL8526 魔了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069016594119020544"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069016596438470811",
+        "created_at": "2026-06-22T11:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T12:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069016596438470811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xnxA6vOZCJ",
+              "end": 128,
+              "expanded_url": "https://x.com/NL8526/status/2069016596438470811/photo/1",
+              "media_key": "3_2069016594119020544",
+              "start": 105,
+              "url": "https://t.co/xnxA6vOZCJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069016596438470811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "脚是一个部位\n\n脚是肉做的，脚是一个部位，脚是用来走路的，脚不是性器官，脚是有五个脚趾头的其中大脚趾是最大的，脚不是香的，脚是很神圣的。\n看别人的脚是不礼貌的，脚看人的别是貌礼的，所以脚是很脚的，它不是手的。\n爱吃脚的人无疑是爱吃脚的，那么不爱吃脚的无疑不一定就爱吃手，所以脚是脚，脚不是手。\n脚，foot，food，食物，所以脚无疑是食物的，那么吃脚无疑是合理的。\n脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚脚"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 109,
+          "impression_count": 72265,
+          "like_count": 398,
+          "quote_count": 2,
+          "reply_count": 95,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "脚是一个部位\n\n脚是肉做的，脚是一个部位，脚是用来走路的，脚不是性器官，脚是有五个脚趾头的其中大脚趾是最大的，脚不是香的，脚是很神圣的。\n看别人的脚是不礼貌的，脚看人的别是貌礼的，所以脚是很脚的，它不是手的。 https://t.co/xnxA6vOZCJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/戒割 前世@RfbxaUauj41685 @rednightmare962 欢迎互fo🐱电子烟/外烟🚬代需要的私信我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 91,
+          "like_count": 1400,
+          "listed_count": 3,
+          "media_count": 182,
+          "tweet_count": 928
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/MC 😴大一休学/家长不管党/不线下/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私! 🙏包含梗图 抽象致歉 无故之b必回 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066003299510464743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3278,
+          "following_count": 860,
+          "like_count": 18049,
+          "listed_count": 5,
+          "media_count": 203,
+          "tweet_count": 817
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2066144653452484993",
+    "created_at": "2026-06-14T13:04:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T14:04:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066144653452484993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1012078861784354816",
+          "start": 3,
+          "username": "2d4SEUFUBFzltqB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066144653452484993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065819350481989887",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @2d4SEUFUBFzltqB: 我也要做慈善\n一等奖：苯乙胺盐酸盐4g或者pr原料45g\n二等奖：苯乙胺盐酸盐3g或者pr原料35g\n三等奖：苯乙胺盐酸盐2g或者pr原料25g\n30人开抽，不包邮噢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2066144653452484993",
+        "created_at": "2026-06-14T13:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066144653452484993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1012078861784354816",
+              "start": 3,
+              "username": "2d4SEUFUBFzltqB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066144653452484993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065819350481989887",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @2d4SEUFUBFzltqB: 我也要做慈善\n一等奖：苯乙胺盐酸盐4g或者pr原料45g\n二等奖：苯乙胺盐酸盐3g或者pr原料35g\n三等奖：苯乙胺盐酸盐2g或者pr原料25g\n30人开抽，不包邮噢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1012078861784354816",
+        "conversation_id": "2065819350481989887",
+        "created_at": "2026-06-13T15:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T16:29:02.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065818735114649926",
+          "2065819150719807998",
+          "2065819350481989887"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065819350481989887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1712,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 26
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "我也要做慈善\n一等奖：苯乙胺盐酸盐4g或者pr原料45g\n二等奖：苯乙胺盐酸盐3g或者pr原料35g\n三等奖：苯乙胺盐酸盐2g或者pr原料25g\n30人开抽，不包邮噢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962欢迎互fo🐱电子烟代➕vx：c313s852j0976或私信（无上头）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛洛3.0（烟代版）",
+        "pinned_tweet_id": "2065465722890014753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 56,
+          "like_count": 657,
+          "listed_count": 2,
+          "media_count": 106,
+          "tweet_count": 429
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      },
+      {
+        "created_at": "2018-06-27T21:02:58.000Z",
+        "description": "爱你们",
+        "id": "1012078861784354816",
+        "name": "爱你",
+        "pinned_tweet_id": "2065819350481989887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065730063547695104/2s-iVBmO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 24,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 21
+        },
+        "username": "2d4SEUFUBFzltqB",
+        "verified": false
+      }
+    ]
+  }
+}

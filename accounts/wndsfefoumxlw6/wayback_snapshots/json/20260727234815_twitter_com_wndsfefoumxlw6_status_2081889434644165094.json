@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2081889434644165094",
+    "created_at": "2026-07-27T23:48:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T00:48:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081889434644165094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 28,
+          "id": "1536337502654853122",
+          "start": 12,
+          "username": "MercuricCyanide"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081889434644165094",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "因为22:00睡觉所以被@MercuricCyanide\n说是老头作息🧑🏻‍🦲，望周知"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2081889434644165094",
+        "created_at": "2026-07-27T23:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T00:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081889434644165094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1536337502654853122",
+              "start": 12,
+              "username": "MercuricCyanide"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081889434644165094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为22:00睡觉所以被@MercuricCyanide\n说是老头作息🧑🏻‍🦲，望周知"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/避难所：@yu_fatai 电子烟需要的私信我 vx：c313s852j0976（无上头，再问死全家）接刷粉\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "yu_fatai"
+              },
+              {
+                "end": 84,
+                "start": 68,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 112,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 89,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1137,
+          "following_count": 162,
+          "like_count": 4862,
+          "listed_count": 3,
+          "media_count": 329,
+          "tweet_count": 2287
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-13T13:19:54.000Z",
+        "description": "04 CN｡TUS。INT/FP-T。僕との会話はタメ口でお願いします。趣味は化学と古銭しかないダメ人間… 合成/古試薬/アンプル標本/古銭/廃墟探険etc. DMはお気軽にどうぞ。皆んなと仲良くなりたいんです！ペット@wndsfefoumxlw6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 109,
+                "username": "wndsfefoumxlw6"
+              }
+            ]
+          }
+        },
+        "id": "1536337502654853122",
+        "location": "東亜",
+        "name": "Yusaki(鬱病版)",
+        "pinned_tweet_id": "1970372282691526871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056080472527253504/PBpyrgO1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 892,
+          "like_count": 9388,
+          "listed_count": 3,
+          "media_count": 948,
+          "tweet_count": 2557
+        },
+        "url": "",
+        "username": "MercuricCyanide",
+        "verified": false
+      }
+    ]
+  }
+}

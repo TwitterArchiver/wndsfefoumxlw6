@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068300875236532224",
+        "3_2068301095139766274"
+      ]
+    },
+    "author_id": "2059149411007991808",
+    "conversation_id": "2068301713518559522",
+    "created_at": "2026-06-20T11:55:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T12:55:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068301713518559522"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KddVQbgr1t",
+          "end": 61,
+          "expanded_url": "https://x.com/wndsfefoumxlw6/status/2068301713518559522/photo/1",
+          "media_key": "3_2068300875236532224",
+          "start": 38,
+          "url": "https://t.co/KddVQbgr1t"
+        },
+        {
+          "display_url": "pic.x.com/KddVQbgr1t",
+          "end": 61,
+          "expanded_url": "https://x.com/wndsfefoumxlw6/status/2068301713518559522/photo/1",
+          "media_key": "3_2068301095139766274",
+          "start": 38,
+          "url": "https://t.co/KddVQbgr1t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068301713518559522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "目前没工作被迫在家，日收入20不够点拼好饭，喜欢在推特发碎碎念和梗图喵…🐱 https://t.co/KddVQbgr1t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1679,
+        "media_key": "3_2068300875236532224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQUsA0aYAAcCZW.jpg",
+        "width": 1259
+      },
+      {
+        "height": 1210,
+        "media_key": "3_2068301095139766274",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQU40BbcAIvcCT.jpg",
+        "width": 1210
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068300875236532224",
+            "3_2068301095139766274"
+          ]
+        },
+        "author_id": "2059149411007991808",
+        "conversation_id": "2068301713518559522",
+        "created_at": "2026-06-20T11:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068301713518559522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KddVQbgr1t",
+              "end": 61,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2068301713518559522/photo/1",
+              "media_key": "3_2068300875236532224",
+              "start": 38,
+              "url": "https://t.co/KddVQbgr1t"
+            },
+            {
+              "display_url": "pic.x.com/KddVQbgr1t",
+              "end": 61,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2068301713518559522/photo/1",
+              "media_key": "3_2068301095139766274",
+              "start": 38,
+              "url": "https://t.co/KddVQbgr1t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068301713518559522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "目前没工作被迫在家，日收入20不够点拼好饭，喜欢在推特发碎碎念和梗图喵…🐱 https://t.co/KddVQbgr1t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962欢迎互fo🐱电子烟代➕vx：c313s852j0976或私信（无上头）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛洛（烟代版）",
+        "pinned_tweet_id": "2065465722890014753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 74,
+          "like_count": 1105,
+          "listed_count": 2,
+          "media_count": 155,
+          "tweet_count": 733
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      }
+    ]
+  }
+}

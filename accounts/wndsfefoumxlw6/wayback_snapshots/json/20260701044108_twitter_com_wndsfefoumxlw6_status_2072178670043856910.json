@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2071909540380229959",
+    "created_at": "2026-07-01T04:41:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T05:41:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072178670043856910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2048325684641370112",
+          "start": 0,
+          "username": "xiaojuan98629"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072178670043856910",
+    "in_reply_to_user_id": "2048325684641370112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072169558941774203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaojuan98629 线下药店就可以买"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2071909540380229959",
+        "created_at": "2026-07-01T04:41:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T05:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072178670043856910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2048325684641370112",
+              "start": 0,
+              "username": "xiaojuan98629"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072178670043856910",
+        "in_reply_to_user_id": "2048325684641370112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072169558941774203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaojuan98629 线下药店就可以买"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048325684641370112",
+        "conversation_id": "2071909540380229959",
+        "created_at": "2026-07-01T04:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T05:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072169558941774203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059149411007991808",
+              "start": 0,
+              "username": "wndsfefoumxlw6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072169558941774203",
+        "in_reply_to_user_id": "2059149411007991808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071909540380229959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wndsfefoumxlw6 我已经崩溃到买日版普瑞了，太贵了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/戒割 前世@RfbxaUauj41685 @rednightmare962 我喜欢你呀😙欢迎互fo🐱电子烟需要的私信我（无上头）\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 102,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 79,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 140,
+          "like_count": 2559,
+          "listed_count": 4,
+          "media_count": 242,
+          "tweet_count": 1426
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-26T08:59:24.000Z",
+        "description": "@ChunBu98629 ←前世6000粉大号被仇人盗号\n🚪77/388/520/1314/2355/5200不退🚪 私信只回复口令 欢迎女宝宝们来找我互转互fo 正在积极寻找前世互关！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "ChunBu98629"
+              }
+            ]
+          }
+        },
+        "id": "2048325684641370112",
+        "location": "🧭15",
+        "name": "绪許（重生版",
+        "pinned_tweet_id": "2053311306963587094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060183124047503360/ye9t3At3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2868,
+          "following_count": 35,
+          "like_count": 140,
+          "listed_count": 7,
+          "media_count": 25,
+          "tweet_count": 119
+        },
+        "url": "",
+        "username": "xiaojuan98629",
+        "verified": false
+      }
+    ]
+  }
+}

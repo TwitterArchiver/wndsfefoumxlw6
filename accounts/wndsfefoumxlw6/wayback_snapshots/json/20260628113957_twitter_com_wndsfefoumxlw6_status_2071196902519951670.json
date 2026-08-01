@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2071116588267557119",
+    "created_at": "2026-06-28T11:39:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T12:39:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071196902519951670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2069898963784736768",
+          "start": 0,
+          "username": "Loveyuuni9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071196902519951670",
+    "in_reply_to_user_id": "2069898963784736768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071116588267557119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Loveyuuni9 可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11052,
+        "height": 1280,
+        "media_key": "13_2071116508689010688",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2071116508689010688/img/RMxOJ1nOECsoLj61.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071116508689010688/vid/avc1/320x568/IE-IDupCplUjuh3t.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071116508689010688/vid/avc1/480x852/O9TluNEhHrUBp_dP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071116508689010688/vid/avc1/720x1280/WUhV8iCFEfnY1bl3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071116508689010688/pl/ITtoS2p-MCwiVnRw.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2071116588267557119",
+        "created_at": "2026-06-28T11:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T12:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071196902519951670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2069898963784736768",
+              "start": 0,
+              "username": "Loveyuuni9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071196902519951670",
+        "in_reply_to_user_id": "2069898963784736768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071116588267557119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Loveyuuni9 可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071116508689010688"
+          ]
+        },
+        "author_id": "2069898963784736768",
+        "conversation_id": "2071116588267557119",
+        "created_at": "2026-06-28T06:20:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T07:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071116588267557119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vZ0aX4Fnrv",
+              "end": 23,
+              "expanded_url": "https://x.com/Loveyuuni9/status/2071116588267557119/video/1",
+              "media_key": "13_2071116508689010688",
+              "start": 0,
+              "url": "https://t.co/vZ0aX4Fnrv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071116588267557119",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vZ0aX4Fnrv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/戒割 前世@RfbxaUauj41685 @rednightmare962 欢迎互fo🐱电子烟需要的私信我 vx：c313s852j0976\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 108,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 85,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 133,
+          "like_count": 2179,
+          "listed_count": 3,
+          "media_count": 226,
+          "tweet_count": 1291
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-24T21:43:31.000Z",
+        "description": "ed g妹/overdose/lgbt全认可/互fo嗯",
+        "id": "2069898963784736768",
+        "name": "Loveyuu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070366175087751168/Uqgb-dwJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 6,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "Loveyuuni9",
+        "verified": false
+      }
+    ]
+  }
+}

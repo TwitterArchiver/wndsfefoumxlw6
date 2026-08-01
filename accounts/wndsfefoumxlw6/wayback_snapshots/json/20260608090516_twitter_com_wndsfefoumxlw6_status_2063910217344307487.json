@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2063908694858117120"
+      ]
+    },
+    "author_id": "2059149411007991808",
+    "conversation_id": "2063910217344307487",
+    "created_at": "2026-06-08T09:05:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T10:05:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063910217344307487"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/55MVv0NgkE",
+          "end": 35,
+          "expanded_url": "https://x.com/wndsfefoumxlw6/status/2063910217344307487/video/1",
+          "media_key": "13_2063908694858117120",
+          "start": 12,
+          "url": "https://t.co/55MVv0NgkE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063910217344307487",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "话说这个我貌似没发过呀 https://t.co/55MVv0NgkE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3111,
+        "height": 2880,
+        "media_key": "13_2063908694858117120",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063908694858117120/img/VA70B2G-LnGItkGv.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063908694858117120/vid/avc1/320x426/nHr7Ka8NS74iRHKK.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063908694858117120/vid/avc1/480x640/hn6UxYIIpm4Y19Hd.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063908694858117120/vid/avc1/720x960/e0znuycKfcCTAHtC.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063908694858117120/pl/IP_jT0O2QUL1szEu.m3u8?tag=14"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063908694858117120"
+          ]
+        },
+        "author_id": "2059149411007991808",
+        "conversation_id": "2063910217344307487",
+        "created_at": "2026-06-08T09:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063910217344307487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/55MVv0NgkE",
+              "end": 35,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2063910217344307487/video/1",
+              "media_key": "13_2063908694858117120",
+              "start": 12,
+              "url": "https://t.co/55MVv0NgkE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063910217344307487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说这个我貌似没发过呀 https://t.co/55MVv0NgkE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962欢迎互fo🐱电子烟代➕vx：c313s852j0976或私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛3.0（烟代版）",
+        "pinned_tweet_id": "2061009751287463964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 40,
+          "like_count": 257,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 183
+        },
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      }
+    ]
+  }
+}

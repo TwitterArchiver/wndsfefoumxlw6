@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066140574177259520",
+        "3_2066140574177247232"
+      ]
+    },
+    "author_id": "2059149411007991808",
+    "conversation_id": "2066140595811463290",
+    "created_at": "2026-06-14T12:47:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T13:47:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066140595811463290"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qw5pTzhNsE",
+          "end": 34,
+          "expanded_url": "https://x.com/wndsfefoumxlw6/status/2066140595811463290/photo/1",
+          "media_key": "3_2066140574177259520",
+          "start": 11,
+          "url": "https://t.co/qw5pTzhNsE"
+        },
+        {
+          "display_url": "pic.x.com/qw5pTzhNsE",
+          "end": 34,
+          "expanded_url": "https://x.com/wndsfefoumxlw6/status/2066140595811463290/photo/1",
+          "media_key": "3_2066140574177247232",
+          "start": 11,
+          "url": "https://t.co/qw5pTzhNsE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066140595811463290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这次我真的被攻击到了 https://t.co/qw5pTzhNsE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 513,
+        "media_key": "3_2066140574177259520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxn58PbcAA5IpW.jpg",
+        "width": 1255
+      },
+      {
+        "height": 603,
+        "media_key": "3_2066140574177247232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxn58PbQAA5T66.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066140574177259520",
+            "3_2066140574177247232"
+          ]
+        },
+        "author_id": "2059149411007991808",
+        "conversation_id": "2066140595811463290",
+        "created_at": "2026-06-14T12:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066140595811463290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qw5pTzhNsE",
+              "end": 34,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2066140595811463290/photo/1",
+              "media_key": "3_2066140574177259520",
+              "start": 11,
+              "url": "https://t.co/qw5pTzhNsE"
+            },
+            {
+              "display_url": "pic.x.com/qw5pTzhNsE",
+              "end": 34,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2066140595811463290/photo/1",
+              "media_key": "3_2066140574177247232",
+              "start": 11,
+              "url": "https://t.co/qw5pTzhNsE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066140595811463290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这次我真的被攻击到了 https://t.co/qw5pTzhNsE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962欢迎互fo🐱电子烟代➕vx：c313s852j0976或私信（无上头）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛洛3.0（烟代版）",
+        "pinned_tweet_id": "2065465722890014753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 55,
+          "like_count": 642,
+          "listed_count": 2,
+          "media_count": 106,
+          "tweet_count": 420
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      }
+    ]
+  }
+}

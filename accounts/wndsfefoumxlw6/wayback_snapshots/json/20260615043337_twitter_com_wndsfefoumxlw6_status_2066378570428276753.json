@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066378427448676352",
+        "3_2066378427456995328",
+        "3_2066378427457040384",
+        "3_2066378427461210112"
+      ]
+    },
+    "author_id": "2059149411007991808",
+    "conversation_id": "2066378570428276753",
+    "created_at": "2026-06-15T04:33:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T05:33:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066378570428276753"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 21,
+          "tag": "电子烟"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rqZSVqUygF",
+          "end": 49,
+          "expanded_url": "https://x.com/wndsfefoumxlw6/status/2066378570428276753/photo/1",
+          "media_key": "3_2066378427448676352",
+          "start": 26,
+          "url": "https://t.co/rqZSVqUygF"
+        },
+        {
+          "display_url": "pic.x.com/rqZSVqUygF",
+          "end": 49,
+          "expanded_url": "https://x.com/wndsfefoumxlw6/status/2066378570428276753/photo/1",
+          "media_key": "3_2066378427456995328",
+          "start": 26,
+          "url": "https://t.co/rqZSVqUygF"
+        },
+        {
+          "display_url": "pic.x.com/rqZSVqUygF",
+          "end": 49,
+          "expanded_url": "https://x.com/wndsfefoumxlw6/status/2066378570428276753/photo/1",
+          "media_key": "3_2066378427457040384",
+          "start": 26,
+          "url": "https://t.co/rqZSVqUygF"
+        },
+        {
+          "display_url": "pic.x.com/rqZSVqUygF",
+          "end": 49,
+          "expanded_url": "https://x.com/wndsfefoumxlw6/status/2066378570428276753/photo/1",
+          "media_key": "3_2066378427461210112",
+          "start": 26,
+          "url": "https://t.co/rqZSVqUygF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066378570428276753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "发一下电子烟价格表哦，需要的可以来找我🐱\n#电子烟 https://t.co/rqZSVqUygF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3648,
+        "media_key": "3_2066378427448676352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1AO0ub0AA1649.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1109,
+        "media_key": "3_2066378427456995328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1AO0wawAAoakg.png",
+        "width": 912
+      },
+      {
+        "height": 1576,
+        "media_key": "3_2066378427457040384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1AO0wbcAAHk1P.png",
+        "width": 1044
+      },
+      {
+        "height": 611,
+        "media_key": "3_2066378427461210112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1AO0xbEAAF30e.jpg",
+        "width": 992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066378427448676352",
+            "3_2066378427456995328",
+            "3_2066378427457040384",
+            "3_2066378427461210112"
+          ]
+        },
+        "author_id": "2059149411007991808",
+        "conversation_id": "2066378570428276753",
+        "created_at": "2026-06-15T04:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066378570428276753"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "电子烟"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rqZSVqUygF",
+              "end": 49,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2066378570428276753/photo/1",
+              "media_key": "3_2066378427448676352",
+              "start": 26,
+              "url": "https://t.co/rqZSVqUygF"
+            },
+            {
+              "display_url": "pic.x.com/rqZSVqUygF",
+              "end": 49,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2066378570428276753/photo/1",
+              "media_key": "3_2066378427456995328",
+              "start": 26,
+              "url": "https://t.co/rqZSVqUygF"
+            },
+            {
+              "display_url": "pic.x.com/rqZSVqUygF",
+              "end": 49,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2066378570428276753/photo/1",
+              "media_key": "3_2066378427457040384",
+              "start": 26,
+              "url": "https://t.co/rqZSVqUygF"
+            },
+            {
+              "display_url": "pic.x.com/rqZSVqUygF",
+              "end": 49,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2066378570428276753/photo/1",
+              "media_key": "3_2066378427461210112",
+              "start": 26,
+              "url": "https://t.co/rqZSVqUygF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066378570428276753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发一下电子烟价格表哦，需要的可以来找我🐱\n#电子烟 https://t.co/rqZSVqUygF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962欢迎互fo🐱电子烟代➕vx：c313s852j0976或私信（无上头）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛洛（烟代版）",
+        "pinned_tweet_id": "2065465722890014753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 59,
+          "like_count": 730,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 477
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      }
+    ]
+  }
+}

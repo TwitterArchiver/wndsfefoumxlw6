@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2075322315521618022",
+    "created_at": "2026-07-09T20:52:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T21:52:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075322315521618022"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ji_chu25601/st…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/ji_chu25601/status/2074992077231026593",
+          "start": 23,
+          "url": "https://t.co/tcMHeNUeKB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075322315521618022",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074992077231026593",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也是，普瑞巴林让我们的推特从社恐变为健全了 https://t.co/tcMHeNUeKB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1229,
+        "media_key": "3_2074992074626404352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMvaTE_bkAATmQj.jpg",
+        "width": 1229
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2075322315521618022",
+        "created_at": "2026-07-09T20:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T21:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075322315521618022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ji_chu25601/st…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/ji_chu25601/status/2074992077231026593",
+              "start": 23,
+              "url": "https://t.co/tcMHeNUeKB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075322315521618022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074992077231026593",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也是，普瑞巴林让我们的推特从社恐变为健全了 https://t.co/tcMHeNUeKB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074992074626404352"
+          ]
+        },
+        "author_id": "1910629733785870336",
+        "conversation_id": "2074992077231026593",
+        "created_at": "2026-07-08T23:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T00:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074992077231026593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Ma0SLMZJl",
+              "end": 53,
+              "expanded_url": "https://x.com/ji_chu25601/status/2074992077231026593/photo/1",
+              "media_key": "3_2074992074626404352",
+              "start": 30,
+              "url": "https://t.co/2Ma0SLMZJl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074992077231026593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 407,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "乞讨话说我的流量好糊逼只有发普瑞巴林才有流量我不知道为什么 https://t.co/2Ma0SLMZJl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/ 前世@RfbxaUauj41685 @rednightmare962 避难所：@yu_fatai欢迎互fo🐱电子烟需要的私信我 vx：c313s852j0976（无上头）\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 45,
+                "start": 29,
+                "username": "rednightmare962"
+              },
+              {
+                "end": 59,
+                "start": 50,
+                "username": "yu_fatai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 124,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 101,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 151,
+          "like_count": 3272,
+          "listed_count": 3,
+          "media_count": 269,
+          "tweet_count": 1720
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "被断生活费15岁我od/割因为手上的伤暂时找不到工作乞讨勉强活下(互fo欢迎不过会卡点成分没回私我)",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2074992077231026593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 149,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 569
+        },
+        "url": "",
+        "username": "ji_chu25601",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2063775086776369183",
+    "created_at": "2026-06-08T00:08:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T01:08:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063775086776369183"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Jessica3187519…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/Jessica31875193/status/2063696844006498547",
+          "start": 16,
+          "url": "https://t.co/qnCBCWca3v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063775086776369183",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063696844006498547",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "傻逼，你没父母吗这样给自己洗脑 https://t.co/qnCBCWca3v"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2063775086776369183",
+        "created_at": "2026-06-08T00:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T01:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063775086776369183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Jessica3187519…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/Jessica31875193/status/2063696844006498547",
+              "start": 16,
+              "url": "https://t.co/qnCBCWca3v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063775086776369183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063696844006498547",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "傻逼，你没父母吗这样给自己洗脑 https://t.co/qnCBCWca3v"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568495582762926082",
+        "conversation_id": "2063585000902304026",
+        "created_at": "2026-06-07T18:57:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T19:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063696844006498547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2011405521245634560",
+              "start": 0,
+              "username": "Rimea_Chord"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063696844006498547",
+        "in_reply_to_user_id": "2011405521245634560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11320,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063585000902304026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rimea_Chord 父母不欠你的\n这个世界上没有人欠你的\n你在这个世界上受的任何委屈\n都可以这样结尾：\n要么忍，要么滚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962欢迎互fo🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛3.0",
+        "pinned_tweet_id": "2061009751287463964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 39,
+          "like_count": 234,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 163
+        },
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-10T07:04:39.000Z",
+        "description": "看人多的地方\n那里有流动性\n去人少的地方\n那里是盈利点",
+        "id": "1568495582762926082",
+        "location": "杭州",
+        "name": "贪狼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062557730624450560/OYDlu0bI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 125,
+          "like_count": 5464,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 868
+        },
+        "username": "Jessica31875193",
+        "verified": false
+      }
+    ]
+  }
+}

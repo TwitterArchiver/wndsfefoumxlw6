@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2063766854418718756",
+    "created_at": "2026-06-07T23:35:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T00:35:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063766854418718756"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qingshixiang25…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/qingshixiang258/status/2063286185255166166",
+          "start": 30,
+          "url": "https://t.co/tUCFmlitot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063766854418718756",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063286185255166166",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "建议所有男生割蛋女生摘子宫，这样人类快灭绝了就能相亲相爱了 https://t.co/tUCFmlitot"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2063286176765857792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJD2JQaUAAlru5.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2063766854418718756",
+        "created_at": "2026-06-07T23:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T00:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063766854418718756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qingshixiang25…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/qingshixiang258/status/2063286185255166166",
+              "start": 30,
+              "url": "https://t.co/tUCFmlitot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063766854418718756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063286185255166166",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "建议所有男生割蛋女生摘子宫，这样人类快灭绝了就能相亲相爱了 https://t.co/tUCFmlitot"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063286176765857792"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "2063286185255166166",
+        "created_at": "2026-06-06T15:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063286185255166166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cHWdBDKGX6",
+              "end": 85,
+              "expanded_url": "https://x.com/qingshixiang258/status/2063286185255166166/photo/1",
+              "media_key": "3_2063286176765857792",
+              "start": 62,
+              "url": "https://t.co/cHWdBDKGX6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063286185255166166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 103630,
+          "like_count": 1312,
+          "quote_count": 6,
+          "reply_count": 217,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "因为有人拍了一个女生穿lolita的视频，就有人发这东西…我不站男拳女拳，但是部分男的说女拳极端的时候能不能反思一下自己… https://t.co/cHWdBDKGX6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962欢迎互fo🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛3.0",
+        "pinned_tweet_id": "2061009751287463964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 39,
+          "like_count": 230,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 160
+        },
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2003,
+          "following_count": 1686,
+          "like_count": 42734,
+          "listed_count": 10,
+          "media_count": 1289,
+          "tweet_count": 20873
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      }
+    ]
+  }
+}

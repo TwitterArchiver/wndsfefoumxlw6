@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2063622293566411066",
+    "created_at": "2026-06-07T14:01:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T15:01:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063622293566411066"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/__fanqie__/sta…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/__fanqie__/status/2063428967785541790",
+          "start": 17,
+          "url": "https://t.co/tRRDkut0Ew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063622293566411066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063428967785541790",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "刘慈欣，你这双眼睛到底看到了多远 https://t.co/tRRDkut0Ew"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1063,
+        "media_key": "3_2063428959455637504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKLFtMObcAAlJVx.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2063622293566411066",
+        "created_at": "2026-06-07T14:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063622293566411066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/__fanqie__/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/__fanqie__/status/2063428967785541790",
+              "start": 17,
+              "url": "https://t.co/tRRDkut0Ew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063622293566411066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063428967785541790",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "刘慈欣，你这双眼睛到底看到了多远 https://t.co/tRRDkut0Ew"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063428959455637504"
+          ]
+        },
+        "author_id": "1756909109788753920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063428967785541790",
+        "created_at": "2026-06-07T01:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T02:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063428967785541790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wHaDnoEZKQ",
+              "end": 38,
+              "expanded_url": "https://x.com/__fanqie__/status/2063428967785541790/photo/1",
+              "media_key": "3_2063428959455637504",
+              "start": 15,
+              "url": "https://t.co/wHaDnoEZKQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063428967785541790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 52859,
+          "like_count": 887,
+          "quote_count": 2,
+          "reply_count": 38,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "刘慈欣到底看到了多远的未来？ https://t.co/wHaDnoEZKQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962欢迎互fo🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛3.0",
+        "pinned_tweet_id": "2061009751287463964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 38,
+          "like_count": 222,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 153
+        },
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅\n随机性评论，都懂一点\n不讨论政治/发梗图为主/\n侵权私信删除/接受投稿\n评论区约炮广告均为诈骗，请勿相信",
+        "id": "1756909109788753920",
+        "location": "番茄树上",
+        "name": "不包番茄籽的番茄",
+        "pinned_tweet_id": "2063489133331599430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7916,
+          "following_count": 2867,
+          "like_count": 1578,
+          "listed_count": 17,
+          "media_count": 1627,
+          "tweet_count": 9945
+        },
+        "username": "__fanqie__",
+        "verified": true
+      }
+    ]
+  }
+}

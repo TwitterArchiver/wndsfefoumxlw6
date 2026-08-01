@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2064233221337108676",
+    "created_at": "2026-06-09T06:28:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T07:28:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064233221337108676"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/VonJu0/status/…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/VonJu0/status/2064022561504321852",
+          "start": 10,
+          "url": "https://t.co/kekJ6lwAxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064233221337108676",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064022561504321852",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "港澳通行证不难办吧 https://t.co/kekJ6lwAxx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2064233221337108676",
+        "created_at": "2026-06-09T06:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T07:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064233221337108676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/VonJu0/status/…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/VonJu0/status/2064022561504321852",
+              "start": 10,
+              "url": "https://t.co/kekJ6lwAxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064233221337108676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064022561504321852",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "港澳通行证不难办吧 https://t.co/kekJ6lwAxx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998647355839754240",
+        "conversation_id": "2064022561504321852",
+        "created_at": "2026-06-08T16:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T17:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064022561504321852"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064022561504321852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 48700,
+          "like_count": 266,
+          "quote_count": 7,
+          "reply_count": 148,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "才发现\n洋大人去香港直接免签\n某国人去香港要港澳通行证"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962欢迎互fo🐱电子烟代➕vx：c313s852j0976或私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛3.0（烟代版）",
+        "pinned_tweet_id": "2061009751287463964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 42,
+          "like_count": 314,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 213
+        },
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T06:54:05.000Z",
+        "description": "vonju 06大学生 211在读 沉默的观察者\n\n真实思考 观点输出 人生讨论 社会热点 美股投资",
+        "id": "1998647355839754240",
+        "location": "Los Angeles, CA",
+        "name": "风菊vonju",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050137749106425856/cHbj5-zj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1901,
+          "following_count": 370,
+          "like_count": 2573,
+          "listed_count": 7,
+          "media_count": 112,
+          "tweet_count": 2359
+        },
+        "username": "VonJu0",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2065652718954565705",
+    "created_at": "2026-06-13T04:29:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T05:29:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065652718954565705"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wndsfefoumxlw6…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/wndsfefoumxlw6/status/2065289740686143726",
+          "start": 8,
+          "url": "https://t.co/zGnrEzkIil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065652718954565705",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065289740686143726",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已跑路，望周知 https://t.co/zGnrEzkIil"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065289667600359424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKliAqOaoAAcs_J.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2065652718954565705",
+        "created_at": "2026-06-13T04:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T05:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065652718954565705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wndsfefoumxlw6…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/wndsfefoumxlw6/status/2065289740686143726",
+              "start": 8,
+              "url": "https://t.co/zGnrEzkIil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065652718954565705",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065289740686143726",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已跑路，望周知 https://t.co/zGnrEzkIil"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065289667600359424"
+          ]
+        },
+        "author_id": "2059149411007991808",
+        "conversation_id": "2065289740686143726",
+        "created_at": "2026-06-12T04:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T05:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065289740686143726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j6dgYoNJq2",
+              "end": 47,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2065289740686143726/photo/1",
+              "media_key": "3_2065289667600359424",
+              "start": 24,
+              "url": "https://t.co/j6dgYoNJq2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065289740686143726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 324,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "找了个便利店的工作，月薪4000月休2天怎么样 https://t.co/j6dgYoNJq2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962欢迎互fo🐱电子烟代➕vx：c313s852j0976或私信（无上头）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛洛3.0（烟代版）",
+        "pinned_tweet_id": "2065465722890014753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 49,
+          "like_count": 549,
+          "listed_count": 2,
+          "media_count": 95,
+          "tweet_count": 360
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      }
+    ]
+  }
+}
