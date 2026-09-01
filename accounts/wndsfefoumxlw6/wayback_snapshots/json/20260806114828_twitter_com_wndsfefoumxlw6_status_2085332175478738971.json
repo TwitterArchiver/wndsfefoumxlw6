@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2085267584925245590",
+    "created_at": "2026-08-06T11:48:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T12:48:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085332175478738971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1644244950786228225",
+          "start": 0,
+          "username": "poka22332"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085332175478738971",
+    "in_reply_to_user_id": "1644244950786228225",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085328684895064381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@poka22332 我骨像不好呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2085267584925245590",
+        "created_at": "2026-08-06T11:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T12:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085332175478738971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1644244950786228225",
+              "start": 0,
+              "username": "poka22332"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085332175478738971",
+        "in_reply_to_user_id": "1644244950786228225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085328684895064381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@poka22332 我骨像不好呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644244950786228225",
+        "conversation_id": "2085267584925245590",
+        "created_at": "2026-08-06T11:34:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T12:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085328684895064381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059149411007991808",
+              "start": 0,
+              "username": "wndsfefoumxlw6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085328684895064381",
+        "in_reply_to_user_id": "2059149411007991808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085267584925245590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wndsfefoumxlw6 那你是骨相喵?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/💊💉避难所：@SRamirez66171/@imqrmrtvom1lkt\n这个号主发日常\n礼貌互fo🐱\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWifkSsU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "SRamirez66171"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 78,
+                "start": 62,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 106,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 83,
+                "url": "https://t.co/89bWifkSsU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1186,
+          "following_count": 226,
+          "like_count": 5724,
+          "listed_count": 3,
+          "media_count": 356,
+          "tweet_count": 2634
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-07T07:45:31.000Z",
+        "description": "喵喵|友好喵🥹|生产日期07.05|想了解更多喵|对🍥很感兴趣喵🥹|关注我的话我会很开心的喵🥹|请不要对我说奇怪的话，谢谢喵!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/buqiqi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/buqiqi",
+                "start": 0,
+                "url": "https://t.co/dG8g7GEDdO"
+              }
+            ]
+          }
+        },
+        "id": "1644244950786228225",
+        "name": "soznwj",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051585214191915008/ZKrKKO0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 139,
+          "like_count": 1517,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 578
+        },
+        "url": "https://t.co/dG8g7GEDdO",
+        "username": "poka22332",
+        "verified": false
+      }
+    ]
+  }
+}

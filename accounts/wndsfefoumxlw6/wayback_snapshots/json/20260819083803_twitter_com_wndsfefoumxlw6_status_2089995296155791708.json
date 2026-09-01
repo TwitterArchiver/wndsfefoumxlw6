@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2089964346977997170",
+    "created_at": "2026-08-19T08:38:03.000Z",
+    "display_text_range": [
+      40,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T09:38:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089995296155791708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2047879211168493568",
+          "start": 0,
+          "username": "aberyoheiabe"
+        },
+        {
+          "end": 25,
+          "id": "2087070635503882241",
+          "start": 14,
+          "username": "orangetquh"
+        },
+        {
+          "end": 39,
+          "id": "1804875241367433216",
+          "start": 26,
+          "username": "aberyoheiskm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089995296155791708",
+    "in_reply_to_user_id": "2047879211168493568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089964346977997170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aberyoheiabe @orangetquh @aberyoheiskm msk疯了"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [orangetquh].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "orangetquh",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "orangetquh"
+    },
+    {
+      "detail": "User has been suspended: [aberyoheiskm].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "aberyoheiskm",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "aberyoheiskm"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2089964330116866048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQELfDHaYAAAVnC.jpg",
+        "width": 872
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2089964338618814464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQELfiyb0AAvPn8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2089964346977997170",
+        "created_at": "2026-08-19T08:38:03.000Z",
+        "display_text_range": [
+          40,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T09:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089995296155791708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047879211168493568",
+              "start": 0,
+              "username": "aberyoheiabe"
+            },
+            {
+              "end": 25,
+              "id": "2087070635503882241",
+              "start": 14,
+              "username": "orangetquh"
+            },
+            {
+              "end": 39,
+              "id": "1804875241367433216",
+              "start": 26,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089995296155791708",
+        "in_reply_to_user_id": "2047879211168493568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089964346977997170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiabe @orangetquh @aberyoheiskm msk疯了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089964330116866048",
+            "3_2089964338618814464"
+          ]
+        },
+        "author_id": "2047879211168493568",
+        "conversation_id": "2089964346977997170",
+        "created_at": "2026-08-19T06:35:04.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089964346977997170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "2087070635503882241",
+              "start": 9,
+              "username": "orangetquh"
+            },
+            {
+              "end": 46,
+              "id": "1804875241367433216",
+              "start": 33,
+              "username": "aberyoheiskm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Hb0rkBGqU",
+              "end": 82,
+              "expanded_url": "https://x.com/aberyoheiabe/status/2089964346977997170/photo/1",
+              "media_key": "3_2089964330116866048",
+              "start": 59,
+              "url": "https://t.co/4Hb0rkBGqU"
+            },
+            {
+              "display_url": "pic.x.com/4Hb0rkBGqU",
+              "end": 82,
+              "expanded_url": "https://x.com/aberyoheiabe/status/2089964346977997170/photo/1",
+              "media_key": "3_2089964338618814464",
+              "start": 59,
+              "url": "https://t.co/4Hb0rkBGqU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089964346977997170",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2089964330116866048"
+          },
+          {
+            "media_key": "3_2089964338618814464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 408,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "大家好\n橘子的新号@orangetquh orange\n和我的大号@aberyoheiskm すずめ🩵\n均已被冻结😇 https://t.co/4Hb0rkBGqU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/💊💉避难所：@SRamirez66171/@imqrmrtvom1lkt/@NicoleTravabgk电子烟+v：c313s852j0976\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWifkSsU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "SRamirez66171"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "NicoleTravabgk"
+              },
+              {
+                "end": 98,
+                "start": 82,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 126,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 103,
+                "url": "https://t.co/89bWifkSsU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089995296155791708",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149411007991808/1780217819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1250,
+          "following_count": 333,
+          "like_count": 6850,
+          "listed_count": 3,
+          "media_count": 392,
+          "tweet_count": 3080
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-25T03:24:13.000Z",
+        "description": "这里是@aberyoheiskmの小号（爆哭）（←成分看这个号\n以备不时之需而备用中\nmsk别搞我谢谢\n寻回互fo、拜托了！૮⸝⸝o̴̶̷᷄ ·̭ o̴̶̷̥᷅⸝⸝ა\n↓🦋的联系方式！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "aberyoheiskm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/aberyo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/aberyoheiskm.bsky.social",
+                "start": 0,
+                "url": "https://t.co/8Sfw0dOLQB"
+              }
+            ]
+          }
+        },
+        "id": "2047879211168493568",
+        "is_identity_verified": false,
+        "location": "地獄の監禁室",
+        "most_recent_tweet_id": "2089986070184349852",
+        "name": "⊹ SUZUME ⊹🩵（寻回互fo）",
+        "pinned_tweet_id": "2085446161243201959",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047879211168493568/1777087553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047885258499162112/U69oegBR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 105,
+          "like_count": 128,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 92
+        },
+        "url": "https://t.co/8Sfw0dOLQB",
+        "username": "aberyoheiabe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

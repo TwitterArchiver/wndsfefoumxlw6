@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2087091882870575606",
+    "created_at": "2026-08-11T08:20:55.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T09:20:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087091882870575606"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuzhazha69/sta…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/yuzhazha69/status/2086857278905577793",
+          "start": 15,
+          "url": "https://t.co/zS47T3Oidi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087091882870575606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086857278905577793",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "言论自由模拟器（房主有神器） https://t.co/zS47T3Oidi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2086857267694235648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPYBoNnbcAAfXQZ.jpg",
+        "width": 828
+      },
+      {
+        "height": 1792,
+        "media_key": "3_2086857267698372608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPYBoNoakAARzqg.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2087091882870575606",
+        "created_at": "2026-08-11T08:20:55.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T09:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087091882870575606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuzhazha69/sta…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/yuzhazha69/status/2086857278905577793",
+              "start": 15,
+              "url": "https://t.co/zS47T3Oidi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087091882870575606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086857278905577793",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "言论自由模拟器（房主有神器） https://t.co/zS47T3Oidi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086857267694235648",
+            "3_2086857267698372608"
+          ]
+        },
+        "author_id": "2083081810859466752",
+        "conversation_id": "2086857278905577793",
+        "created_at": "2026-08-10T16:48:41.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T17:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086857278905577793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oaWJW5UpLn",
+              "end": 25,
+              "expanded_url": "https://x.com/yuzhazha69/status/2086857278905577793/photo/1",
+              "media_key": "3_2086857267694235648",
+              "start": 2,
+              "url": "https://t.co/oaWJW5UpLn"
+            },
+            {
+              "display_url": "pic.x.com/oaWJW5UpLn",
+              "end": 25,
+              "expanded_url": "https://x.com/yuzhazha69/status/2086857278905577793/photo/1",
+              "media_key": "3_2086857267698372608",
+              "start": 2,
+              "url": "https://t.co/oaWJW5UpLn"
+            },
+            {
+              "display_url": "x.com/yuzhazha69/sta…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/yuzhazha69/status/2086454141279179033",
+              "start": 26,
+              "url": "https://t.co/nsCEnQfZ6q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086857278905577793",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086857267694235648"
+          },
+          {
+            "media_key": "3_2086857267698372608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1583,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086454141279179033",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "滚 https://t.co/oaWJW5UpLn https://t.co/nsCEnQfZ6q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/💊💉避难所：@SRamirez66171/@imqrmrtvom1lkt/@NicoleTravabgk电子烟+v：c313s852j0976\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWifkSsU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "SRamirez66171"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "NicoleTravabgk"
+              },
+              {
+                "end": 98,
+                "start": 82,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 126,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 103,
+                "url": "https://t.co/89bWifkSsU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087091882870575606",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149411007991808/1780217819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1234,
+          "following_count": 319,
+          "like_count": 6427,
+          "listed_count": 3,
+          "media_count": 371,
+          "tweet_count": 2888
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-31T06:47:17.000Z",
+        "description": "4.0火乍玉\nod/自伤/精神病内容\n妈妈@boqiaoahm4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "boqiaoahm4"
+              }
+            ]
+          }
+        },
+        "id": "2083081810859466752",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087074361052475608",
+        "name": "炸炸火乍玉",
+        "pinned_tweet_id": "2086345944996659524",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083081810859466752/1785480562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083082423362031617/XGLgLscM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 153,
+          "like_count": 275,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 114
+        },
+        "url": "",
+        "username": "yuzhazha69",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

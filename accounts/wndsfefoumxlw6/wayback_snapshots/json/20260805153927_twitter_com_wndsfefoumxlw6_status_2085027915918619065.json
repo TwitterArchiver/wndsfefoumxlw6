@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2084968341589123363",
+    "created_at": "2026-08-05T15:39:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T16:39:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085027915918619065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2078716467781013504",
+          "start": 0,
+          "username": "slearthly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085027915918619065",
+    "in_reply_to_user_id": "2078716467781013504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085008638117392881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@slearthly 好惨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2084968341589123363",
+        "created_at": "2026-08-05T15:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T16:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085027915918619065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2078716467781013504",
+              "start": 0,
+              "username": "slearthly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085027915918619065",
+        "in_reply_to_user_id": "2078716467781013504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085008638117392881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@slearthly 好惨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078716467781013504",
+        "conversation_id": "2084968341589123363",
+        "created_at": "2026-08-05T14:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T15:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085008638117392881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059149411007991808",
+              "start": 0,
+              "username": "wndsfefoumxlw6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085008638117392881",
+        "in_reply_to_user_id": "2059149411007991808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084968341589123363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wndsfefoumxlw6 甲鱼过敏了，小时候吃过一次差点没回来（）不敢吃了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/💊💉避难所：@SRamirez66171/@imqrmrtvom1lkt\n礼貌互fo🐱\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWifkSsU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "SRamirez66171"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 70,
+                "start": 54,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 98,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 75,
+                "url": "https://t.co/89bWifkSsU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1175,
+          "following_count": 220,
+          "like_count": 5609,
+          "listed_count": 3,
+          "media_count": 354,
+          "tweet_count": 2590
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-19T05:54:53.000Z",
+        "description": "买糖加Q2242469625\n雌/孕/抗雄/减肥药代理/美白/pr美金玉米\n09年无证/🍥25.11.16/od妹/双向/坐标广东/高二/jumpstyle爱好者/亚文化/中二病患者/ygo（ocg）肃声低手/可互fo  可以叫雾川岛/小雾  没回就是在睡觉",
+        "id": "2078716467781013504",
+        "name": "sly雾川岛🍥（糖代）",
+        "pinned_tweet_id": "2081676548311269814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083658872645210112/hn7GhzHi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 187,
+          "like_count": 483,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 317
+        },
+        "url": "",
+        "username": "slearthly",
+        "verified": false
+      }
+    ]
+  }
+}

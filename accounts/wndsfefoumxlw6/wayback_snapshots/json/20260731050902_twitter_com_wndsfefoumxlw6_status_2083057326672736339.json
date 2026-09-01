@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2082486217304641607",
+    "created_at": "2026-07-31T05:09:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T06:09:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083057326672736339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1084526175727185920",
+          "start": 0,
+          "username": "yukominami520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083057326672736339",
+    "in_reply_to_user_id": "1084526175727185920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082486217304641607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukominami520 破绷了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082486190570160128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZ6KCaXQAABw8X.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2082486217304641607",
+        "created_at": "2026-07-31T05:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T06:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083057326672736339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1084526175727185920",
+              "start": 0,
+              "username": "yukominami520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083057326672736339",
+        "in_reply_to_user_id": "1084526175727185920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082486217304641607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukominami520 破绷了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082486190570160128"
+          ]
+        },
+        "author_id": "1084526175727185920",
+        "conversation_id": "2082486217304641607",
+        "created_at": "2026-07-29T15:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082486217304641607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XD51cv0mU3",
+              "end": 46,
+              "expanded_url": "https://x.com/yukominami520/status/2082486217304641607/photo/1",
+              "media_key": "3_2082486190570160128",
+              "start": 23,
+              "url": "https://t.co/XD51cv0mU3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082486217304641607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 375515,
+          "like_count": 5771,
+          "quote_count": 18,
+          "reply_count": 1042,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "到底是谁告诉这些傻逼翻墙出来就是翻到怡红院的 https://t.co/XD51cv0mU3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/避难所：@SRamirez66171\n 电子烟需要的私信我 vx：c313s852j0976（无上头，再问死全家）接刷粉\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "SRamirez66171"
+              },
+              {
+                "end": 90,
+                "start": 74,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 118,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 95,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1150,
+          "following_count": 183,
+          "like_count": 5247,
+          "listed_count": 3,
+          "media_count": 342,
+          "tweet_count": 2454
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-13T19:02:44.000Z",
+        "description": "enfp不快乐小咪丨天蝎丨168cm 75kg丨年龄是永远18岁丨屁话巨多的碎碎念大王\r一个喜欢欣赏美好肉体的淳朴小女孩😋只是爱说骚话我真的不看🐮不yp不陪聊",
+        "id": "1084526175727185920",
+        "location": "老婆的怀里",
+        "name": "Yukominami",
+        "pinned_tweet_id": "2075772899760488940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059467800499122176/fQznr4xS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4305,
+          "following_count": 506,
+          "like_count": 17847,
+          "listed_count": 4,
+          "media_count": 1485,
+          "tweet_count": 6646
+        },
+        "url": "",
+        "username": "yukominami520",
+        "verified": false
+      }
+    ]
+  }
+}

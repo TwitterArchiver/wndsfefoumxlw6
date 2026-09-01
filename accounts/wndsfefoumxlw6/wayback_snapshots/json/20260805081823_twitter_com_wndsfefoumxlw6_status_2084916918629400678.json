@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084916861205168128"
+      ]
+    },
+    "author_id": "2059149411007991808",
+    "conversation_id": "2084911289370034635",
+    "created_at": "2026-08-05T08:18:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T09:18:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084916918629400678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1830934925769613334",
+          "start": 0,
+          "username": "Jinggebiezhuaw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ito9Q3xbSb",
+          "end": 43,
+          "expanded_url": "https://x.com/wndsfefoumxlw6/status/2084916918629400678/photo/1",
+          "media_key": "3_2084916861205168128",
+          "start": 20,
+          "url": "https://t.co/Ito9Q3xbSb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084916918629400678",
+    "in_reply_to_user_id": "1830934925769613334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084911289370034635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jinggebiezhuaw 不真实 https://t.co/Ito9Q3xbSb"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2084911289370034635].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2084911289370034635",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2084911289370034635"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1411,
+        "media_key": "3_2084916861205168128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8c1sJbQAAMyT_.jpg",
+        "width": 1105
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084916861205168128"
+          ]
+        },
+        "author_id": "2059149411007991808",
+        "conversation_id": "2084911289370034635",
+        "created_at": "2026-08-05T08:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T09:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084916918629400678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1830934925769613334",
+              "start": 0,
+              "username": "Jinggebiezhuaw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ito9Q3xbSb",
+              "end": 43,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2084916918629400678/photo/1",
+              "media_key": "3_2084916861205168128",
+              "start": 20,
+              "url": "https://t.co/Ito9Q3xbSb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084916918629400678",
+        "in_reply_to_user_id": "1830934925769613334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084911289370034635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jinggebiezhuaw 不真实 https://t.co/Ito9Q3xbSb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/避难所：@SRamirez66171/@imqrmrtvom1lkt\n 电子烟需要的私信我 vx：c313s852j0976（无上头）\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWifkSsU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "SRamirez66171"
+              },
+              {
+                "end": 41,
+                "start": 26,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 94,
+                "start": 78,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 122,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 99,
+                "url": "https://t.co/89bWifkSsU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163,
+          "following_count": 199,
+          "like_count": 5484,
+          "listed_count": 3,
+          "media_count": 351,
+          "tweet_count": 2549
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "description": "奥克萨娜（锁推养号中），黑长直性恋，精神分裂确诊，做导演的。非典型化学推，启灵物质狂信徒。化学物质使用咨询💊。神秘魔界大门入口：@Oksana222RC\n已婚 @Nonentity_xxx17",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 64,
+                "username": "Oksana222RC"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "Nonentity_xxx17"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/McxnWOqnfO"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "2064158937000358141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3564,
+          "following_count": 279,
+          "like_count": 1858,
+          "listed_count": 5,
+          "media_count": 180,
+          "tweet_count": 839
+        },
+        "url": "https://t.co/McxnWOqnfO",
+        "username": "Jinggebiezhuaw",
+        "verified": true
+      }
+    ]
+  }
+}

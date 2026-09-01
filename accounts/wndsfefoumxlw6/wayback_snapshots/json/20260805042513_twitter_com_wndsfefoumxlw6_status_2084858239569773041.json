@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2084213026027393076",
+    "created_at": "2026-08-05T04:25:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T05:25:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084858239569773041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1598976218715803648",
+          "start": 0,
+          "username": "Knn_zZZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084858239569773041",
+    "in_reply_to_user_id": "1598976218715803648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084213026027393076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Knn_zZZ 那完了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2084213026027393076",
+        "created_at": "2026-08-05T04:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T05:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084858239569773041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1598976218715803648",
+              "start": 0,
+              "username": "Knn_zZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084858239569773041",
+        "in_reply_to_user_id": "1598976218715803648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084213026027393076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Knn_zZZ 那完了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598976218715803648",
+        "conversation_id": "2084213026027393076",
+        "created_at": "2026-08-03T09:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T10:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084213026027393076"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084213026027393076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15584,
+          "like_count": 251,
+          "quote_count": 2,
+          "reply_count": 68,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "意外知道15后的表妹现在是地雷系…我印象里她还是个小婴儿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/避难所：@SRamirez66171/@imqrmrtvom1lkt\n 电子烟需要的私信我 vx：c313s852j0976（无上头）\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWifkSsU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "SRamirez66171"
+              },
+              {
+                "end": 44,
+                "start": 29,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 97,
+                "start": 81,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 125,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 102,
+                "url": "https://t.co/89bWifkSsU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1158,
+          "following_count": 199,
+          "like_count": 5461,
+          "listed_count": 3,
+          "media_count": 349,
+          "tweet_count": 2536
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T09:43:50.000Z",
+        "description": "龇牙龇牙",
+        "id": "1598976218715803648",
+        "name": "纳兹宁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799892620598276096/IJLGuVkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 1569,
+          "like_count": 35478,
+          "listed_count": 1,
+          "media_count": 204,
+          "tweet_count": 3403
+        },
+        "url": "",
+        "username": "Knn_zZZ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2089398611331465495",
+    "created_at": "2026-08-18T17:07:31.000Z",
+    "display_text_range": [
+      10,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T18:07:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089761121721037059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1493016356182056961",
+          "start": 0,
+          "username": "Mintink3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089761121721037059",
+    "in_reply_to_user_id": "1493016356182056961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089398611331465495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mintink3 离这种傻逼远点吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089398592343846912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8I8xrbMAAHDtv.jpg",
+        "width": 813
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089398592293466112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8I8xfacAAoqmH.jpg",
+        "width": 806
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089398592301891584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8I8xhbAAA0QAL.jpg",
+        "width": 806
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2089398611331465495",
+        "created_at": "2026-08-18T17:07:31.000Z",
+        "display_text_range": [
+          10,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T18:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089761121721037059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1493016356182056961",
+              "start": 0,
+              "username": "Mintink3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089761121721037059",
+        "in_reply_to_user_id": "1493016356182056961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089398611331465495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mintink3 离这种傻逼远点吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089398592343846912",
+            "3_2089398592293466112",
+            "3_2089398592301891584"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2089398611331465495",
+        "created_at": "2026-08-17T17:07:02.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T18:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089398611331465495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3zj05BSBTA",
+              "end": 165,
+              "expanded_url": "https://x.com/Mintink3/status/2089398611331465495/photo/1",
+              "media_key": "3_2089398592343846912",
+              "start": 142,
+              "url": "https://t.co/3zj05BSBTA"
+            },
+            {
+              "display_url": "pic.x.com/3zj05BSBTA",
+              "end": 165,
+              "expanded_url": "https://x.com/Mintink3/status/2089398611331465495/photo/1",
+              "media_key": "3_2089398592293466112",
+              "start": 142,
+              "url": "https://t.co/3zj05BSBTA"
+            },
+            {
+              "display_url": "pic.x.com/3zj05BSBTA",
+              "end": 165,
+              "expanded_url": "https://x.com/Mintink3/status/2089398611331465495/photo/1",
+              "media_key": "3_2089398592301891584",
+              "start": 142,
+              "url": "https://t.co/3zj05BSBTA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089398611331465495",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089398592343846912"
+          },
+          {
+            "media_key": "3_2089398592293466112"
+          },
+          {
+            "media_key": "3_2089398592301891584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "大家真的不要让身边健全人知道你在嗑药 不然有的贱人就会一直提 甚至不分场合地在别人面前说我嗑药 \n\n我今天帮他发单 他自己发错地址 然后在有其他朋友的群里说我嗑药是我发错的\n\n我说了我没有嗑药 说了我没发错 还跟别人说是我发错了一直骂我 骂了我一天了我本来陪客户就受尽委屈我还受他气 我直接爆发了"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 11966,
+          "like_count": 134,
+          "quote_count": 6,
+          "reply_count": 34,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "大家真的不要让身边健全人知道你在嗑药 不然有的贱人就会一直提 甚至不分场合地在别人面前说我嗑药 \n\n我今天帮他发单 他自己发错地址 然后在有其他朋友的群里说我嗑药是我发错的\n\n我说了我没有嗑药 说了我没发错 还跟别人说是我发错了一直骂我 骂了我一天了我本来陪客户就受尽委屈我还受他气 https://t.co/3zj05BSBTA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/💊💉避难所：@SRamirez66171/@imqrmrtvom1lkt/@NicoleTravabgk电子烟+v：c313s852j0976\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWifkSsU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "SRamirez66171"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "NicoleTravabgk"
+              },
+              {
+                "end": 98,
+                "start": 82,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 126,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 103,
+                "url": "https://t.co/89bWifkSsU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089761121721037059",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149411007991808/1780217819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1267,
+          "following_count": 346,
+          "like_count": 6833,
+          "listed_count": 3,
+          "media_count": 390,
+          "tweet_count": 3068
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍餐券女休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2089755754836492601",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 997,
+          "like_count": 7843,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 1212
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2085563613880991861",
+    "created_at": "2026-08-07T03:08:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T04:08:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085563613880991861"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Apipleeeee/sta…",
+          "end": 122,
+          "expanded_url": "https://twitter.com/Apipleeeee/status/2084960929155088601",
+          "start": 99,
+          "url": "https://t.co/1gRA0E8sZ0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085563613880991861",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084960929155088601",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这种跟我前任一样最恶心了发消息从来不看，就分享一些无趣的日常，天天暗示我给他钱，把我的精力一点点榨干，背着我骚扰我朋友后面我朋友告诉我了他还跑去骂他，还是我去道歉搞得什么都是别人的错一样，我糙你妈 https://t.co/1gRA0E8sZ0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2085563613880991861",
+        "created_at": "2026-08-07T03:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T04:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085563613880991861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Apipleeeee/sta…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/Apipleeeee/status/2084960929155088601",
+              "start": 99,
+              "url": "https://t.co/1gRA0E8sZ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085563613880991861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084960929155088601",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种跟我前任一样最恶心了发消息从来不看，就分享一些无趣的日常，天天暗示我给他钱，把我的精力一点点榨干，背着我骚扰我朋友后面我朋友告诉我了他还跑去骂他，还是我去道歉搞得什么都是别人的错一样，我糙你妈 https://t.co/1gRA0E8sZ0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905566526595629060",
+        "conversation_id": "2084960929155088601",
+        "created_at": "2026-08-05T11:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T12:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084960929155088601"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084960929155088601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 26704,
+          "like_count": 765,
+          "quote_count": 15,
+          "reply_count": 82,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "我是觉得对方想要发展友谊/爱情应该展现出对我的探索和好奇，去倾听我，而不是倒反天罡地一直需要我提供情绪价值，绞尽脑汁回应ta源源不断发来的乏味日常…力竭了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/💊💉避难所：@SRamirez66171/@imqrmrtvom1lkt\n这个号主发日常\n礼貌互fo🐱\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWifkSsU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "SRamirez66171"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 78,
+                "start": 62,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 106,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 83,
+                "url": "https://t.co/89bWifkSsU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 228,
+          "like_count": 5794,
+          "listed_count": 3,
+          "media_count": 358,
+          "tweet_count": 2656
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-28T10:24:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "work-fengniao.com",
+                "end": 23,
+                "expanded_url": "https://www.work-fengniao.com",
+                "start": 0,
+                "url": "https://t.co/Dsq2OLMIWP"
+              }
+            ]
+          }
+        },
+        "id": "1905566526595629060",
+        "name": "苹果",
+        "pinned_tweet_id": "2041450168307024329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021931545674850304/T1ritExR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13917,
+          "following_count": 1,
+          "like_count": 4821,
+          "listed_count": 36,
+          "media_count": 624,
+          "tweet_count": 1976
+        },
+        "url": "https://t.co/Dsq2OLMIWP",
+        "username": "Apipleeeee",
+        "verified": false
+      }
+    ]
+  }
+}

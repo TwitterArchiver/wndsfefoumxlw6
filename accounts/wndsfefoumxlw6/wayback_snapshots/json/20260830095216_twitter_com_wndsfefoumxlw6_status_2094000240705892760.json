@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2094000240705892760",
+    "created_at": "2026-08-30T09:52:16.000Z",
+    "display_text_range": [
+      0,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T10:52:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094000240705892760"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/atengyuan01/st…",
+          "end": 98,
+          "expanded_url": "https://twitter.com/atengyuan01/status/2093577813203054967",
+          "start": 75,
+          "url": "https://t.co/wUQzsz15uv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094000240705892760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093577813203054967",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "事实是抖音上大多数确实都是跟风的无病呻吟，一群人为了追赶所谓的潮流，没工作还有钱跑出去挂壁，买日牌地雷服，如果真是家长傻逼根本不可能让你们做这样的事 https://t.co/wUQzsz15uv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 55902,
+        "height": 1280,
+        "media_key": "13_2093577753161519104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2093577753161519104/img/bZFw7aCs07Nabd8j.jpg",
+        "public_metrics": {
+          "view_count": 44774
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093577753161519104/vid/avc1/320x568/RBTUL67Kh9ey8lE-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093577753161519104/vid/avc1/480x852/fUAHKVJdrXcQIH8r.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093577753161519104/vid/avc1/720x1280/1sQBU_6lTqvxWpTS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2093577753161519104/pl/xi1u7RHNpGz41Ah0.m3u8?v=322"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2094000240705892760",
+        "created_at": "2026-08-30T09:52:16.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T10:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094000240705892760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/atengyuan01/st…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/atengyuan01/status/2093577813203054967",
+              "start": 75,
+              "url": "https://t.co/wUQzsz15uv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094000240705892760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093577813203054967",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "事实是抖音上大多数确实都是跟风的无病呻吟，一群人为了追赶所谓的潮流，没工作还有钱跑出去挂壁，买日牌地雷服，如果真是家长傻逼根本不可能让你们做这样的事 https://t.co/wUQzsz15uv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093577753161519104"
+          ]
+        },
+        "author_id": "1953189021611597824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2093577813203054967",
+        "created_at": "2026-08-29T05:53:42.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T06:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093577813203054967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IYhs1cICUh",
+              "end": 146,
+              "expanded_url": "https://x.com/atengyuan01/status/2093577813203054967/video/1",
+              "media_key": "13_2093577753161519104",
+              "start": 123,
+              "url": "https://t.co/IYhs1cICUh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093577813203054967",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2093577753161519104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 73917,
+          "like_count": 1195,
+          "quote_count": 40,
+          "reply_count": 186,
+          "retweet_count": 123
+        },
+        "reply_settings": "everyone",
+        "text": "中国的教育观念真的是傻逼到拍这种宣传片都散发一股恶臭 在暗示什么？暗示青少年磕药是没事找事吗？？把背后那么多原因全部幽默化防御 直视真正的问题很难么？？学校的心理咨询室永远都是摆设 花钱去看所谓国家级咨询师只会讲些无脑空化 到底是谁的问题？？？ https://t.co/IYhs1cICUh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/💊避难所：@SRamirez66171/@imqrmrtvom1lkt/@NicoleTravabgk电子烟+v：c313s852j0976\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWifkSsU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "SRamirez66171"
+              },
+              {
+                "end": 42,
+                "start": 27,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "NicoleTravabgk"
+              },
+              {
+                "end": 97,
+                "start": 81,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 125,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 102,
+                "url": "https://t.co/89bWifkSsU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094000240705892760",
+        "name": "洛",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149411007991808/1780217819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1328,
+          "following_count": 348,
+          "like_count": 7544,
+          "listed_count": 3,
+          "media_count": 422,
+          "tweet_count": 3376
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-06T20:19:00.000Z",
+        "description": "我们都在用力的活着…",
+        "id": "1953189021611597824",
+        "is_identity_verified": false,
+        "location": "🚪52纯绿",
+        "most_recent_tweet_id": "2093976251665150307",
+        "name": "小桉兒",
+        "pinned_tweet_id": "2093700127722741962",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1953189021611597824/1762268046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982177614799253506/zLFIb9hJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 121,
+          "like_count": 973,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 541
+        },
+        "url": "",
+        "username": "atengyuan01",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

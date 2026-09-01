@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093946592487510016"
+      ],
+      "media_source_tweet_id": [
+        "2093946598640468156"
+      ]
+    },
+    "author_id": "2059149411007991808",
+    "conversation_id": "2093998831855976632",
+    "created_at": "2026-08-30T09:46:40.000Z",
+    "display_text_range": [
+      0,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T10:46:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093998831855976632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2059342455376678912",
+          "start": 3,
+          "username": "fmf5y"
+        },
+        {
+          "end": 26,
+          "id": "2065198847698337792",
+          "start": 15,
+          "username": "mzmorz8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/M2hCSDXykw",
+          "end": 75,
+          "expanded_url": "https://x.com/fmf5y/status/2093946598640468156/photo/1",
+          "media_key": "3_2093946592487510016",
+          "start": 52,
+          "url": "https://t.co/M2hCSDXykw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093998831855976632",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093946592487510016"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093946598640468156",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fmf5y: 这里是 @mzmorz8964 我的账号被冻结了，在解冻前会使用这个账号\n求帮转 https://t.co/M2hCSDXykw"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [mzmorz8964].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "mzmorz8964",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "mzmorz8964"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2376,
+        "media_key": "3_2093946592487510016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ8xVOfbkAA3E4L.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093946592487510016"
+          ],
+          "media_source_tweet_id": [
+            "2093946598640468156"
+          ]
+        },
+        "author_id": "2059149411007991808",
+        "conversation_id": "2093998831855976632",
+        "created_at": "2026-08-30T09:46:40.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T10:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093998831855976632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2059342455376678912",
+              "start": 3,
+              "username": "fmf5y"
+            },
+            {
+              "end": 26,
+              "id": "2065198847698337792",
+              "start": 15,
+              "username": "mzmorz8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M2hCSDXykw",
+              "end": 75,
+              "expanded_url": "https://x.com/fmf5y/status/2093946598640468156/photo/1",
+              "media_key": "3_2093946592487510016",
+              "start": 52,
+              "url": "https://t.co/M2hCSDXykw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093998831855976632",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093946592487510016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093946598640468156",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fmf5y: 这里是 @mzmorz8964 我的账号被冻结了，在解冻前会使用这个账号\n求帮转 https://t.co/M2hCSDXykw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093946592487510016"
+          ]
+        },
+        "author_id": "2059342455376678912",
+        "conversation_id": "2093946598640468156",
+        "created_at": "2026-08-30T06:19:07.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T07:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093946598640468156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2065198847698337792",
+              "start": 4,
+              "username": "mzmorz8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M2hCSDXykw",
+              "end": 64,
+              "expanded_url": "https://x.com/fmf5y/status/2093946598640468156/photo/1",
+              "media_key": "3_2093946592487510016",
+              "start": 41,
+              "url": "https://t.co/M2hCSDXykw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093946598640468156",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093946592487510016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 171,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "这里是 @mzmorz8964 我的账号被冻结了，在解冻前会使用这个账号\n求帮转 https://t.co/M2hCSDXykw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/💊避难所：@SRamirez66171/@imqrmrtvom1lkt/@NicoleTravabgk电子烟+v：c313s852j0976\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWifkSsU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "SRamirez66171"
+              },
+              {
+                "end": 42,
+                "start": 27,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "NicoleTravabgk"
+              },
+              {
+                "end": 97,
+                "start": 81,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 125,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 102,
+                "url": "https://t.co/89bWifkSsU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093998831855976632",
+        "name": "洛",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149411007991808/1780217819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1328,
+          "following_count": 348,
+          "like_count": 7542,
+          "listed_count": 3,
+          "media_count": 422,
+          "tweet_count": 3374
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T18:36:25.000Z",
+        "description": "“因恐惧而瑟瑟发抖人们啊，听我说……” \n这里是教主sama 间宫卓司人间体\n尼古丁重度依赖🤤🤤🤤\n教主 @mzmorz8964 夺舍重生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 53,
+                "username": "mzmorz8964"
+              }
+            ]
+          }
+        },
+        "id": "2059342455376678912",
+        "is_identity_verified": false,
+        "location": "終ノ空",
+        "most_recent_tweet_id": "2093954122030690600",
+        "name": "回归天空直通新世界",
+        "pinned_tweet_id": "2093954122030690600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059342455376678912/1779820772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059343309601148928/Eiegl5hp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 44,
+          "like_count": 167,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "fmf5y",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

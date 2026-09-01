@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2083024888345055480",
+    "created_at": "2026-07-31T03:00:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T04:00:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083024888345055480"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SRamirez66171/…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/SRamirez66171/status/2083024496534114586",
+          "start": 21,
+          "url": "https://t.co/8Guww9rgbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083024888345055480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083024496534114586",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为了躲避斯马克的追捕，我只能发小号上了😿 https://t.co/8Guww9rgbb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2083024888345055480",
+        "created_at": "2026-07-31T03:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T04:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083024888345055480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SRamirez66171/…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/SRamirez66171/status/2083024496534114586",
+              "start": 21,
+              "url": "https://t.co/8Guww9rgbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083024888345055480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083024496534114586",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为了躲避斯马克的追捕，我只能发小号上了😿 https://t.co/8Guww9rgbb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730251057316737024",
+        "conversation_id": "2083024496534114586",
+        "created_at": "2026-07-31T02:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T03:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083024496534114586"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083024496534114586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "当药商教程：\n首先你要有关系，最好家里是开药店的，然后就是做好安全措施，用苹果手机，国外卡，推特加密私信或者飞机上面交易，用u付款抹除痕迹，或者你有那种能保你不会进去的关系（参考欧莱雅），其次就是开好几个推特小号，因为有同行会举报你\n\n（游戏ai剧情模拟，请勿模仿）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/避难所：@SRamirez66171\n 电子烟需要的私信我 vx：c313s852j0976（无上头，再问死全家）接刷粉\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "SRamirez66171"
+              },
+              {
+                "end": 90,
+                "start": 74,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 118,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 95,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1150,
+          "following_count": 170,
+          "like_count": 5228,
+          "listed_count": 3,
+          "media_count": 341,
+          "tweet_count": 2442
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-30T15:43:03.000Z",
+        "description": "此号为避难所，大号：@wndsfefoumxlw6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "wndsfefoumxlw6"
+              }
+            ]
+          }
+        },
+        "id": "1730251057316737024",
+        "name": "洛5.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082718807173599232/iHJ1jUK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 9,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 37
+        },
+        "url": "",
+        "username": "SRamirez66171",
+        "verified": false
+      }
+    ]
+  }
+}

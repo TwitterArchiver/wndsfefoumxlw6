@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2085404706827121139",
+    "created_at": "2026-08-06T16:36:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T17:36:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085404706827121139"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wowyouzhi/stat…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/wowyouzhi/status/2085220033522008268",
+          "start": 10,
+          "url": "https://t.co/EQHwYkx4OY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085404706827121139",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085220033522008268",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的世界做不到系列 https://t.co/EQHwYkx4OY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2085404706827121139",
+        "created_at": "2026-08-06T16:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T17:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085404706827121139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wowyouzhi/stat…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/wowyouzhi/status/2085220033522008268",
+              "start": 10,
+              "url": "https://t.co/EQHwYkx4OY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085404706827121139",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085220033522008268",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的世界做不到系列 https://t.co/EQHwYkx4OY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881351051988934656",
+        "conversation_id": "2085220033522008268",
+        "created_at": "2026-08-06T04:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T05:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085220033522008268"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085220033522008268",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好想cos迷你世界呃，好丢人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/💊💉避难所：@SRamirez66171/@imqrmrtvom1lkt\n这个号主发日常\n礼貌互fo🐱\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWifkSsU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "SRamirez66171"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 78,
+                "start": 62,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 106,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 83,
+                "url": "https://t.co/89bWifkSsU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1187,
+          "following_count": 230,
+          "like_count": 5768,
+          "listed_count": 3,
+          "media_count": 357,
+          "tweet_count": 2649
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-20T14:40:38.000Z",
+        "description": "只是一具尸体。一个乐子餐券逼 od 自傷 喜欢直fo。只回关同类会查成分。非常焦虑。",
+        "id": "1881351051988934656",
+        "name": "与诗。 月",
+        "pinned_tweet_id": "2059998950590202264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015855876062814208/oFfueUcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 131,
+          "like_count": 158,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 602
+        },
+        "url": "",
+        "username": "wowyouzhi",
+        "verified": false
+      }
+    ]
+  }
+}

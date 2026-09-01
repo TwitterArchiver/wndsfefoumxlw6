@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2085256076732383440",
+    "created_at": "2026-08-06T06:46:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T07:46:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085256076732383440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 22,
+          "id": "2074936970610987008",
+          "start": 7,
+          "username": "NicoleTravabgk"
+        },
+        {
+          "end": 44,
+          "id": "2069991040744824832",
+          "start": 29,
+          "username": "imqrmrtvom1lkt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085256076732383440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "7.0备用账号@NicoleTravabgk\n6.0备用号@imqrmrtvom1lkt\n说不定我这个号也会封"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2085256076732383440",
+        "created_at": "2026-08-06T06:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T07:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085256076732383440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "2074936970610987008",
+              "start": 7,
+              "username": "NicoleTravabgk"
+            },
+            {
+              "end": 44,
+              "id": "2069991040744824832",
+              "start": 29,
+              "username": "imqrmrtvom1lkt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085256076732383440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "7.0备用账号@NicoleTravabgk\n6.0备用号@imqrmrtvom1lkt\n说不定我这个号也会封"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/💊💉避难所：@SRamirez66171/@imqrmrtvom1lkt\n这个号主发日常\n礼貌互fo🐱\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWifkSsU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "SRamirez66171"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 78,
+                "start": 62,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 106,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 83,
+                "url": "https://t.co/89bWifkSsU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1183,
+          "following_count": 224,
+          "like_count": 5677,
+          "listed_count": 3,
+          "media_count": 355,
+          "tweet_count": 2617
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-08T19:23:10.000Z",
+        "description": "杀不死我的，只会让我更强大，此号备用",
+        "id": "2074936970610987008",
+        "name": "洛7.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084653859381899264/OdbdlIka_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "NicoleTravabgk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-25T03:49:12.000Z",
+        "description": "备用号/5.0：@SRamirez66171 /7.0：@NicoleTravabgk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 8,
+                "username": "SRamirez66171"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "NicoleTravabgk"
+              }
+            ]
+          }
+        },
+        "id": "2069991040744824832",
+        "name": "洛6.0",
+        "pinned_tweet_id": "2084654572006723713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083449325880012800/-NgYPbW-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 63,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "imqrmrtvom1lkt",
+        "verified": false
+      }
+    ]
+  }
+}

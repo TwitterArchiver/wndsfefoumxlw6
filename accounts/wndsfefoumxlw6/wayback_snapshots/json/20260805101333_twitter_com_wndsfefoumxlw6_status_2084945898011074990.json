@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2084917294891975097",
+    "created_at": "2026-08-05T10:13:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T11:13:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084945898011074990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1161907687749296128",
+          "start": 0,
+          "username": "XRMKunome"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084945898011074990",
+    "in_reply_to_user_id": "1161907687749296128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084935980243718498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XRMKunome 太吓人了这个msk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2084917294891975097",
+        "created_at": "2026-08-05T10:13:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T11:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084945898011074990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1161907687749296128",
+              "start": 0,
+              "username": "XRMKunome"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084945898011074990",
+        "in_reply_to_user_id": "1161907687749296128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084935980243718498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XRMKunome 太吓人了这个msk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1161907687749296128",
+        "conversation_id": "2084917294891975097",
+        "created_at": "2026-08-05T09:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T10:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084935980243718498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059149411007991808",
+              "start": 0,
+              "username": "wndsfefoumxlw6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084935980243718498",
+        "in_reply_to_user_id": "2059149411007991808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084917294891975097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wndsfefoumxlw6 我最近几年倒是没被封过 但隔三差五shadowban一下让我玩单机😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/避难所：@SRamirez66171/@imqrmrtvom1lkt\n 电子烟需要的私信我 vx：c313s852j0976（无上头）\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWifkSsU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "SRamirez66171"
+              },
+              {
+                "end": 41,
+                "start": 26,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 94,
+                "start": 78,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 122,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 99,
+                "url": "https://t.co/89bWifkSsU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛",
+        "pinned_tweet_id": "2084917294891975097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1165,
+          "following_count": 206,
+          "like_count": 5511,
+          "listed_count": 3,
+          "media_count": 352,
+          "tweet_count": 2561
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-15T07:49:14.000Z",
+        "description": "是个人类，活着的（暂时）。\n是重度ADHD患者，欢迎交流讨论。\n很喜欢看可可爱爱的碎碎念。",
+        "id": "1161907687749296128",
+        "location": "我在你背后",
+        "name": "XRMK-Suspended Fate",
+        "pinned_tweet_id": "2069342375055401157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073556703006932992/f0ulYp-s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 29,
+          "like_count": 2641,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 1414
+        },
+        "url": "",
+        "username": "XRMKunome",
+        "verified": false
+      }
+    ]
+  }
+}

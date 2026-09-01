@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2090115888561459550",
+    "created_at": "2026-08-20T05:54:39.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T06:54:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090316561462792434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1720575392371949568",
+          "start": 0,
+          "username": "k4sum1_toki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090316561462792434",
+    "in_reply_to_user_id": "1720575392371949568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090163073051226232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k4sum1_toki 好崩溃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2090115888561459550",
+        "created_at": "2026-08-20T05:54:39.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T06:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090316561462792434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1720575392371949568",
+              "start": 0,
+              "username": "k4sum1_toki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090316561462792434",
+        "in_reply_to_user_id": "1720575392371949568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090163073051226232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k4sum1_toki 好崩溃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720575392371949568",
+        "conversation_id": "2090115888561459550",
+        "created_at": "2026-08-19T19:44:44.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T20:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090163073051226232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059149411007991808",
+              "start": 0,
+              "username": "wndsfefoumxlw6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090163073051226232",
+        "in_reply_to_user_id": "2059149411007991808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090115888561459550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wndsfefoumxlw6 好绝望"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/💊💉避难所：@SRamirez66171/@imqrmrtvom1lkt/@NicoleTravabgk电子烟+v：c313s852j0976\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWifkSsU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "SRamirez66171"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "NicoleTravabgk"
+              },
+              {
+                "end": 98,
+                "start": 82,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 126,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 103,
+                "url": "https://t.co/89bWifkSsU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090316561462792434",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149411007991808/1780217819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1269,
+          "following_count": 340,
+          "like_count": 6901,
+          "listed_count": 3,
+          "media_count": 392,
+          "tweet_count": 3103
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-03T22:55:27.000Z",
+        "description": "Vibecoder | 随机写诗中 | 07 | 低颜烂人 | INFP | Peace & Love | 活在现实与虚拟的夹缝 | 抑郁治疗中 | VRC昵称：TokikoshiKasumi | 会喵喵喵但是其实是狐狸\n\n冰饮万岁！线下想来找我玩的话免费提供冰块哦！新买的制冰机效率很高呢！\n\n欢迎互动！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/k4sum1_toki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/k4sum1_toki",
+                "start": 0,
+                "url": "https://t.co/3TyEOPiQYT"
+              }
+            ]
+          }
+        },
+        "id": "1720575392371949568",
+        "is_identity_verified": false,
+        "location": "上海 Shanghai",
+        "most_recent_tweet_id": "2090236534637400090",
+        "name": "時越·霞|Tokikoshi Kasumi",
+        "pinned_tweet_id": "2087457877149794401",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720575392371949568/1776006553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037849647222575104/Do43UQ5a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 188,
+          "like_count": 1045,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 652
+        },
+        "url": "https://t.co/3TyEOPiQYT",
+        "username": "k4sum1_toki",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

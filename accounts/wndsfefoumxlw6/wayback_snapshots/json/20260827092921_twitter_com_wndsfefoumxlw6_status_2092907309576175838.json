@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2092907309576175838",
+    "created_at": "2026-08-27T09:29:21.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T10:29:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092907309576175838"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/eeeleven0311o/…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/eeeleven0311o/status/2092905810867470759",
+          "start": 19,
+          "url": "https://t.co/r4Ow7OaQNA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092907309576175838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092905810867470759",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "难道就没人每天私信骚扰我说我需要你吗 https://t.co/r4Ow7OaQNA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2092907309576175838",
+        "created_at": "2026-08-27T09:29:21.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T10:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092907309576175838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/eeeleven0311o/…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/eeeleven0311o/status/2092905810867470759",
+              "start": 19,
+              "url": "https://t.co/r4Ow7OaQNA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092907309576175838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092905810867470759",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "难道就没人每天私信骚扰我说我需要你吗 https://t.co/r4Ow7OaQNA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800625969688125440",
+        "conversation_id": "2092905810867470759",
+        "created_at": "2026-08-27T09:23:24.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T10:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092905810867470759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/UiamuQAQ/statu…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/UiamuQAQ/status/2092646224654459106",
+              "start": 19,
+              "url": "https://t.co/erw4Zye6XT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092905810867470759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092646224654459106",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "难道就没人每天私信骚扰我说我需要你吗 https://t.co/erw4Zye6XT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/💊避难所：@SRamirez66171/@imqrmrtvom1lkt/@NicoleTravabgk电子烟+v：c313s852j0976\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWifkSsU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "SRamirez66171"
+              },
+              {
+                "end": 42,
+                "start": 27,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "NicoleTravabgk"
+              },
+              {
+                "end": 97,
+                "start": 81,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 125,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 102,
+                "url": "https://t.co/89bWifkSsU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092907309576175838",
+        "name": "洛",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149411007991808/1780217819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1314,
+          "following_count": 345,
+          "like_count": 7385,
+          "listed_count": 3,
+          "media_count": 415,
+          "tweet_count": 3303
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-11T20:28:07.000Z",
+        "description": "我叫十一\nOD|🔪|二游|音游\n友一切 互fo大欢迎🤲\n🌱🧣，creek全肯定\n\n为了美好的每一天",
+        "id": "1800625969688125440",
+        "is_identity_verified": false,
+        "location": "5.2km",
+        "most_recent_tweet_id": "2092905810867470759",
+        "name": "𝖊𝖑𝖊𝖛𝖊𝖓.",
+        "pinned_tweet_id": "2039304504198533224",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1800625969688125440/1772299684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034981439624945665/1cUyRw0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 321,
+          "like_count": 8918,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1343
+        },
+        "url": "",
+        "username": "eeeleven0311o",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

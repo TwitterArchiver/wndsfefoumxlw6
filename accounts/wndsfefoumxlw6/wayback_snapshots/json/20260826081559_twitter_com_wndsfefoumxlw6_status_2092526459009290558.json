@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2092526459009290558",
+    "created_at": "2026-08-26T08:15:59.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T09:15:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092526459009290558"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Demonnn77/stat…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/Demonnn77/status/2092243254859411904",
+          "start": 24,
+          "url": "https://t.co/1u1ItXx6lF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092526459009290558",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092243254859411904",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "本质就是一群为了满足自己变态欲望偷换概念的傻逼 https://t.co/1u1ItXx6lF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2092526459009290558",
+        "created_at": "2026-08-26T08:15:59.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T09:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092526459009290558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Demonnn77/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Demonnn77/status/2092243254859411904",
+              "start": 24,
+              "url": "https://t.co/1u1ItXx6lF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092526459009290558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092243254859411904",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本质就是一群为了满足自己变态欲望偷换概念的傻逼 https://t.co/1u1ItXx6lF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090485992373497856",
+        "conversation_id": "2092243254859411904",
+        "created_at": "2026-08-25T13:30:38.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T14:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092243254859411904"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092243254859411904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14439,
+          "like_count": 329,
+          "quote_count": 0,
+          "reply_count": 43,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "你说不要虐待生灵 有些人就跟你扯鸡鸭鱼肉"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/💊避难所：@SRamirez66171/@imqrmrtvom1lkt/@NicoleTravabgk电子烟+v：c313s852j0976\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWifkSsU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "SRamirez66171"
+              },
+              {
+                "end": 42,
+                "start": 27,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "NicoleTravabgk"
+              },
+              {
+                "end": 97,
+                "start": 81,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 125,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 102,
+                "url": "https://t.co/89bWifkSsU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092526459009290558",
+        "name": "洛",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149411007991808/1780217819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1316,
+          "following_count": 349,
+          "like_count": 7305,
+          "listed_count": 3,
+          "media_count": 409,
+          "tweet_count": 3263
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T17:11:25.000Z",
+        "description": "🌈♀双相 老公奴 pr80梦女 阴间引路人\n通过我的邀请链接下载https://t.co/EsemuDCOeK 即可获得24小时免费高速vpn哦↓",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "iPoW.ai",
+                "end": 55,
+                "expanded_url": "http://iPoW.ai",
+                "start": 32,
+                "url": "https://t.co/EsemuDCOeK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ipow.ai/invite?ref=5ea…",
+                "end": 23,
+                "expanded_url": "http://ipow.ai/invite?ref=5eae52",
+                "start": 0,
+                "url": "https://t.co/hxPGdHTAuo"
+              }
+            ]
+          }
+        },
+        "id": "2090485992373497856",
+        "is_identity_verified": false,
+        "location": ":3",
+        "most_recent_tweet_id": "2092519854708605087",
+        "name": "三清剑",
+        "pinned_tweet_id": "2092189933910081543",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090485992373497856/1787253532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091955819143462913/4omDxaX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 164,
+          "like_count": 1207,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 289
+        },
+        "url": "https://t.co/hxPGdHTAuo",
+        "username": "Demonnn77",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

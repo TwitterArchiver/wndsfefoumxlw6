@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2083114085399531545",
+    "created_at": "2026-07-31T09:45:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T10:45:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083126919332278351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1797558983290445824",
+          "start": 0,
+          "username": "Habib1128910"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083126919332278351",
+    "in_reply_to_user_id": "1797558983290445824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083124438460227677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Habib1128910 那有点恐怖了，一群人的社交就是聚在一起拍洗衣机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2083114085399531545",
+        "created_at": "2026-07-31T09:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T10:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083126919332278351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1797558983290445824",
+              "start": 0,
+              "username": "Habib1128910"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083126919332278351",
+        "in_reply_to_user_id": "1797558983290445824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083124438460227677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Habib1128910 那有点恐怖了，一群人的社交就是聚在一起拍洗衣机"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797558983290445824",
+        "conversation_id": "2083114085399531545",
+        "created_at": "2026-07-31T09:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T10:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083124438460227677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059149411007991808",
+              "start": 0,
+              "username": "wndsfefoumxlw6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083124438460227677",
+        "in_reply_to_user_id": "2059149411007991808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083114085399531545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wndsfefoumxlw6 爱打音游的话其实还可以，但是我觉得乌蒙更多是社交属性吧在家拿平板也能打音游不是一定要打乌蒙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/避难所：@SRamirez66171\n 电子烟需要的私信我 vx：c313s852j0976（无上头）\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWifkSsU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "SRamirez66171"
+              },
+              {
+                "end": 81,
+                "start": 65,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 109,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 86,
+                "url": "https://t.co/89bWifkSsU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1152,
+          "following_count": 189,
+          "like_count": 5325,
+          "listed_count": 3,
+          "media_count": 345,
+          "tweet_count": 2487
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T09:21:15.000Z",
+        "description": "社会边角料老鼠人...喜欢抽烟喝酒穿孔\n生理女 在上大学\n有礼貌的人可以互关\n🚪20只收贡奴🈚任何福利需要语音验证＋5r\n骂我的死爹烂妈网蛆穷一辈子",
+        "id": "1797558983290445824",
+        "name": "rika",
+        "pinned_tweet_id": "2082409472526610786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080559797125160960/s-1F3aTX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 16,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 85
+        },
+        "url": "",
+        "username": "Habib1128910",
+        "verified": false
+      }
+    ]
+  }
+}

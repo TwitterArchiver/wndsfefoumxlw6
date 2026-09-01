@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2091047990656217485",
+    "created_at": "2026-08-22T06:21:05.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T07:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091047990656217485"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MEMZFuHua/stat…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/MEMZFuHua/status/2090833468465021068",
+          "start": 57,
+          "url": "https://t.co/4eR6aBsFd2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091047990656217485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090833468465021068",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看不懂的我来帮你们翻译一下：\n我们看你天天发负面的东西很不爽，你要是再敢发这些消极的东西就把你号封了，有病就去治 https://t.co/4eR6aBsFd2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2700,
+        "media_key": "3_2090833403138510848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQh5waXkAA2u9c.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2091047990656217485",
+        "created_at": "2026-08-22T06:21:05.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T07:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091047990656217485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MEMZFuHua/stat…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/MEMZFuHua/status/2090833468465021068",
+              "start": 57,
+              "url": "https://t.co/4eR6aBsFd2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091047990656217485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090833468465021068",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看不懂的我来帮你们翻译一下：\n我们看你天天发负面的东西很不爽，你要是再敢发这些消极的东西就把你号封了，有病就去治 https://t.co/4eR6aBsFd2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090833403138510848"
+          ]
+        },
+        "author_id": "2060652328915701760",
+        "conversation_id": "2090833468465021068",
+        "created_at": "2026-08-21T16:08:39.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T17:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090833468465021068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OVUy1iatei",
+              "end": 50,
+              "expanded_url": "https://x.com/MEMZFuHua/status/2090833468465021068/photo/1",
+              "media_key": "3_2090833403138510848",
+              "start": 27,
+              "url": "https://t.co/OVUy1iatei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090833468465021068",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090833403138510848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 45662,
+          "like_count": 461,
+          "quote_count": 0,
+          "reply_count": 96,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "人文关怀这一块🥹国内的软件我还从来没见过有类似的功能 https://t.co/OVUy1iatei"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/💊💉避难所：@SRamirez66171/@imqrmrtvom1lkt/@NicoleTravabgk电子烟+v：c313s852j0976\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWifkSsU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "SRamirez66171"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "NicoleTravabgk"
+              },
+              {
+                "end": 98,
+                "start": 82,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 126,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 103,
+                "url": "https://t.co/89bWifkSsU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091047990656217485",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149411007991808/1780217819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1280,
+          "following_count": 352,
+          "like_count": 7022,
+          "listed_count": 3,
+          "media_count": 398,
+          "tweet_count": 3152
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-30T09:20:39.000Z",
+        "description": "2010.12.27崭新下线 | HRT2026.7.4 | 理科不好 | 无证含糖 | 中度抑郁 | 同类互fo | 技术花粉 | 抖m | 不OD不割手 | 打舞萌︱小号@ZoquYlc5q384854",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "ZoquYlc5q384854"
+              }
+            ]
+          }
+        },
+        "id": "2060652328915701760",
+        "is_identity_verified": false,
+        "location": "中国 安徽",
+        "most_recent_tweet_id": "2091046458829017128",
+        "name": "MEMZ-FuHua🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2075555105970233537",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060652328915701760/1780555745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075471807206084610/ovf4uAvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 430,
+          "like_count": 372,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 616
+        },
+        "url": "",
+        "username": "MEMZFuHua",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

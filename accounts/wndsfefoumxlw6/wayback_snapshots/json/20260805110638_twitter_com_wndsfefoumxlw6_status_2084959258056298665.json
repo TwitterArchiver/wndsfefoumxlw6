@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084959141395877888"
+      ]
+    },
+    "author_id": "2059149411007991808",
+    "conversation_id": "2084959258056298665",
+    "created_at": "2026-08-05T11:06:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T12:06:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084959258056298665"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zxYvBCO8kx",
+          "end": 42,
+          "expanded_url": "https://x.com/wndsfefoumxlw6/status/2084959258056298665/photo/1",
+          "media_key": "3_2084959141395877888",
+          "start": 19,
+          "url": "https://t.co/zxYvBCO8kx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084959258056298665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我去我爱你宝宝🙀，你是谁呀我立即执行 https://t.co/zxYvBCO8kx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1146,
+        "media_key": "3_2084959141395877888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9DSuIa0AAUmDC.png",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084959141395877888"
+          ]
+        },
+        "author_id": "2059149411007991808",
+        "conversation_id": "2084959258056298665",
+        "created_at": "2026-08-05T11:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T12:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084959258056298665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zxYvBCO8kx",
+              "end": 42,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2084959258056298665/photo/1",
+              "media_key": "3_2084959141395877888",
+              "start": 19,
+              "url": "https://t.co/zxYvBCO8kx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084959258056298665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去我爱你宝宝🙀，你是谁呀我立即执行 https://t.co/zxYvBCO8kx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/💊💉避难所：@SRamirez66171/@imqrmrtvom1lkt\n礼貌互fo🐱\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWifkSsU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "SRamirez66171"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 70,
+                "start": 54,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 98,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 75,
+                "url": "https://t.co/89bWifkSsU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛",
+        "pinned_tweet_id": "2084917294891975097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 207,
+          "like_count": 5542,
+          "listed_count": 3,
+          "media_count": 354,
+          "tweet_count": 2569
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      }
+    ]
+  }
+}
