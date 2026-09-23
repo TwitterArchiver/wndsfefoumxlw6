@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2099041293313913234",
+    "created_at": "2026-09-13T07:43:37.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T08:43:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099041293313913234"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KarBwk5251/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/KarBwk5251/status/2098790501650727120",
+          "start": 6,
+          "url": "https://t.co/o1VXhLruBw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099041293313913234",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098790501650727120",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@抖音求真 https://t.co/o1VXhLruBw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2098790488468025344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSBm1FMa8AANOmU.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2099041293313913234",
+        "created_at": "2026-09-13T07:43:37.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T08:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099041293313913234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KarBwk5251/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/KarBwk5251/status/2098790501650727120",
+              "start": 6,
+              "url": "https://t.co/o1VXhLruBw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099041293313913234",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098790501650727120",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@抖音求真 https://t.co/o1VXhLruBw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098790488468025344"
+          ]
+        },
+        "author_id": "1650209029724196865",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2098790501650727120",
+        "created_at": "2026-09-12T15:07:03.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T16:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098790501650727120"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wGRpUsjBjf",
+              "end": 55,
+              "expanded_url": "https://x.com/KarBwk5251/status/2098790501650727120/photo/1",
+              "media_key": "3_2098790488468025344",
+              "start": 32,
+              "url": "https://t.co/wGRpUsjBjf"
+            },
+            {
+              "display_url": "x.com/KarBwk5251/sta…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/KarBwk5251/status/2098704783226142776",
+              "start": 56,
+              "url": "https://t.co/zFIF7C83tn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098790501650727120",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098790488468025344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2436,
+          "like_count": 47,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098704783226142776",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "补一张我最爱的\n没想到这个帖子火了\n明天坐上痛车再补点图🥰🥰🥰 https://t.co/wGRpUsjBjf https://t.co/zFIF7C83tn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/💊避难所：@SRamirez66171/@imqrmrtvom1lkt/@NicoleTravabgk电子烟+v：c313s852j0976\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWifkSsU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "SRamirez66171"
+              },
+              {
+                "end": 42,
+                "start": 27,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "NicoleTravabgk"
+              },
+              {
+                "end": 97,
+                "start": 81,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 125,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 102,
+                "url": "https://t.co/89bWifkSsU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099041293313913234",
+        "name": "洛",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149411007991808/1780217819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1565,
+          "following_count": 342,
+          "like_count": 8149,
+          "listed_count": 5,
+          "media_count": 469,
+          "tweet_count": 3662
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-23T18:44:49.000Z",
+        "description": "互fo请私信\n我是小桃\n🐱叫圈圈\n非二元\n乐乐\n不看黄也不建政（假的）我是中推最美逆行人",
+        "id": "1650209029724196865",
+        "is_identity_verified": false,
+        "location": "Yuki是我的宝宝～(^з^)-♡",
+        "most_recent_tweet_id": "2098950492772786202",
+        "name": "☔️8964.星露谷骑手桃酱☔️",
+        "pinned_tweet_id": "2071179216071385551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1650209029724196865/1687808850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078310922624659456/YLcKIH57_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1668,
+          "following_count": 1919,
+          "like_count": 11995,
+          "listed_count": 9,
+          "media_count": 2024,
+          "tweet_count": 9097
+        },
+        "url": "",
+        "username": "KarBwk5251",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

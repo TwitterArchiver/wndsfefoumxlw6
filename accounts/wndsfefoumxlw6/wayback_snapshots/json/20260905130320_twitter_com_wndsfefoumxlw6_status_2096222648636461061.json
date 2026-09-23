@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2096183910325768282",
+    "created_at": "2026-09-05T13:03:20.000Z",
+    "display_text_range": [
+      9,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T14:03:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096222648636461061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1674492147079483393",
+          "start": 0,
+          "username": "DA98764"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096222648636461061",
+    "in_reply_to_user_id": "1674492147079483393",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096203900139552878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DA98764 我去"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 942,
+        "media_key": "3_2096203891927097344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRc2VWMbIAAs-eS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2096183910325768282",
+        "created_at": "2026-09-05T13:03:20.000Z",
+        "display_text_range": [
+          9,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T14:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096222648636461061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1674492147079483393",
+              "start": 0,
+              "username": "DA98764"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096222648636461061",
+        "in_reply_to_user_id": "1674492147079483393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096203900139552878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DA98764 我去"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096203891927097344"
+          ]
+        },
+        "author_id": "1674492147079483393",
+        "conversation_id": "2096183910325768282",
+        "created_at": "2026-09-05T11:48:50.000Z",
+        "display_text_range": [
+          16,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T12:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096203900139552878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059149411007991808",
+              "start": 0,
+              "username": "wndsfefoumxlw6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cCSjy6XaH4",
+              "end": 50,
+              "expanded_url": "https://x.com/DA98764/status/2096203900139552878/photo/1",
+              "media_key": "3_2096203891927097344",
+              "start": 27,
+              "url": "https://t.co/cCSjy6XaH4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096203900139552878",
+        "in_reply_to_user_id": "2059149411007991808",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096203891927097344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096183910325768282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wndsfefoumxlw6 复制的人belike https://t.co/cCSjy6XaH4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/💊避难所：@SRamirez66171/@imqrmrtvom1lkt/@NicoleTravabgk电子烟+v：c313s852j0976\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWifkSsU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "SRamirez66171"
+              },
+              {
+                "end": 42,
+                "start": 27,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "NicoleTravabgk"
+              },
+              {
+                "end": 97,
+                "start": 81,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 125,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 102,
+                "url": "https://t.co/89bWifkSsU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096222648636461061",
+        "name": "洛",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149411007991808/1780217819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1414,
+          "following_count": 343,
+          "like_count": 7832,
+          "listed_count": 3,
+          "media_count": 447,
+          "tweet_count": 3501
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-29T18:57:01.000Z",
+        "description": "是个只会散播负能量的肮脏垃圾",
+        "id": "1674492147079483393",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096210276937069054",
+        "name": "D",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674492147079483393/1701019098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051858746863951872/DjWCG7La_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 130,
+          "like_count": 2541,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1315
+        },
+        "url": "",
+        "username": "DA98764",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2101754056175948040",
+    "created_at": "2026-09-20T19:23:10.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T20:23:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101754056175948040"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ririnkachan080…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/Ririnkachan0808/status/2101184053689069771",
+          "start": 21,
+          "url": "https://t.co/HOLcieXipy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101754056175948040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101184053689069771",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么这种死吗的小团体头子总是能这么幸福 https://t.co/HOLcieXipy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101184041383034881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSjnwMpbAAEEZqB.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2101184041383014400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSjnwMpasAARpgS.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2101754056175948040",
+        "created_at": "2026-09-20T19:23:10.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T20:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101754056175948040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ririnkachan080…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/Ririnkachan0808/status/2101184053689069771",
+              "start": 21,
+              "url": "https://t.co/HOLcieXipy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101754056175948040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101184053689069771",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么这种死吗的小团体头子总是能这么幸福 https://t.co/HOLcieXipy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101184041383034881",
+            "3_2101184041383014400"
+          ]
+        },
+        "author_id": "2083759498066534400",
+        "conversation_id": "2101184053689069771",
+        "created_at": "2026-09-19T05:38:11.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T06:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101184053689069771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jVgLy8l5OZ",
+              "end": 94,
+              "expanded_url": "https://x.com/Ririnkachan0808/status/2101184053689069771/photo/1",
+              "media_key": "3_2101184041383034881",
+              "start": 71,
+              "url": "https://t.co/jVgLy8l5OZ"
+            },
+            {
+              "display_url": "pic.x.com/jVgLy8l5OZ",
+              "end": 94,
+              "expanded_url": "https://x.com/Ririnkachan0808/status/2101184053689069771/photo/1",
+              "media_key": "3_2101184041383014400",
+              "start": 71,
+              "url": "https://t.co/jVgLy8l5OZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101184053689069771",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101184041383034881"
+          },
+          {
+            "media_key": "3_2101184041383014400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 52075,
+          "like_count": 345,
+          "quote_count": 2,
+          "reply_count": 114,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "好他妈崩溃 这个是带头孤立我的婊子 她咋这么受欢迎 初中过的很开心也有我这一part吧\n尼玛死了尼玛死了卧槽尼玛我把你全家碾死烂逼母狗臭逼货 https://t.co/jVgLy8l5OZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/💊避难所：@SRamirez66171/@imqrmrtvom1lkt/@NicoleTravabgk电子烟+v：c313s852j0976\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWifkSsU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "SRamirez66171"
+              },
+              {
+                "end": 42,
+                "start": 27,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "NicoleTravabgk"
+              },
+              {
+                "end": 97,
+                "start": 81,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 125,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 102,
+                "url": "https://t.co/89bWifkSsU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101754056175948040",
+        "name": "洛",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149411007991808/1780217819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1664,
+          "following_count": 345,
+          "like_count": 8488,
+          "listed_count": 4,
+          "media_count": 501,
+          "tweet_count": 3865
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-02T04:07:21.000Z",
+        "description": "🩷🎀💞\n家有幼女鬼一只",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@leyochanririr…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@leyochanririri0808?igshid=NTc4MTIwNjQ2YQ==",
+                "start": 0,
+                "url": "https://t.co/RHAxmjevqz"
+              }
+            ]
+          }
+        },
+        "id": "2083759498066534400",
+        "is_identity_verified": false,
+        "location": "某个醉鬼的酒壶",
+        "most_recent_tweet_id": "2101654668187496776",
+        "name": "Ririnkadesuyo",
+        "pinned_tweet_id": "2089934952972648486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083759498066534400/1786194139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086393771910942720/E8Telu_l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 407,
+          "like_count": 1867,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 2052
+        },
+        "url": "https://t.co/RHAxmjevqz",
+        "username": "Ririnkachan0808",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

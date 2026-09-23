@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2099495219326750902",
+    "created_at": "2026-09-14T13:47:21.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T14:47:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099495219326750902"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/8964XMZ/status…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/8964XMZ/status/2099450834056810729",
+          "start": 14,
+          "url": "https://t.co/njpMQGMrOx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099495219326750902",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099450834056810729",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们这个群体真的很诡异啊😳 https://t.co/njpMQGMrOx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2099495219326750902",
+        "created_at": "2026-09-14T13:47:21.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T14:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099495219326750902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/8964XMZ/status…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/8964XMZ/status/2099450834056810729",
+              "start": 14,
+              "url": "https://t.co/njpMQGMrOx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099495219326750902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099450834056810729",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们这个群体真的很诡异啊😳 https://t.co/njpMQGMrOx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2081368101950767104",
+        "conversation_id": "2099424191686783271",
+        "created_at": "2026-09-14T10:50:59.000Z",
+        "display_text_range": [
+          16,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T11:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099450834056810729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059149411007991808",
+              "start": 0,
+              "username": "wndsfefoumxlw6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099450834056810729",
+        "in_reply_to_user_id": "2059149411007991808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 293,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099424191686783271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wndsfefoumxlw6 不是发霉葱花淋巴肉末地沟油➕隔夜冷冻面粉坨坨吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/💊避难所：@SRamirez66171/@imqrmrtvom1lkt/@NicoleTravabgk电子烟+v：c313s852j0976\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWifkSsU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "SRamirez66171"
+              },
+              {
+                "end": 42,
+                "start": 27,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "NicoleTravabgk"
+              },
+              {
+                "end": 97,
+                "start": 81,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 125,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 102,
+                "url": "https://t.co/89bWifkSsU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099495219326750902",
+        "name": "洛",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149411007991808/1780217819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1588,
+          "following_count": 344,
+          "like_count": 8224,
+          "listed_count": 5,
+          "media_count": 472,
+          "tweet_count": 3702
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-26T13:18:13.000Z",
+        "description": "🏆21世纪道德感最强的中国人｜已被开盒为习明泽本人｜图少了主义👉—👃—👈｜国家搞女权是对的｜支持国家拔了未成年网线",
+        "id": "2081368101950767104",
+        "is_identity_verified": false,
+        "location": "加入尊贵的阿穆尔奶油🧁卡斯图里干葫芦巴叶🍃你说的一点都对",
+        "most_recent_tweet_id": "2099494510782980335",
+        "name": "秦腔穷Chinaman",
+        "pinned_tweet_id": "2081372948590682521",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081368101950767104/1788181866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081368689144893441/hOtzSsOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 136,
+          "like_count": 1856,
+          "listed_count": 5,
+          "media_count": 195,
+          "tweet_count": 1078
+        },
+        "url": "",
+        "username": "8964XMZ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

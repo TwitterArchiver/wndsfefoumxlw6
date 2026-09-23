@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2096548749292282018",
+    "created_at": "2026-09-06T12:23:53.000Z",
+    "display_text_range": [
+      12,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T13:23:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096575109515669839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2085173242814451712",
+          "start": 0,
+          "username": "yuda4_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096575109515669839",
+    "in_reply_to_user_id": "2085173242814451712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096571657615806508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuda4_8964 正好食堂没食材了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1596,
+        "media_key": "3_2096571646152962048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRiEzdcacAAnuIN.jpg",
+        "width": 1268
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2096548749292282018",
+        "created_at": "2026-09-06T12:23:53.000Z",
+        "display_text_range": [
+          12,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T13:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096575109515669839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2085173242814451712",
+              "start": 0,
+              "username": "yuda4_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096575109515669839",
+        "in_reply_to_user_id": "2085173242814451712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096571657615806508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuda4_8964 正好食堂没食材了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096571646152962048"
+          ]
+        },
+        "author_id": "2085173242814451712",
+        "conversation_id": "2096548749292282018",
+        "created_at": "2026-09-06T12:10:10.000Z",
+        "display_text_range": [
+          16,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T13:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096571657615806508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059149411007991808",
+              "start": 0,
+              "username": "wndsfefoumxlw6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OEaJSvKJLr",
+              "end": 51,
+              "expanded_url": "https://x.com/yuda4_8964/status/2096571657615806508/photo/1",
+              "media_key": "3_2096571646152962048",
+              "start": 28,
+              "url": "https://t.co/OEaJSvKJLr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096571657615806508",
+        "in_reply_to_user_id": "2059149411007991808",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096571646152962048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096571335451513038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wndsfefoumxlw6 其实这才是我真正的身材 https://t.co/OEaJSvKJLr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/💊避难所：@SRamirez66171/@imqrmrtvom1lkt/@NicoleTravabgk电子烟+v：c313s852j0976\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWifkSsU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "SRamirez66171"
+              },
+              {
+                "end": 42,
+                "start": 27,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "NicoleTravabgk"
+              },
+              {
+                "end": 97,
+                "start": 81,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 125,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 102,
+                "url": "https://t.co/89bWifkSsU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096575109515669839",
+        "name": "洛",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149411007991808/1780217819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1436,
+          "following_count": 344,
+          "like_count": 7896,
+          "listed_count": 3,
+          "media_count": 451,
+          "tweet_count": 3531
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-06T01:20:17.000Z",
+        "description": "@yuda3_8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "yuda3_8964"
+              }
+            ]
+          }
+        },
+        "id": "2085173242814451712",
+        "is_identity_verified": false,
+        "location": "太平洋",
+        "most_recent_tweet_id": "2096571657615806508",
+        "name": "𝖞𝖚𝖉𝖆،梦想死了🏴‍☠️四代目",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085173242814451712/1785979447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085174857097150464/Dke2R4rR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 83,
+          "like_count": 1318,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 76
+        },
+        "url": "",
+        "username": "yuda4_8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

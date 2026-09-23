@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2096506330580488328",
+    "created_at": "2026-09-06T12:10:14.000Z",
+    "display_text_range": [
+      9,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T13:10:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096571676595196025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2067984174469009409",
+          "start": 0,
+          "username": "lyxz738"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096571676595196025",
+    "in_reply_to_user_id": "2067984174469009409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096506330580488328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lyxz738 烧给我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2096506322682519552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhJZIjaIAAvEcQ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2096506330580488328",
+        "created_at": "2026-09-06T12:10:14.000Z",
+        "display_text_range": [
+          9,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T13:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096571676595196025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2067984174469009409",
+              "start": 0,
+              "username": "lyxz738"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096571676595196025",
+        "in_reply_to_user_id": "2067984174469009409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096506330580488328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lyxz738 烧给我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096506322682519552"
+          ]
+        },
+        "author_id": "2067984174469009409",
+        "conversation_id": "2096506330580488328",
+        "created_at": "2026-09-06T07:50:35.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T08:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096506330580488328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hbl4bOi24x",
+              "end": 23,
+              "expanded_url": "https://x.com/lyxz738/status/2096506330580488328/photo/1",
+              "media_key": "3_2096506322682519552",
+              "start": 0,
+              "url": "https://t.co/hbl4bOi24x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096506330580488328",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2096506322682519552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hbl4bOi24x"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/💊避难所：@SRamirez66171/@imqrmrtvom1lkt/@NicoleTravabgk电子烟+v：c313s852j0976\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWifkSsU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "SRamirez66171"
+              },
+              {
+                "end": 42,
+                "start": 27,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "NicoleTravabgk"
+              },
+              {
+                "end": 97,
+                "start": 81,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 125,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 102,
+                "url": "https://t.co/89bWifkSsU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096571676595196025",
+        "name": "洛",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149411007991808/1780217819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1436,
+          "following_count": 344,
+          "like_count": 7884,
+          "listed_count": 3,
+          "media_count": 451,
+          "tweet_count": 3527
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-19T14:54:22.000Z",
+        "description": "年龄未知｜od割手｜精分｜地雷女｜巡回好友中｜查成分互fo｜男的加我🚪13.14\n前世@lyxtd3s\n恋人@dooaisuan\n传送@bingkuaiy9lt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "lyxtd3s"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "dooaisuan"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "bingkuaiy9lt"
+              }
+            ]
+          }
+        },
+        "id": "2067984174469009409",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096511766247411759",
+        "name": "冰块🧊3.0巡回互关",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2067984174469009409/1781905430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086021726308323328/pAp7E3mJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 139,
+          "like_count": 4976,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 346
+        },
+        "url": "",
+        "username": "lyxz738",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2096470238833398146",
+    "created_at": "2026-09-06T09:34:49.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T10:34:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096532561577250913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2085214308754239488",
+          "start": 0,
+          "username": "yonakimnw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096532561577250913",
+    "in_reply_to_user_id": "2085214308754239488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096470238833398146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yonakimnw 小心"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096470232197894147",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRgokZBWEAMSGH9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2096470238833398146",
+        "created_at": "2026-09-06T09:34:49.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T10:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096532561577250913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2085214308754239488",
+              "start": 0,
+              "username": "yonakimnw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096532561577250913",
+        "in_reply_to_user_id": "2085214308754239488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096470238833398146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yonakimnw 小心"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096470232197894147"
+          ]
+        },
+        "author_id": "2085214308754239488",
+        "conversation_id": "2096470238833398146",
+        "created_at": "2026-09-06T05:27:10.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T06:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096470238833398146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R8rm6YitPV",
+              "end": 46,
+              "expanded_url": "https://x.com/yonakimnw/status/2096470238833398146/photo/1",
+              "media_key": "3_2096470232197894147",
+              "start": 23,
+              "url": "https://t.co/R8rm6YitPV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096470238833398146",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096470232197894147"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打开红贝印不慎割到手，血流得比我正经🈹还多😇 https://t.co/R8rm6YitPV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/💊避难所：@SRamirez66171/@imqrmrtvom1lkt/@NicoleTravabgk电子烟+v：c313s852j0976\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWifkSsU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "SRamirez66171"
+              },
+              {
+                "end": 42,
+                "start": 27,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "NicoleTravabgk"
+              },
+              {
+                "end": 97,
+                "start": 81,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 125,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 102,
+                "url": "https://t.co/89bWifkSsU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096532561577250913",
+        "name": "洛",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149411007991808/1780217819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1435,
+          "following_count": 344,
+          "like_count": 7860,
+          "listed_count": 3,
+          "media_count": 448,
+          "tweet_count": 3513
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-06T04:06:12.000Z",
+        "description": "mnweeper 3.0 \nINFP 4w5 enby/agender 06 gynesexual asd 严重不正常\nDie Leere ist verschwunden.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nancymnw",
+                "end": 23,
+                "expanded_url": "https://t.me/nancymnw",
+                "start": 0,
+                "url": "https://t.co/g9I3wu4aMP"
+              }
+            ]
+          }
+        },
+        "id": "2085214308754239488",
+        "is_identity_verified": false,
+        "location": "死亡就是天堂",
+        "most_recent_tweet_id": "2096516314676232670",
+        "name": "mnw3eper",
+        "pinned_tweet_id": "2096129102826676381",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085214308754239488/1788594443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096419309207904256/d8Qhl6lU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 117,
+          "like_count": 4049,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 230
+        },
+        "url": "https://t.co/g9I3wu4aMP",
+        "username": "yonakimnw",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

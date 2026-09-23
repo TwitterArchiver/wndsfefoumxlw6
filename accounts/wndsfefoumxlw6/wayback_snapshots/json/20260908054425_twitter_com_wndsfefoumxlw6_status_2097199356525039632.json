@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2097125262630740010",
+    "created_at": "2026-09-08T05:44:25.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T06:44:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097199356525039632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1085331395273060352",
+          "start": 0,
+          "username": "gudagudabrog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097199356525039632",
+    "in_reply_to_user_id": "1085331395273060352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097125262630740010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gudagudabrog 中国智慧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2097125262630740010",
+        "created_at": "2026-09-08T05:44:25.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T06:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097199356525039632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1085331395273060352",
+              "start": 0,
+              "username": "gudagudabrog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097199356525039632",
+        "in_reply_to_user_id": "1085331395273060352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097125262630740010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gudagudabrog 中国智慧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1085331395273060352",
+        "conversation_id": "2097125262630740010",
+        "created_at": "2026-09-08T00:49:59.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T01:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097125262630740010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wndsfefoumxlw6…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/wndsfefoumxlw6/status/2096851369814888862",
+              "start": 36,
+              "url": "https://t.co/sWkXodTrrH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097125262630740010",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3293,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096851369814888862",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "隣にこんなことを思いつく国民のいる国があると思うと恐怖で夜も眠れない。 https://t.co/sWkXodTrrH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/💊避难所：@SRamirez66171/@imqrmrtvom1lkt/@NicoleTravabgk电子烟+v：c313s852j0976\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWifkSsU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "SRamirez66171"
+              },
+              {
+                "end": 42,
+                "start": 27,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "NicoleTravabgk"
+              },
+              {
+                "end": 97,
+                "start": 81,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 125,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 102,
+                "url": "https://t.co/89bWifkSsU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097199356525039632",
+        "name": "洛",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149411007991808/1780217819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1500,
+          "following_count": 342,
+          "like_count": 7982,
+          "listed_count": 4,
+          "media_count": 454,
+          "tweet_count": 3554
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-01-16T00:22:23.000Z",
+        "description": "ごこうあやね\n16歳(15回目)\n自称賞金稼ぎの兼業ハンター\n蛍光灯ボクサー\n木の実ギルドDランク\nぶどう農園使用人\n日帰り温泉副管理人\n長野県認定管理捕獲技術者\n市地域づくりヤングマイスター\nDCCレベル１\n防災士\nジビエハンター\nわな\n第一種\n中学校CS運営委員",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/6GY27K2Z8204?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/bkY0c7ly2G"
+              }
+            ]
+          }
+        },
+        "id": "1085331395273060352",
+        "is_identity_verified": false,
+        "location": "本州のまんなかへん",
+        "most_recent_tweet_id": "2097187933862457506",
+        "name": "🐰五更アヤネ(兼業ハンター5年目)👻",
+        "pinned_tweet_id": "2095753195830350080",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1085331395273060352/1788229386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729300184327479296/TnVlZilm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4493,
+          "following_count": 465,
+          "like_count": 219737,
+          "listed_count": 43,
+          "media_count": 11590,
+          "tweet_count": 129541
+        },
+        "url": "https://t.co/bkY0c7ly2G",
+        "username": "gudagudabrog",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

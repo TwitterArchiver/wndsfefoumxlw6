@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2098780710467236198",
+    "created_at": "2026-09-13T09:32:15.000Z",
+    "display_text_range": [
+      8,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T10:32:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099068632701796495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2076667930197041153",
+          "start": 0,
+          "username": "Ak2r4i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099068632701796495",
+    "in_reply_to_user_id": "2076667930197041153",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098780710467236198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ak2r4i msk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2098780710467236198",
+        "created_at": "2026-09-13T09:32:15.000Z",
+        "display_text_range": [
+          8,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T10:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099068632701796495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2076667930197041153",
+              "start": 0,
+              "username": "Ak2r4i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099068632701796495",
+        "in_reply_to_user_id": "2076667930197041153",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098780710467236198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak2r4i msk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076667930197041153",
+        "conversation_id": "2098780710467236198",
+        "created_at": "2026-09-12T14:28:09.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T15:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098780710467236198"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098780710467236198",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 583,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想死。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/💊避难所：@SRamirez66171/@imqrmrtvom1lkt/@NicoleTravabgk电子烟+v：c313s852j0976\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWifkSsU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "SRamirez66171"
+              },
+              {
+                "end": 42,
+                "start": 27,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "NicoleTravabgk"
+              },
+              {
+                "end": 97,
+                "start": 81,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 125,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 102,
+                "url": "https://t.co/89bWifkSsU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099068632701796495",
+        "name": "洛",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149411007991808/1780217819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1567,
+          "following_count": 342,
+          "like_count": 8159,
+          "listed_count": 5,
+          "media_count": 469,
+          "tweet_count": 3668
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-13T14:03:13.000Z",
+        "description": "💊🔪❤️無性戀焦慮抑鬱希死念慮\n提供小零食小糖果相關幫助 私訊 https://t.co/XoJPUiUOLn\n隨機掉落免費小禮物( ੭•͈ω•͈)੭๐♡.๐ \n前世@Ak1r4i 🥺😭嗚嗚嗚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "Ak1r4i"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Ak1r4i",
+                "end": 55,
+                "expanded_url": "http://t.me/Ak1r4i",
+                "start": 32,
+                "url": "https://t.co/XoJPUiUOLn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ak1r4i",
+                "end": 23,
+                "expanded_url": "http://ngl.link/ak1r4i",
+                "start": 0,
+                "url": "https://t.co/bJoLlBAwl9"
+              }
+            ]
+          }
+        },
+        "id": "2076667930197041153",
+        "is_identity_verified": false,
+        "location": "夢",
+        "most_recent_tweet_id": "2098780710467236198",
+        "name": "心星",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076667930197041153/1787755265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092122886660345856/5hCtC3hf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 184,
+          "like_count": 246,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 25
+        },
+        "url": "https://t.co/bJoLlBAwl9",
+        "username": "Ak2r4i",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

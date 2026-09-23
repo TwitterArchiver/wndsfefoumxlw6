@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099467651701772288"
+      ]
+    },
+    "author_id": "2059149411007991808",
+    "conversation_id": "2099467742277677313",
+    "created_at": "2026-09-14T11:58:10.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T12:58:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099467742277677313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "89421672",
+          "start": 0,
+          "username": "USA_China_Talk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Hf1hVbB9PW",
+          "end": 55,
+          "expanded_url": "https://x.com/wndsfefoumxlw6/status/2099467742277677313/photo/1",
+          "media_key": "3_2099467651701772288",
+          "start": 32,
+          "url": "https://t.co/Hf1hVbB9PW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099467742277677313",
+    "in_reply_to_user_id": "89421672",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099467651701772288"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@USA_China_Talk 申请美国签证凭借这个小票能过吗 https://t.co/Hf1hVbB9PW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1679,
+        "media_key": "3_2099467651701772288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSLOtK0bkAAl7X3.jpg",
+        "width": 801
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099467651701772288"
+          ]
+        },
+        "author_id": "2059149411007991808",
+        "conversation_id": "2099467742277677313",
+        "created_at": "2026-09-14T11:58:10.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T12:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099467742277677313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "89421672",
+              "start": 0,
+              "username": "USA_China_Talk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hf1hVbB9PW",
+              "end": 55,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2099467742277677313/photo/1",
+              "media_key": "3_2099467651701772288",
+              "start": 32,
+              "url": "https://t.co/Hf1hVbB9PW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099467742277677313",
+        "in_reply_to_user_id": "89421672",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099467651701772288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@USA_China_Talk 申请美国签证凭借这个小票能过吗 https://t.co/Hf1hVbB9PW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/💊避难所：@SRamirez66171/@imqrmrtvom1lkt/@NicoleTravabgk电子烟+v：c313s852j0976\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWifkSsU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "SRamirez66171"
+              },
+              {
+                "end": 42,
+                "start": 27,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "NicoleTravabgk"
+              },
+              {
+                "end": 97,
+                "start": 81,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 125,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 102,
+                "url": "https://t.co/89bWifkSsU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099467742277677313",
+        "name": "洛",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149411007991808/1780217819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1586,
+          "following_count": 343,
+          "like_count": 8200,
+          "listed_count": 5,
+          "media_count": 472,
+          "tweet_count": 3692
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2065445010053431296/I2jXbYJL_bigger.jpg",
+          "description": "Department of State",
+          "url": "https://twitter.com/StateDept",
+          "user_id": [
+            "9624742"
+          ]
+        },
+        "created_at": "2009-11-12T10:55:22.000Z",
+        "description": "欢迎来到美国驻华使领馆的“推特”平台！本帐号使用条款可在以下链接找到：https://t.co/7fIbxneOkc 有时候，我们的内容会将关注者定向到非美国政府网站，此处包含的链接仅供参考，不一定代表美国政府或美国国务院观点或背书。关注庞德伟(David Perdue)大使： @USAmbChina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 140,
+                "username": "USAmbChina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ow.ly/T3EO50OxjR8",
+                "end": 58,
+                "expanded_url": "http://ow.ly/T3EO50OxjR8",
+                "start": 35,
+                "url": "https://t.co/7fIbxneOkc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "china.usembassy-china.org.cn",
+                "end": 23,
+                "expanded_url": "https://china.usembassy-china.org.cn/",
+                "start": 0,
+                "url": "https://t.co/EJ5I77rnR8"
+              }
+            ]
+          }
+        },
+        "id": "89421672",
+        "is_identity_verified": false,
+        "location": "China",
+        "most_recent_tweet_id": "2099448572651413981",
+        "name": "美国驻华使领馆 U.S. Mission to China",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/89421672/1772527120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713839270769618944/eLoK1MFM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1650467,
+          "following_count": 174,
+          "like_count": 11,
+          "listed_count": 4413,
+          "media_count": 625,
+          "tweet_count": 3295
+        },
+        "url": "https://t.co/EJ5I77rnR8",
+        "username": "USA_China_Talk",
+        "verified": true,
+        "verified_type": "government"
+      }
+    ]
+  }
+}

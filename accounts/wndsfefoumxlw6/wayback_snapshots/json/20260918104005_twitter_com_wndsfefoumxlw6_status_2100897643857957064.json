@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2100836578407088355",
+    "created_at": "2026-09-18T10:40:05.000Z",
+    "display_text_range": [
+      11,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T11:40:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100897643857957064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2090485992373497856",
+          "start": 0,
+          "username": "Demonnn77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100897643857957064",
+    "in_reply_to_user_id": "2090485992373497856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100836578407088355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Demonnn77 破绷洛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100836562456207360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSeruQxa4AAk9GN.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2100836578407088355",
+        "created_at": "2026-09-18T10:40:05.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T11:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100897643857957064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2090485992373497856",
+              "start": 0,
+              "username": "Demonnn77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100897643857957064",
+        "in_reply_to_user_id": "2090485992373497856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100836578407088355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Demonnn77 破绷洛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100836562456207360"
+          ]
+        },
+        "author_id": "2090485992373497856",
+        "conversation_id": "2100836578407088355",
+        "created_at": "2026-09-18T06:37:26.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T07:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100836578407088355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rHT6rTpV6n",
+              "end": 30,
+              "expanded_url": "https://x.com/Demonnn77/status/2100836578407088355/photo/1",
+              "media_key": "3_2100836562456207360",
+              "start": 7,
+              "url": "https://t.co/rHT6rTpV6n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100836578407088355",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100836562456207360"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 621,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还鸡鸡怪呢 https://t.co/rHT6rTpV6n"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/💊避难所：@SRamirez66171/@imqrmrtvom1lkt/@NicoleTravabgk电子烟+v：c313s852j0976\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWifkSsU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "SRamirez66171"
+              },
+              {
+                "end": 42,
+                "start": 27,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "NicoleTravabgk"
+              },
+              {
+                "end": 97,
+                "start": 81,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 125,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 102,
+                "url": "https://t.co/89bWifkSsU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100897643857957064",
+        "name": "洛",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149411007991808/1780217819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1653,
+          "following_count": 345,
+          "like_count": 8393,
+          "listed_count": 5,
+          "media_count": 491,
+          "tweet_count": 3806
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T17:11:25.000Z",
+        "description": "🌈🏳️‍🌈因为我的病就是没有感觉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rin_demon",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rin_demon",
+                "start": 0,
+                "url": "https://t.co/KR3neoh0gz"
+              }
+            ]
+          }
+        },
+        "id": "2090485992373497856",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2100897409891291510",
+        "name": "三清剑",
+        "pinned_tweet_id": "2094497848444465386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090485992373497856/1787253532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100475696422486016/0LupcjRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1322,
+          "following_count": 329,
+          "like_count": 3682,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1263
+        },
+        "url": "https://t.co/KR3neoh0gz",
+        "username": "Demonnn77",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

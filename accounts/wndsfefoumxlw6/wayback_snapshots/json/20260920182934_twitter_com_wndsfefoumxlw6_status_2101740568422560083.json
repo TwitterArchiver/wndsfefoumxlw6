@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2101707806420197399",
+    "created_at": "2026-09-20T18:29:34.000Z",
+    "display_text_range": [
+      11,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T19:29:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101740568422560083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1830213377052037120",
+          "start": 0,
+          "username": "jiu_yokki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101740568422560083",
+    "in_reply_to_user_id": "1830213377052037120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101707806420197399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiu_yokki 这野人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101707791547113472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSrEGeDWIAA3fiV.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2101707791526244352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSrEGd-XsAAhjXs.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2101707806420197399",
+        "created_at": "2026-09-20T18:29:34.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T19:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101740568422560083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1830213377052037120",
+              "start": 0,
+              "username": "jiu_yokki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101740568422560083",
+        "in_reply_to_user_id": "1830213377052037120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101707806420197399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiu_yokki 这野人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101707791547113472",
+            "3_2101707791526244352"
+          ]
+        },
+        "author_id": "1830213377052037120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2101707806420197399",
+        "created_at": "2026-09-20T16:19:23.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T17:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101707806420197399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i4owAZZlEC",
+              "end": 54,
+              "expanded_url": "https://x.com/jiu_yokki/status/2101707806420197399/photo/1",
+              "media_key": "3_2101707791547113472",
+              "start": 31,
+              "url": "https://t.co/i4owAZZlEC"
+            },
+            {
+              "display_url": "pic.x.com/i4owAZZlEC",
+              "end": 54,
+              "expanded_url": "https://x.com/jiu_yokki/status/2101707806420197399/photo/1",
+              "media_key": "3_2101707791526244352",
+              "start": 31,
+              "url": "https://t.co/i4owAZZlEC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101707806420197399",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101707791547113472"
+          },
+          {
+            "media_key": "3_2101707791526244352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 735,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "累死累活打王者被打爆了回来看到这个人的评论我直接幸福者退让了 https://t.co/i4owAZZlEC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/💊避难所：@SRamirez66171/@imqrmrtvom1lkt/@NicoleTravabgk电子烟+v：c313s852j0976\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWifkSsU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "SRamirez66171"
+              },
+              {
+                "end": 42,
+                "start": 27,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "NicoleTravabgk"
+              },
+              {
+                "end": 97,
+                "start": 81,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 125,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 102,
+                "url": "https://t.co/89bWifkSsU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101740568422560083",
+        "name": "洛",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149411007991808/1780217819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1664,
+          "following_count": 345,
+          "like_count": 8484,
+          "listed_count": 4,
+          "media_count": 500,
+          "tweet_count": 3862
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-01T11:57:39.000Z",
+        "description": "叫我小玖就好｜精分｜躁郁\ndm欢迎 互关直fo看成分回",
+        "id": "1830213377052037120",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101707806420197399",
+        "name": "Namida",
+        "pinned_tweet_id": "2082387245776945496",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830213377052037120/1785736374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084155426950762496/u0wVs8XF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 246,
+          "like_count": 2863,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 783
+        },
+        "url": "",
+        "username": "jiu_yokki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
