@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2105652487063478364",
+    "created_at": "2026-10-01T13:34:08.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T14:34:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105652487063478364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2103590351080771584",
+          "start": 3,
+          "username": "uwu8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/alTh8gN",
+          "end": 139,
+          "start": 119,
+          "url": "https://t.co/alTh8gN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105652487063478364",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105370737829916693",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uwu8964: msk我是你爸爸\n你或許曾聽說我的名字\n這裡是n代目的番茄操蛋\n我的假雞巴還沒發貨就被扼殺了嗎\n連續被封了一個1k4fo一個800fo的藍v號\n剛開完藍v就被封了也是來做慈善了好吧\n你們的媽都被我操飛了\n心情： https://t.co/alTh8gN…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2105370706162905088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTfHgKVacAA69_f.jpg",
+        "width": 600
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2105370706171383808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTfHgKXb0AAuFQh.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2105370706162987008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTfHgKVbsAAhKkZ.jpg",
+        "width": 942
+      },
+      {
+        "height": 811,
+        "media_key": "3_2105370706196475904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTfHgKdasAApdgT.jpg",
+        "width": 986
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2105652487063478364",
+        "created_at": "2026-10-01T13:34:08.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T14:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105652487063478364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2103590351080771584",
+              "start": 3,
+              "username": "uwu8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/alTh8gN",
+              "end": 139,
+              "start": 119,
+              "url": "https://t.co/alTh8gN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105652487063478364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105370737829916693",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uwu8964: msk我是你爸爸\n你或許曾聽說我的名字\n這裡是n代目的番茄操蛋\n我的假雞巴還沒發貨就被扼殺了嗎\n連續被封了一個1k4fo一個800fo的藍v號\n剛開完藍v就被封了也是來做慈善了好吧\n你們的媽都被我操飛了\n心情： https://t.co/alTh8gN…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105370706162905088",
+            "3_2105370706171383808",
+            "3_2105370706162987008",
+            "3_2105370706196475904"
+          ]
+        },
+        "author_id": "2103590351080771584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105370737829916693",
+        "created_at": "2026-09-30T18:54:34.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T19:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105370737829916693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/alTh8gNjbr",
+              "end": 129,
+              "expanded_url": "https://x.com/uwu8964/status/2105370737829916693/photo/1",
+              "media_key": "3_2105370706162905088",
+              "start": 106,
+              "url": "https://t.co/alTh8gNjbr"
+            },
+            {
+              "display_url": "pic.x.com/alTh8gNjbr",
+              "end": 129,
+              "expanded_url": "https://x.com/uwu8964/status/2105370737829916693/photo/1",
+              "media_key": "3_2105370706171383808",
+              "start": 106,
+              "url": "https://t.co/alTh8gNjbr"
+            },
+            {
+              "display_url": "pic.x.com/alTh8gNjbr",
+              "end": 129,
+              "expanded_url": "https://x.com/uwu8964/status/2105370737829916693/photo/1",
+              "media_key": "3_2105370706162987008",
+              "start": 106,
+              "url": "https://t.co/alTh8gNjbr"
+            },
+            {
+              "display_url": "pic.x.com/alTh8gNjbr",
+              "end": 129,
+              "expanded_url": "https://x.com/uwu8964/status/2105370737829916693/photo/1",
+              "media_key": "3_2105370706196475904",
+              "start": 106,
+              "url": "https://t.co/alTh8gNjbr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105370737829916693",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105370706162905088"
+          },
+          {
+            "media_key": "3_2105370706171383808"
+          },
+          {
+            "media_key": "3_2105370706162987008"
+          },
+          {
+            "media_key": "3_2105370706196475904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8759,
+          "like_count": 61,
+          "quote_count": 7,
+          "reply_count": 12,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "msk我是你爸爸\n你或許曾聽說我的名字\n這裡是n代目的番茄操蛋\n我的假雞巴還沒發貨就被扼殺了嗎\n連續被封了一個1k4fo一個800fo的藍v號\n剛開完藍v就被封了也是來做慈善了好吧\n你們的媽都被我操飛了\n心情： https://t.co/alTh8gNjbr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/寻找人生的意义中……\nrc：@NicoleTravabgk\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 21,
+                "username": "NicoleTravabgk"
+              },
+              {
+                "end": 56,
+                "start": 40,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 84,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 61,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105652487063478364",
+        "name": "洛",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149411007991808/1780217819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1678,
+          "following_count": 344,
+          "like_count": 8904,
+          "listed_count": 3,
+          "media_count": 545,
+          "tweet_count": 4147
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-25T21:01:40.000Z",
+        "description": "I don’t fucking care",
+        "id": "2103590351080771584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105649290454647268",
+        "name": "番茄操蛋🏳️‍⚧️",
+        "pinned_tweet_id": "2105370737829916693",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2103590351080771584/1790794541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105368005270228993/ORHAOaDx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 80,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 93
+        },
+        "url": "",
+        "username": "uwu8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

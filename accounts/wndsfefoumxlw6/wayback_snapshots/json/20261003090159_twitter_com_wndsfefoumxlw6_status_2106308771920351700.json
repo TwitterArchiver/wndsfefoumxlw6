@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2106303160751149277",
+    "created_at": "2026-10-03T09:01:59.000Z",
+    "display_text_range": [
+      7,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T10:01:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106308771920351700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2067799247349792768",
+          "start": 0,
+          "username": "q1lwm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106308771920351700",
+    "in_reply_to_user_id": "2067799247349792768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106308265940603255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@q1lwm 我去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2106303160751149277",
+        "created_at": "2026-10-03T09:01:59.000Z",
+        "display_text_range": [
+          7,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T10:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106308771920351700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2067799247349792768",
+              "start": 0,
+              "username": "q1lwm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106308771920351700",
+        "in_reply_to_user_id": "2067799247349792768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106308265940603255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@q1lwm 我去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067799247349792768",
+        "conversation_id": "2106303160751149277",
+        "created_at": "2026-10-03T08:59:58.000Z",
+        "display_text_range": [
+          16,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T09:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106308265940603255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059149411007991808",
+              "start": 0,
+              "username": "wndsfefoumxlw6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106308265940603255",
+        "in_reply_to_user_id": "2059149411007991808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106303160751149277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wndsfefoumxlw6 一直发表情对面退不出去"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/寻找人生的意义中……\nrc：@NicoleTravabgk\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 21,
+                "username": "NicoleTravabgk"
+              },
+              {
+                "end": 56,
+                "start": 40,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 84,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 61,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106308771920351700",
+        "name": "洛",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149411007991808/1780217819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1705,
+          "following_count": 344,
+          "like_count": 8952,
+          "listed_count": 3,
+          "media_count": 548,
+          "tweet_count": 4187
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-19T02:39:48.000Z",
+        "description": "消肿博主｜哈基米lover｜互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chucaoji",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chucaoji",
+                "start": 0,
+                "url": "https://t.co/G5Df3Tr4t3"
+              }
+            ]
+          }
+        },
+        "id": "2067799247349792768",
+        "is_identity_verified": false,
+        "location": "11.4km",
+        "most_recent_tweet_id": "2106308265940603255",
+        "name": "quan",
+        "pinned_tweet_id": "2105677025545732457",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2067799247349792768/1790412325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100920993204289536/RK_AH76z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 403,
+          "like_count": 59,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 284
+        },
+        "url": "https://t.co/G5Df3Tr4t3",
+        "username": "q1lwm",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

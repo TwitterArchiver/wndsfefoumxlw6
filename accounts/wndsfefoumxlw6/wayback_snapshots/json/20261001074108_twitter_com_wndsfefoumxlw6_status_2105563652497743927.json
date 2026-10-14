@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105561858937917440"
+      ],
+      "media_source_tweet_id": [
+        "2105561884665753693"
+      ]
+    },
+    "author_id": "2059149411007991808",
+    "conversation_id": "2105563652497743927",
+    "created_at": "2026-10-01T07:41:08.000Z",
+    "display_text_range": [
+      0,
+      106
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T08:41:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105563652497743927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2074936970610987008",
+          "start": 3,
+          "username": "NicoleTravabgk"
+        },
+        {
+          "end": 41,
+          "id": "1987805389904396288",
+          "start": 27,
+          "username": "HaruYukii0421"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/piQVtEfEQv",
+          "end": 106,
+          "expanded_url": "https://x.com/NicoleTravabgk/status/2105561884665753693/photo/1",
+          "media_key": "3_2105561858937917440",
+          "start": 83,
+          "url": "https://t.co/piQVtEfEQv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105563652497743927",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105561858937917440"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105561884665753693",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NicoleTravabgk: 恭喜上期中奖者@HaruYukii0421 ，本推底下继续抽，关注转发评论你经常吃的一种药，有机会获得「黄灼哦」🥳两天后开奖 https://t.co/piQVtEfEQv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2285,
+        "media_key": "3_2105561858937917440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTh1Wt6bEAAwU89.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105561858937917440"
+          ],
+          "media_source_tweet_id": [
+            "2105561884665753693"
+          ]
+        },
+        "author_id": "2059149411007991808",
+        "conversation_id": "2105563652497743927",
+        "created_at": "2026-10-01T07:41:08.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T08:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105563652497743927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2074936970610987008",
+              "start": 3,
+              "username": "NicoleTravabgk"
+            },
+            {
+              "end": 41,
+              "id": "1987805389904396288",
+              "start": 27,
+              "username": "HaruYukii0421"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/piQVtEfEQv",
+              "end": 106,
+              "expanded_url": "https://x.com/NicoleTravabgk/status/2105561884665753693/photo/1",
+              "media_key": "3_2105561858937917440",
+              "start": 83,
+              "url": "https://t.co/piQVtEfEQv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105563652497743927",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105561858937917440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105561884665753693",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NicoleTravabgk: 恭喜上期中奖者@HaruYukii0421 ，本推底下继续抽，关注转发评论你经常吃的一种药，有机会获得「黄灼哦」🥳两天后开奖 https://t.co/piQVtEfEQv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105561858937917440"
+          ]
+        },
+        "author_id": "2074936970610987008",
+        "conversation_id": "2105561884665753693",
+        "created_at": "2026-10-01T07:34:07.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T08:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105561884665753693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1987805389904396288",
+              "start": 7,
+              "username": "HaruYukii0421"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/piQVtEfEQv",
+              "end": 86,
+              "expanded_url": "https://x.com/NicoleTravabgk/status/2105561884665753693/photo/1",
+              "media_key": "3_2105561858937917440",
+              "start": 63,
+              "url": "https://t.co/piQVtEfEQv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105561884665753693",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105561858937917440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "恭喜上期中奖者@HaruYukii0421 ，本推底下继续抽，关注转发评论你经常吃的一种药，有机会获得「黄灼哦」🥳两天后开奖 https://t.co/piQVtEfEQv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/寻找人生的意义中……\nrc：@NicoleTravabgk\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 21,
+                "username": "NicoleTravabgk"
+              },
+              {
+                "end": 56,
+                "start": 40,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 84,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 61,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105563652497743927",
+        "name": "洛",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149411007991808/1780217819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1675,
+          "following_count": 343,
+          "like_count": 8875,
+          "listed_count": 3,
+          "media_count": 542,
+          "tweet_count": 4125
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-08T19:23:10.000Z",
+        "description": "杀不死我的，只会让我更加强大\n平等交流社区/实验科研/药物科普/rc出售\n逃生仓：@QuantumStrr9uy\ntg群：https://t.co/6dIV2Getm3\n频道：https://t.co/iotvF7pLoK",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "QuantumStrr9uy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+gjb2OqUsan1jO…",
+                "end": 84,
+                "expanded_url": "https://t.me/+gjb2OqUsan1jOGNl",
+                "start": 61,
+                "url": "https://t.co/6dIV2Getm3"
+              },
+              {
+                "display_url": "t.me/pingjingluo",
+                "end": 111,
+                "expanded_url": "https://t.me/pingjingluo",
+                "start": 88,
+                "url": "https://t.co/iotvF7pLoK"
+              }
+            ]
+          }
+        },
+        "id": "2074936970610987008",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105561884665753693",
+        "name": "平静屋（rc有售）",
+        "pinned_tweet_id": "2103084806007607318",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101285311938797568/8lGOnqme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 45,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 56
+        },
+        "url": "",
+        "username": "NicoleTravabgk",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-10T08:52:10.000Z",
+        "description": "=迟羊\n🔪💊❤️\n查成分回fo",
+        "id": "1987805389904396288",
+        "is_identity_verified": false,
+        "location": "请输入文本",
+        "most_recent_tweet_id": "2105282873079341318",
+        "name": "迟羊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987805389904396288/1785696784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073347565870059520/NVJw553W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 654,
+          "like_count": 13597,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1174
+        },
+        "url": "",
+        "username": "HaruYukii0421",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2103061869011636731",
+    "created_at": "2026-09-24T09:59:57.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T10:59:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103061869011636731"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Overdose_Rx/st…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/Overdose_Rx/status/2102850336423874738",
+          "start": 8,
+          "url": "https://t.co/WacDpDleLo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103061869011636731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102850336423874738",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实是全被封了 https://t.co/WacDpDleLo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2103061869011636731",
+        "created_at": "2026-09-24T09:59:57.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T10:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103061869011636731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Overdose_Rx/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Overdose_Rx/status/2102850336423874738",
+              "start": 8,
+              "url": "https://t.co/WacDpDleLo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103061869011636731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102850336423874738",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实是全被封了 https://t.co/WacDpDleLo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "622036546",
+        "conversation_id": "2102850336423874738",
+        "created_at": "2026-09-23T19:59:23.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T20:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102850336423874738"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102850336423874738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5702,
+          "like_count": 137,
+          "quote_count": 4,
+          "reply_count": 23,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "感觉现在的药圈好冷清啊 认识的人基本都死光了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 54,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 31,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103061869011636731",
+        "name": "洛",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149411007991808/1780217819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1664,
+          "following_count": 344,
+          "like_count": 8622,
+          "listed_count": 4,
+          "media_count": 518,
+          "tweet_count": 3953
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "一位神秘退出圈内的 oder",
+        "id": "622036546",
+        "is_identity_verified": false,
+        "location": "伊甸园",
+        "most_recent_tweet_id": "2102985717114962093",
+        "name": "椎名Shiina",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/622036546/1782498730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004582178806693888/5V-kT5y0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3062,
+          "following_count": 110,
+          "like_count": 11373,
+          "listed_count": 8,
+          "media_count": 720,
+          "tweet_count": 4266
+        },
+        "url": "",
+        "username": "Overdose_Rx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

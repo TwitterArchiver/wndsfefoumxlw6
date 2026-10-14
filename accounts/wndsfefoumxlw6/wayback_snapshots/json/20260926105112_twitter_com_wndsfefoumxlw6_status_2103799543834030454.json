@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103799436149452800"
+      ]
+    },
+    "author_id": "2059149411007991808",
+    "conversation_id": "2103799543834030454",
+    "created_at": "2026-09-26T10:51:12.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T11:51:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103799543834030454"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zVWMD3y0iW",
+          "end": 36,
+          "expanded_url": "https://x.com/wndsfefoumxlw6/status/2103799543834030454/photo/1",
+          "media_key": "3_2103799436149452800",
+          "start": 13,
+          "url": "https://t.co/zVWMD3y0iW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103799543834030454",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103799436149452800"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我他妈快笑晕了，这谁能绷 https://t.co/zVWMD3y0iW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2354,
+        "media_key": "3_2103799436149452800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTIycNZa8AABaT1.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103799436149452800"
+          ]
+        },
+        "author_id": "2059149411007991808",
+        "conversation_id": "2103799543834030454",
+        "created_at": "2026-09-26T10:51:12.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T11:51:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103799543834030454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zVWMD3y0iW",
+              "end": 36,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2103799543834030454/photo/1",
+              "media_key": "3_2103799436149452800",
+              "start": 13,
+              "url": "https://t.co/zVWMD3y0iW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103799543834030454",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103799436149452800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈快笑晕了，这谁能绷 https://t.co/zVWMD3y0iW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19 策划：@FffffNnnnnYyyyy\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "FffffNnnnnYyyyy"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 74,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 51,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103799543834030454",
+        "name": "洛",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149411007991808/1780217819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1668,
+          "following_count": 339,
+          "like_count": 8705,
+          "listed_count": 4,
+          "media_count": 528,
+          "tweet_count": 4018
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

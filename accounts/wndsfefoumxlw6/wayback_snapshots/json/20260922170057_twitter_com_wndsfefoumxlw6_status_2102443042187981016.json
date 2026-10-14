@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102442843348652032"
+      ]
+    },
+    "author_id": "2059149411007991808",
+    "conversation_id": "2102443042187981016",
+    "created_at": "2026-09-22T17:00:57.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T18:00:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102443042187981016"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/L8UUcKmHk5",
+          "end": 29,
+          "expanded_url": "https://x.com/wndsfefoumxlw6/status/2102443042187981016/photo/1",
+          "media_key": "3_2102442843348652032",
+          "start": 6,
+          "url": "https://t.co/L8UUcKmHk5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102443042187981016",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2102442843348652032"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我去去就回 https://t.co/L8UUcKmHk5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1258,
+        "media_key": "3_2102442843348652032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS1goHZb0AAGKh2.jpg",
+        "width": 1246
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102442843348652032"
+          ]
+        },
+        "author_id": "2059149411007991808",
+        "conversation_id": "2102443042187981016",
+        "created_at": "2026-09-22T17:00:57.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T18:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102443042187981016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L8UUcKmHk5",
+              "end": 29,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2102443042187981016/photo/1",
+              "media_key": "3_2102442843348652032",
+              "start": 6,
+              "url": "https://t.co/L8UUcKmHk5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102443042187981016",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102442843348652032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去去就回 https://t.co/L8UUcKmHk5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 54,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 31,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102443042187981016",
+        "name": "洛",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149411007991808/1780217819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1670,
+          "following_count": 346,
+          "like_count": 8570,
+          "listed_count": 4,
+          "media_count": 514,
+          "tweet_count": 3920
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

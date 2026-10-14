@@ -1,0 +1,672 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1296394094009151488",
+          "name": "Halloween"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Halloween for all years",
+          "id": "1301463450099482625",
+          "name": "Halloween "
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1296394094009151488",
+          "name": "Halloween"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296394094009151488",
+          "name": "Halloween"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cooking/Baking",
+          "id": "831530561680191490",
+          "name": "Cooking"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Desserts and baked goods",
+          "id": "847863957599567872",
+          "name": "Desserts and baked goods"
+        }
+      }
+    ],
+    "conversation_id": "2106299652530442285",
+    "created_at": "2026-10-03T08:25:44.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T09:25:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106299652530442285"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ortho_FL/statu…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/Ortho_FL/status/2105474137699537184",
+          "start": 12,
+          "url": "https://t.co/vB6LkEyQZe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106299652530442285",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105474137699537184",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么我遇不到这种好人 https://t.co/vB6LkEyQZe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1192,
+        "media_key": "3_2105474133207482368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTglkaGbAAAR2eF.jpg",
+        "width": 1206
+      },
+      {
+        "height": 403,
+        "media_key": "3_2105474133207527424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTglkaGbsAABj-K.jpg",
+        "width": 640
+      },
+      {
+        "height": 577,
+        "media_key": "3_2105474133207420929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTglkaGaEAEqRCi.jpg",
+        "width": 640
+      },
+      {
+        "height": 554,
+        "media_key": "3_2105474133207449600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTglkaGagAARiJR.jpg",
+        "width": 554
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Halloween for all years",
+              "id": "1301463450099482625",
+              "name": "Halloween "
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Desserts and baked goods",
+              "id": "847863957599567872",
+              "name": "Desserts and baked goods"
+            }
+          }
+        ],
+        "conversation_id": "2106299652530442285",
+        "created_at": "2026-10-03T08:25:44.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T09:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106299652530442285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ortho_FL/statu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Ortho_FL/status/2105474137699537184",
+              "start": 12,
+              "url": "https://t.co/vB6LkEyQZe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106299652530442285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105474137699537184",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么我遇不到这种好人 https://t.co/vB6LkEyQZe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105474133207482368",
+            "3_2105474133207527424",
+            "3_2105474133207420929",
+            "3_2105474133207449600"
+          ]
+        },
+        "author_id": "1035020933369487360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Halloween for all years",
+              "id": "1301463450099482625",
+              "name": "Halloween "
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Desserts and baked goods",
+              "id": "847863957599567872",
+              "name": "Desserts and baked goods"
+            }
+          }
+        ],
+        "conversation_id": "2105474137699537184",
+        "created_at": "2026-10-01T01:45:26.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T02:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105474137699537184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wl9fJyYHKx",
+              "end": 163,
+              "expanded_url": "https://x.com/Ortho_FL/status/2105474137699537184/photo/1",
+              "media_key": "3_2105474133207482368",
+              "start": 140,
+              "url": "https://t.co/Wl9fJyYHKx"
+            },
+            {
+              "display_url": "pic.x.com/Wl9fJyYHKx",
+              "end": 163,
+              "expanded_url": "https://x.com/Ortho_FL/status/2105474137699537184/photo/1",
+              "media_key": "3_2105474133207527424",
+              "start": 140,
+              "url": "https://t.co/Wl9fJyYHKx"
+            },
+            {
+              "display_url": "pic.x.com/Wl9fJyYHKx",
+              "end": 163,
+              "expanded_url": "https://x.com/Ortho_FL/status/2105474137699537184/photo/1",
+              "media_key": "3_2105474133207420929",
+              "start": 140,
+              "url": "https://t.co/Wl9fJyYHKx"
+            },
+            {
+              "display_url": "pic.x.com/Wl9fJyYHKx",
+              "end": 163,
+              "expanded_url": "https://x.com/Ortho_FL/status/2105474137699537184/photo/1",
+              "media_key": "3_2105474133207449600",
+              "start": 140,
+              "url": "https://t.co/Wl9fJyYHKx"
+            },
+            {
+              "display_url": "x.com/news24ntv/stat…",
+              "end": 187,
+              "expanded_url": "https://twitter.com/news24ntv/status/2105226290592923728",
+              "start": 164,
+              "url": "https://t.co/xPXOaWbWrS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105474137699537184",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2105474133207482368"
+          },
+          {
+            "media_key": "3_2105474133207527424"
+          },
+          {
+            "media_key": "3_2105474133207420929"
+          },
+          {
+            "media_key": "3_2105474133207449600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5490,
+          "impression_count": 7632713,
+          "like_count": 48628,
+          "quote_count": 1358,
+          "reply_count": 316,
+          "retweet_count": 26265
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105226290592923728",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "こういう薬物がどういう見た目なのか知っておいて\n\n海外ではハロウィンのお菓子に混ぜて薬物などが配られた事件や注意喚起も出ている\n\n今回のもピ◯チュウの見た目してるが普通に覚醒剤\n\n錠剤の見た目を可愛くして手に取りやすくするとかマジ卑劣なのよ\n\n子どもが巻き込まれる可能性まである https://t.co/Wl9fJyYHKx https://t.co/xPXOaWbWrS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/寻找人生的意义中……\nrc：@NicoleTravabgk\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 21,
+                "username": "NicoleTravabgk"
+              },
+              {
+                "end": 56,
+                "start": 40,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 84,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 61,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106299652530442285",
+        "name": "洛",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149411007991808/1780217819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1705,
+          "following_count": 344,
+          "like_count": 8942,
+          "listed_count": 3,
+          "media_count": 547,
+          "tweet_count": 4182
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-08-30T04:26:35.000Z",
+        "description": "整形外科専門医/ 認定医複数/ フリーランス/ ブロガー/ 医師転職のセミプロ/ 著書複数・Amazon1位/ 雑誌・web連載複数/ 仕事依頼・医師キャリア相談はDM📩/ 正しくわかりやすく面白く！医療・医療ニュース解説・ライフハック系・SNS運用ポストします/ 病気相談×/ プロダイバー/ 筋トレ/ アニメ好き",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "free-doc.hatenablog.com",
+                "end": 23,
+                "expanded_url": "https://free-doc.hatenablog.com/",
+                "start": 0,
+                "url": "https://t.co/XlWWJSNGw6"
+              }
+            ]
+          }
+        },
+        "id": "1035020933369487360",
+        "is_identity_verified": false,
+        "location": "医師転職・バイト・フリーランスについてのブログ「フリドク」",
+        "most_recent_tweet_id": "2106283502715146253",
+        "name": "おると🦴整形外科医@筋トレ",
+        "pinned_tweet_id": "1782360815343210951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1035020933369487360/1612052167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1207640864714964994/Lj-YaH6D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139397,
+          "following_count": 255,
+          "like_count": 58184,
+          "listed_count": 1811,
+          "media_count": 2629,
+          "tweet_count": 50472
+        },
+        "url": "https://t.co/XlWWJSNGw6",
+        "username": "Ortho_FL",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

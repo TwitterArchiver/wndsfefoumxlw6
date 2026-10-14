@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104562371486433280",
+        "3_2104562380596445184"
+      ]
+    },
+    "author_id": "2059149411007991808",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2104562386153988128",
+    "created_at": "2026-09-28T13:22:28.000Z",
+    "display_text_range": [
+      0,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T14:22:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104562386153988128"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1I0RIX94qj",
+          "end": 45,
+          "expanded_url": "https://x.com/wndsfefoumxlw6/status/2104562386153988128/photo/1",
+          "media_key": "3_2104562371486433280",
+          "start": 22,
+          "url": "https://t.co/1I0RIX94qj"
+        },
+        {
+          "display_url": "pic.x.com/1I0RIX94qj",
+          "end": 45,
+          "expanded_url": "https://x.com/wndsfefoumxlw6/status/2104562386153988128/photo/1",
+          "media_key": "3_2104562380596445184",
+          "start": 22,
+          "url": "https://t.co/1I0RIX94qj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104562386153988128",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104562371486433280"
+      },
+      {
+        "media_key": "3_2104562380596445184"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "当官方终于意识到萌趣的世界才受大众喜爱时： https://t.co/1I0RIX94qj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1655,
+        "media_key": "3_2104562371486433280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTToU5AaQAA3G1N.jpg",
+        "width": 1259
+      },
+      {
+        "height": 569,
+        "media_key": "3_2104562380596445184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTToVa8aAAA_1Ny.jpg",
+        "width": 1258
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104562371486433280",
+            "3_2104562380596445184"
+          ]
+        },
+        "author_id": "2059149411007991808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104562386153988128",
+        "created_at": "2026-09-28T13:22:28.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T14:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104562386153988128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1I0RIX94qj",
+              "end": 45,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2104562386153988128/photo/1",
+              "media_key": "3_2104562371486433280",
+              "start": 22,
+              "url": "https://t.co/1I0RIX94qj"
+            },
+            {
+              "display_url": "pic.x.com/1I0RIX94qj",
+              "end": 45,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2104562386153988128/photo/1",
+              "media_key": "3_2104562380596445184",
+              "start": 22,
+              "url": "https://t.co/1I0RIX94qj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104562386153988128",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104562371486433280"
+          },
+          {
+            "media_key": "3_2104562380596445184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当官方终于意识到萌趣的世界才受大众喜爱时： https://t.co/1I0RIX94qj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/寻找人生的意义中……\nrc：@NicoleTravabgk\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 21,
+                "username": "NicoleTravabgk"
+              },
+              {
+                "end": 56,
+                "start": 40,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 84,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 61,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104562386153988128",
+        "name": "洛",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149411007991808/1780217819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1668,
+          "following_count": 341,
+          "like_count": 8809,
+          "listed_count": 3,
+          "media_count": 537,
+          "tweet_count": 4076
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103084778253893632"
+      ],
+      "media_source_tweet_id": [
+        "2103084806007607318"
+      ]
+    },
+    "author_id": "2059149411007991808",
+    "conversation_id": "2103084897598669096",
+    "created_at": "2026-09-24T11:31:27.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T12:31:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103084897598669096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2074936970610987008",
+          "start": 3,
+          "username": "NicoleTravabgk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YOswdhs9rI",
+          "end": 50,
+          "expanded_url": "https://x.com/NicoleTravabgk/status/2103084806007607318/photo/1",
+          "media_key": "3_2103084778253893632",
+          "start": 27,
+          "url": "https://t.co/YOswdhs9rI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103084897598669096",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103084778253893632"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103084806007607318",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NicoleTravabgk: 主页tg频道 https://t.co/YOswdhs9rI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2103084778253893632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS-odpRawAAxrEi.jpg",
+        "width": 1210
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103084778253893632"
+          ],
+          "media_source_tweet_id": [
+            "2103084806007607318"
+          ]
+        },
+        "author_id": "2059149411007991808",
+        "conversation_id": "2103084897598669096",
+        "created_at": "2026-09-24T11:31:27.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T12:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103084897598669096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2074936970610987008",
+              "start": 3,
+              "username": "NicoleTravabgk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YOswdhs9rI",
+              "end": 50,
+              "expanded_url": "https://x.com/NicoleTravabgk/status/2103084806007607318/photo/1",
+              "media_key": "3_2103084778253893632",
+              "start": 27,
+              "url": "https://t.co/YOswdhs9rI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103084897598669096",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103084778253893632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103084806007607318",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NicoleTravabgk: 主页tg频道 https://t.co/YOswdhs9rI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103084778253893632"
+          ]
+        },
+        "author_id": "2074936970610987008",
+        "conversation_id": "2103084806007607318",
+        "created_at": "2026-09-24T11:31:05.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T12:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103084806007607318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YOswdhs9rI",
+              "end": 30,
+              "expanded_url": "https://x.com/NicoleTravabgk/status/2103084806007607318/photo/1",
+              "media_key": "3_2103084778253893632",
+              "start": 7,
+              "url": "https://t.co/YOswdhs9rI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103084806007607318",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103084778253893632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "主页tg频道 https://t.co/YOswdhs9rI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 54,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 31,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103084897598669096",
+        "name": "洛",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149411007991808/1780217819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1664,
+          "following_count": 344,
+          "like_count": 8628,
+          "listed_count": 4,
+          "media_count": 520,
+          "tweet_count": 3957
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-08T19:23:10.000Z",
+        "description": "实验科研\ntg：https://t.co/6dIV2Gf1bB\n频道：https://t.co/iotvF7qjei",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+gjb2OqUsan1jO…",
+                "end": 31,
+                "expanded_url": "https://t.me/+gjb2OqUsan1jOGNl",
+                "start": 8,
+                "url": "https://t.co/6dIV2Gf1bB"
+              },
+              {
+                "display_url": "t.me/pingjingluo",
+                "end": 58,
+                "expanded_url": "https://t.me/pingjingluo",
+                "start": 35,
+                "url": "https://t.co/iotvF7qjei"
+              }
+            ]
+          }
+        },
+        "id": "2074936970610987008",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103084806007607318",
+        "name": "平静屋",
+        "pinned_tweet_id": "2103084806007607318",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101285311938797568/8lGOnqme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 13,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "NicoleTravabgk",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

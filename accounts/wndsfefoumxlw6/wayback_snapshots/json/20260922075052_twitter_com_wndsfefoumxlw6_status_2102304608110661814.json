@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2102304608110661814",
+    "created_at": "2026-09-22T07:50:52.000Z",
+    "display_text_range": [
+      0,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T08:50:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102304608110661814"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xian_zi17640/s…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/xian_zi17640/status/2102028760208019760",
+          "start": 29,
+          "url": "https://t.co/Yr32miFQPS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102304608110661814",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102028760208019760",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "自己住随便搞就算了，在别人家住还这么不讲卫生的真的很恼火 https://t.co/Yr32miFQPS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2720,
+        "media_key": "3_2102028725735038976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSvn_TEaoAAdY0Z.jpg",
+        "width": 1224
+      },
+      {
+        "height": 2720,
+        "media_key": "3_2102028733939175424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSvn_xob0AAjloZ.jpg",
+        "width": 1224
+      },
+      {
+        "height": 2720,
+        "media_key": "3_2102028743091056640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSvoATuacAAdFn7.jpg",
+        "width": 1224
+      },
+      {
+        "height": 2720,
+        "media_key": "3_2102028752381423616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSvoA2VaMAAWz1E.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2102304608110661814",
+        "created_at": "2026-09-22T07:50:52.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T08:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102304608110661814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xian_zi17640/s…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/xian_zi17640/status/2102028760208019760",
+              "start": 29,
+              "url": "https://t.co/Yr32miFQPS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102304608110661814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102028760208019760",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自己住随便搞就算了，在别人家住还这么不讲卫生的真的很恼火 https://t.co/Yr32miFQPS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102028725735038976",
+            "3_2102028733939175424",
+            "3_2102028743091056640",
+            "3_2102028752381423616"
+          ]
+        },
+        "author_id": "1878441068649426944",
+        "conversation_id": "2102028760208019760",
+        "created_at": "2026-09-21T13:34:44.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T14:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102028760208019760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vEoFh9wjMW",
+              "end": 34,
+              "expanded_url": "https://x.com/xian_zi17640/status/2102028760208019760/photo/1",
+              "media_key": "3_2102028725735038976",
+              "start": 11,
+              "url": "https://t.co/vEoFh9wjMW"
+            },
+            {
+              "display_url": "pic.x.com/vEoFh9wjMW",
+              "end": 34,
+              "expanded_url": "https://x.com/xian_zi17640/status/2102028760208019760/photo/1",
+              "media_key": "3_2102028733939175424",
+              "start": 11,
+              "url": "https://t.co/vEoFh9wjMW"
+            },
+            {
+              "display_url": "pic.x.com/vEoFh9wjMW",
+              "end": 34,
+              "expanded_url": "https://x.com/xian_zi17640/status/2102028760208019760/photo/1",
+              "media_key": "3_2102028743091056640",
+              "start": 11,
+              "url": "https://t.co/vEoFh9wjMW"
+            },
+            {
+              "display_url": "pic.x.com/vEoFh9wjMW",
+              "end": 34,
+              "expanded_url": "https://x.com/xian_zi17640/status/2102028760208019760/photo/1",
+              "media_key": "3_2102028752381423616",
+              "start": 11,
+              "url": "https://t.co/vEoFh9wjMW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102028760208019760",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102028725735038976"
+          },
+          {
+            "media_key": "3_2102028733939175424"
+          },
+          {
+            "media_key": "3_2102028743091056640"
+          },
+          {
+            "media_key": "3_2102028752381423616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 97,
+          "impression_count": 123720,
+          "like_count": 512,
+          "quote_count": 15,
+          "reply_count": 88,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "在q群看到的好想笑喵 https://t.co/vEoFh9wjMW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 54,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 31,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102304608110661814",
+        "name": "洛",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149411007991808/1780217819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1666,
+          "following_count": 344,
+          "like_count": 8525,
+          "listed_count": 4,
+          "media_count": 507,
+          "tweet_count": 3893
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-12T13:57:19.000Z",
+        "description": "一个跨还很悲苦的咪/173 60大药娘/生产日期2011.12.09/HRT2026.7.25/https://t.co/DLilEeCWrw好哥哥@LinQi_AWA/姐姐@nekotanko_shiro/弟弟？/涩妹妹@littletaomiao/怕疼/小洁癖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 74,
+                "username": "LinQi_AWA"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "nekotanko_shiro"
+              },
+              {
+                "end": 125,
+                "start": 111,
+                "username": "littletaomiao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/huimi2/",
+                "end": 71,
+                "expanded_url": "https://ngl.link/huimi2/",
+                "start": 48,
+                "url": "https://t.co/DLilEeCWrw"
+              }
+            ]
+          }
+        },
+        "id": "1878441068649426944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102280870996664441",
+        "name": "huizxlkファイ🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1878441068649426944/1779914618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041259774965395456/QJN4Ra5X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 668,
+          "like_count": 4691,
+          "listed_count": 4,
+          "media_count": 1519,
+          "tweet_count": 4662
+        },
+        "url": "",
+        "username": "xian_zi17640",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2103058993149280469",
+    "created_at": "2026-09-24T09:48:31.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T10:48:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103058993149280469"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Yinbai26/statu…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/Yinbai26/status/2102658545330127059",
+          "start": 14,
+          "url": "https://t.co/B9NFIsVwg9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103058993149280469",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102658545330127059",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为女生更感性吧，容易冲动 https://t.co/B9NFIsVwg9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2103058993149280469",
+        "created_at": "2026-09-24T09:48:31.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T10:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103058993149280469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Yinbai26/statu…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/Yinbai26/status/2102658545330127059",
+              "start": 14,
+              "url": "https://t.co/B9NFIsVwg9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103058993149280469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102658545330127059",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为女生更感性吧，容易冲动 https://t.co/B9NFIsVwg9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2091541383450447872",
+        "conversation_id": "2102658545330127059",
+        "created_at": "2026-09-23T07:17:17.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T08:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102658545330127059"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102658545330127059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 286715,
+          "like_count": 2597,
+          "quote_count": 35,
+          "reply_count": 793,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "为什么中国的男的普遍都觉得自己对政治有非常深刻的见解，明明学文科的女生更多，政治成绩也是女生更好，但上面那些领导都是男的。\n\n这个问题困扰我好久了……."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 54,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 31,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103058993149280469",
+        "name": "洛",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149411007991808/1780217819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1665,
+          "following_count": 344,
+          "like_count": 8619,
+          "listed_count": 4,
+          "media_count": 518,
+          "tweet_count": 3951
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-23T15:03:47.000Z",
+        "description": "心情好就发，成年人请直接勾引。",
+        "id": "2091541383450447872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103055362437878181",
+        "name": "Yinbai",
+        "pinned_tweet_id": "2101174263713558821",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099471367447982080/3sdSIcSY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 258,
+          "like_count": 378,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 719
+        },
+        "url": "",
+        "username": "Yinbai26",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

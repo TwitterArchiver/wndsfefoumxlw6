@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107706947445440512"
+      ],
+      "media_source_tweet_id": [
+        "2107706969239011433"
+      ]
+    },
+    "author_id": "2059149411007991808",
+    "conversation_id": "2107707039023792274",
+    "created_at": "2026-10-07T05:38:12.000Z",
+    "display_text_range": [
+      0,
+      114
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T06:38:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107707039023792274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1392223750377152516",
+          "start": 3,
+          "username": "FffffNnnnnYyyyy"
+        },
+        {
+          "end": 43,
+          "id": "2098001725835870208",
+          "start": 27,
+          "username": "Ecstasyabuserrr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ffxd0B1jI5",
+          "end": 114,
+          "expanded_url": "https://x.com/FffffNnnnnYyyyy/status/2107706969239011433/photo/1",
+          "media_key": "3_2107706947445440512",
+          "start": 91,
+          "url": "https://t.co/ffxd0B1jI5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107707039023792274",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2107706947445440512"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107706969239011433",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FffffNnnnnYyyyy: 恭喜上期推友@Ecstasyabuserrr，本推底下继续空投「小黄烟」一份🥰，关注转发，评论一下你的日常生活是怎样参与空投，还是两天后开 https://t.co/ffxd0B1jI5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1260,
+        "media_key": "3_2107706947445440512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUAUTTUbwAAx3ja.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107706947445440512"
+          ],
+          "media_source_tweet_id": [
+            "2107706969239011433"
+          ]
+        },
+        "author_id": "2059149411007991808",
+        "conversation_id": "2107707039023792274",
+        "created_at": "2026-10-07T05:38:12.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T06:38:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107707039023792274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1392223750377152516",
+              "start": 3,
+              "username": "FffffNnnnnYyyyy"
+            },
+            {
+              "end": 43,
+              "id": "2098001725835870208",
+              "start": 27,
+              "username": "Ecstasyabuserrr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ffxd0B1jI5",
+              "end": 114,
+              "expanded_url": "https://x.com/FffffNnnnnYyyyy/status/2107706969239011433/photo/1",
+              "media_key": "3_2107706947445440512",
+              "start": 91,
+              "url": "https://t.co/ffxd0B1jI5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107707039023792274",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107706947445440512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107706969239011433",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FffffNnnnnYyyyy: 恭喜上期推友@Ecstasyabuserrr，本推底下继续空投「小黄烟」一份🥰，关注转发，评论一下你的日常生活是怎样参与空投，还是两天后开 https://t.co/ffxd0B1jI5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107706947445440512"
+          ]
+        },
+        "author_id": "1392223750377152516",
+        "conversation_id": "2107706969239011433",
+        "created_at": "2026-10-07T05:37:55.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T06:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107706969239011433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "2098001725835870208",
+              "start": 6,
+              "username": "Ecstasyabuserrr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ffxd0B1jI5",
+              "end": 93,
+              "expanded_url": "https://x.com/FffffNnnnnYyyyy/status/2107706969239011433/photo/1",
+              "media_key": "3_2107706947445440512",
+              "start": 70,
+              "url": "https://t.co/ffxd0B1jI5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107706969239011433",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107706947445440512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "恭喜上期推友@Ecstasyabuserrr，本推底下继续空投「小黄烟」一份🥰，关注转发，评论一下你的日常生活是怎样参与空投，还是两天后开 https://t.co/ffxd0B1jI5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/寻找人生的意义中…@FffffNnnnnYyyyy\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "FffffNnnnnYyyyy"
+              },
+              {
+                "end": 52,
+                "start": 36,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 80,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 57,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107707039023792274",
+        "name": "洛",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149411007991808/1780217819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1753,
+          "following_count": 346,
+          "like_count": 9069,
+          "listed_count": 3,
+          "media_count": 554,
+          "tweet_count": 4270
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-11T21:03:49.000Z",
+        "description": "杀不死我的，只会让我更加强大\n平等交流社区/药物科普/rc出售，此号为备用 \ntg群：https://t.co/s7ixdS58ql\n频道：https://t.co/OGbUPCCmsA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+gjb2OqUsan1jO…",
+                "end": 66,
+                "expanded_url": "https://t.me/+gjb2OqUsan1jOGNl",
+                "start": 43,
+                "url": "https://t.co/s7ixdS58ql"
+              },
+              {
+                "display_url": "t.me/pingjingluo",
+                "end": 93,
+                "expanded_url": "https://t.me/pingjingluo",
+                "start": 70,
+                "url": "https://t.co/OGbUPCCmsA"
+              }
+            ]
+          }
+        },
+        "id": "1392223750377152516",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107706969239011433",
+        "name": "平静屋（rc）",
+        "pinned_tweet_id": "2107453876815437839",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103337723063087105/wGzocPXj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 42,
+          "like_count": 510,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 79
+        },
+        "url": "",
+        "username": "FffffNnnnnYyyyy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-10T10:54:49.000Z",
+        "description": "第一次写自介 我是若 08 | 双相伴混合特征 | 温良 | 药物全肯定 很不会说话但是很温良，有冒犯到的地方实在抱歉🙇‍♀️\n愿望是触碰究极自由哪怕一点 和有机会可以在死去之前实现一次mdma极乐",
+        "id": "2098001725835870208",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107485616850317640",
+        "name": "Ecstasyabuser",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2098001725835870208/1790575045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098003480896274432/fy57aJhr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 27,
+          "like_count": 1465,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 262
+        },
+        "url": "",
+        "username": "Ecstasyabuserrr",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2104294927354167671",
+    "created_at": "2026-09-27T19:39:41.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T20:39:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104294927354167671"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/canabisbrasil/…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/canabisbrasil/status/2103840233335009383",
+          "start": 11,
+          "url": "https://t.co/qvJ5kRVdVe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104294927354167671",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103840233335009383",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的世界做不到系列😿 https://t.co/qvJ5kRVdVe"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25447,
+        "height": 1280,
+        "media_key": "13_2103840203924217856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2103840203924217856/img/jGItu3HH-s5gd-cx.jpg",
+        "public_metrics": {
+          "view_count": 1734828
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103840203924217856/vid/avc1/320x568/7jlDV33vZNCdwpkx.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103840203924217856/vid/avc1/480x852/Gwmkhqy7eiJDfiS2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103840203924217856/vid/avc1/720x1280/k1j1QTX4YszjpalK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2103840203924217856/pl/CJnQkppSyUxkBnr3.m3u8?v=f4f"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2104294927354167671",
+        "created_at": "2026-09-27T19:39:41.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T20:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104294927354167671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/canabisbrasil/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/canabisbrasil/status/2103840233335009383",
+              "start": 11,
+              "url": "https://t.co/qvJ5kRVdVe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104294927354167671",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103840233335009383",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的世界做不到系列😿 https://t.co/qvJ5kRVdVe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2103840203924217856"
+          ]
+        },
+        "author_id": "1535818872758349825",
+        "conversation_id": "2103840233335009383",
+        "created_at": "2026-09-26T13:32:53.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T14:32:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103840233335009383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CCANTfcI44",
+              "end": 52,
+              "expanded_url": "https://x.com/canabisbrasil/status/2103840233335009383/video/1",
+              "media_key": "13_2103840203924217856",
+              "start": 29,
+              "url": "https://t.co/CCANTfcI44"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103840233335009383",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_2103840203924217856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3013,
+          "impression_count": 3121184,
+          "like_count": 23144,
+          "quote_count": 270,
+          "reply_count": 370,
+          "retweet_count": 1512
+        },
+        "reply_settings": "everyone",
+        "text": "Preciso fazer isso em casa 😂 https://t.co/CCANTfcI44"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/寻找人生的意义中……\nrc：@NicoleTravabgk\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 21,
+                "username": "NicoleTravabgk"
+              },
+              {
+                "end": 56,
+                "start": 40,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 84,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 61,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104294927354167671",
+        "name": "洛",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149411007991808/1780217819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1670,
+          "following_count": 343,
+          "like_count": 8795,
+          "listed_count": 4,
+          "media_count": 535,
+          "tweet_count": 4068
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-12T02:58:59.000Z",
+        "description": "💚 @apakinha\n📥 Parcerias via DM \n📸 Insta @cbrasilofc\n🔞 Não vendemos ilícitos\n🏪 Loja On @cbheadshop\n⚕️Embaixador @drsativabr\n🎥 +700K Views no Youtube",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "apakinha"
+              },
+              {
+                "end": 51,
+                "start": 40,
+                "username": "cbrasilofc"
+              },
+              {
+                "end": 97,
+                "start": 86,
+                "username": "cbheadshop"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "drsativabr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/canabisbrasil",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/canabisbrasil",
+                "start": 0,
+                "url": "https://t.co/2X0n2k02Vq"
+              }
+            ]
+          }
+        },
+        "id": "1535818872758349825",
+        "is_identity_verified": false,
+        "location": "Califórnia, USA",
+        "most_recent_tweet_id": "2104285358968193464",
+        "name": "Cannabis Brasil",
+        "pinned_tweet_id": "1773160994417639434",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1535818872758349825/1789679997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100695364906950657/Oua3dMfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239464,
+          "following_count": 150,
+          "like_count": 95323,
+          "listed_count": 271,
+          "media_count": 7606,
+          "tweet_count": 11793
+        },
+        "url": "https://t.co/2X0n2k02Vq",
+        "username": "canabisbrasil",
+        "verified": false,
+        "verified_type": "none",
+        "withheld": {
+          "country_codes": [
+            "AE",
+            "TR"
+          ]
+        }
+      }
+    ]
+  }
+}

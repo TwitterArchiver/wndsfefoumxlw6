@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059149411007991808",
+    "conversation_id": "2105241815238775116",
+    "created_at": "2026-09-30T10:22:16.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T11:22:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105241815238775116"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nininililily/s…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/nininililily/status/2104880515270803841",
+          "start": 9,
+          "url": "https://t.co/R9ZY9b4iQt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105241815238775116",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104880515270803841",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "少羽的老婆叫困困 https://t.co/R9ZY9b4iQt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2104880508111142912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTYJq4SbwAAupTB.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2104880508090134529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTYJq4NbMAEuBUE.jpg",
+        "width": 943
+      },
+      {
+        "height": 1792,
+        "media_key": "3_2104880508102660096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTYJq4QaUAA6clK.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2105241815238775116",
+        "created_at": "2026-09-30T10:22:16.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T11:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105241815238775116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nininililily/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/nininililily/status/2104880515270803841",
+              "start": 9,
+              "url": "https://t.co/R9ZY9b4iQt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105241815238775116",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104880515270803841",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "少羽的老婆叫困困 https://t.co/R9ZY9b4iQt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104880508111142912",
+            "3_2104880508090134529",
+            "3_2104880508102660096"
+          ]
+        },
+        "author_id": "1857483338006802434",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104880515270803841",
+        "created_at": "2026-09-29T10:26:36.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T11:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104880515270803841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BJjcTmq9bh",
+              "end": 57,
+              "expanded_url": "https://x.com/nininililily/status/2104880515270803841/photo/1",
+              "media_key": "3_2104880508111142912",
+              "start": 34,
+              "url": "https://t.co/BJjcTmq9bh"
+            },
+            {
+              "display_url": "pic.x.com/BJjcTmq9bh",
+              "end": 57,
+              "expanded_url": "https://x.com/nininililily/status/2104880515270803841/photo/1",
+              "media_key": "3_2104880508090134529",
+              "start": 34,
+              "url": "https://t.co/BJjcTmq9bh"
+            },
+            {
+              "display_url": "pic.x.com/BJjcTmq9bh",
+              "end": 57,
+              "expanded_url": "https://x.com/nininililily/status/2104880515270803841/photo/1",
+              "media_key": "3_2104880508102660096",
+              "start": 34,
+              "url": "https://t.co/BJjcTmq9bh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104880515270803841",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104880508111142912"
+          },
+          {
+            "media_key": "3_2104880508090134529"
+          },
+          {
+            "media_key": "3_2104880508102660096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 431,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "以前叫泪滴 改名困困 现在叫Nana 同时他是男的装女生找门哥…… https://t.co/BJjcTmq9bh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/寻找人生的意义中……\nrc：@NicoleTravabgk\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 21,
+                "username": "NicoleTravabgk"
+              },
+              {
+                "end": 56,
+                "start": 40,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 84,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 61,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105241815238775116",
+        "name": "洛",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149411007991808/1780217819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1677,
+          "following_count": 343,
+          "like_count": 8848,
+          "listed_count": 3,
+          "media_count": 540,
+          "tweet_count": 4108
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-15T17:58:47.000Z",
+        "description": "帝王正在建立她的王国\n黑夜 白昼 都是王的赐福\n🚪52/88（纯绿\n(˶‾᷄ ⁻̫ ‾᷅˵)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mihuonojiao124",
+                "end": 23,
+                "expanded_url": "https://t.me/mihuonojiao124",
+                "start": 0,
+                "url": "https://t.co/A4Skx0FMLv"
+              }
+            ]
+          }
+        },
+        "id": "1857483338006802434",
+        "is_identity_verified": false,
+        "location": "Shibuya-ku, Tokyo",
+        "most_recent_tweet_id": "2105225906583408880",
+        "name": "めいわく",
+        "pinned_tweet_id": "2104266574471561675",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857483338006802434/1790558625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092909113906970624/zDMZcrt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 70,
+          "like_count": 433,
+          "listed_count": 0,
+          "media_count": 224,
+          "tweet_count": 673
+        },
+        "url": "https://t.co/A4Skx0FMLv",
+        "username": "nininililily",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
